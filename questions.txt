@@ -1,0 +1,2884 @@
+- Was ist die Abgrenzung zwischen Oberem und Unteren Atemweg?
+	* Der Kehlkopf, auch Larynx genannt. Er wird zu den Unteren Atemwegen gezählt, alles darüber ist beim oberen Atemweg
+
+- Wie werden Luftröhre, Kehlkopf, Kehldeckel, Speiseröhre und Rachen mit Fachbegriff genannt?
+	* Trachea, Larynx, Epiglottis, Ösophargus, Pharynx
+
+- Was sind die Aufgaben der Nase?
+	* Befeuchten
+	* Erwärmen
+	* Reinigen
+
+- Wie ist die Nase aufgebaut?
+	* 2 Teile (links und rechts) durch Nasenscheidewand getrennt
+	* 3 Gänge/Muscheln:
+		. Untere Nasenmuschel: Atemgang
+		. Mittlere Nasenmuschel: Sinusgang
+		. Obere Nasenmuschel: Riechgang
+
+
+- Woraus besteht der Larynx und wie ist er aufgebaut?
+	* Besteht aus Knorpeln
+	* Aufbau:
+		. Epiglottis: Verschließt Trachea beim Schlucken
+		. Stimmbänder im Kehlkopf (Engste Stelle im Kehlkopf bei Erwachsenen, Bei Kindern direkt darunter)
+		. Anfang Trachea
+
+- Wie sind die unteren Atemwege aufgebaut
+	* Larynx
+	* Trachea (Hufeisenknorpel nach hinten offen damit Ösophargus platz zum ausdehnen hat)
+	* Hauptbronchien
+	* Bronchien
+	* Bronchiolen
+	* Alveolen (Hier Gasaustausch)
+
+- Was bezeichnet man als anatomischen Totraum? 
+	* Alle Atemwege bis auf die Alveolen, da dort kein Gasaustausch
+
+- Wie sind die Alveolen aufgebaut? Wie funktionieren sie?
+	* Kleine Ballons die von Bronchiolen gefüllt werden -> Expandieren
+	* Umgeben von Kapillarnetz für Gasaustausch durch Diffusion, kommen von Lungenarterie (-O2) führen zu Lungenvene (+O2)
+
+- Wie ist die Lunge selber aufgebaut? Wie kann man sie unterteilen?
+	* 2 Lungenflügel: L, R
+	* L: 2 Lappen (Platz fürs herz)
+	* R: 3 Lappen
+
+- Wie viel Luft Atmet man bei einem Atemzug ein?
+	* 0,5 L, davon 0,15L nur in Totraum
+
+- Wie viel % O2 hat die umgebungsluft? Wie viel die Ausatemluft?
+	* Umgebung: 21%
+	* Ausatem: 17%
+
+- Wie kann der Atemweg sein?
+	* Frei
+	* Gefährdet
+	* Verlegt
+
+- Wann ist der Atemweg gefährdet?
+	* B-Los
+	* Anfang Allergische Reaktion
+	* Anfang Schwellung v. Insektenstich
+	* ...
+
+- Wann ist er verlegt?
+	* Zunge fällt bei bewusstlosen zurück
+	* Zugeschwollen (insekt/allergie)
+	* Bolus (Fremdkörper)
+
+- Was für Kategorien von Maßnahmen gibt es um den Atemweg frei zu halten/frei zu machen?
+	* Einfache Atemwegssicherung (SSL, Esmarch, Kopf Überstrecken)
+	* Atemwegshilfen (Tubus)
+	* Fremdkörperentfernung
+	* Flüssigkeit absaugen
+
+
+- Warum ist bei bewusstlosen der Atemweg gefährdet?
+	* Patient hat keine Schutzreflexe und Muskelspannung mehr -> Zunge kann zurückfallen und A-way verlegen
+	* Außerdem Mageninhalt mögl. nicht mehr in Magen gehalten (regurgitation) -> Fließt heraus und in trachea -> Aspiration 
+
+- Was sind Möglichkeiten für einfache Atemwegsicherung?
+	* Kopf Überstrecken: 
+		. In Rückenlage Atemweg verengt
+		. Kopf wird nach hinten gedreht, dafür 1ne hand auf der stirn, andere drückt am unterkiefer/kinn an
+		. Bereit Atemweg, Spannt Auch zunge
+	* Esmarch:
+		. Auch in Rückenlage
+		. Angewendet wenn überstrecken nicht möglich weil HWS gefährdet
+		. Kiefer nach unten und nach vorne Gedrückt, Hände von Oben am Patienten links und rechts, Finger graifen Kiefer (Nur Knochen!) von unten, Daumen Drückt Unterkiefer weg und öffnet mund
+	* Stabile Seitenlage:
+		. Immer anzuwenden wen Patient B-los ist und gerade keine Maßnahmen durchgeführt werden die Rückenlage erfordern
+		. Mund soll niedrigster Punkt sein -> Mageininhalt bei regurgitation soll abfließen können
+
+- Welche Atemwegshilfen gibt es?
+	* Guedeltubus
+	* Wendltubus
+	* Larynxtubus
+	* Endotrachealtubus
+
+- Was ist der Guedeltubus?
+	* Eine Röhre welche wenn eingesetzt von mund bis zum pharynx führt und die Zunge zurückhält
+
+- Wann setzt man einen Guedeltubus? Wann nicht?
+	* Über 8 Jahre
+	* Bewusstlos (Keine Würgereflexe!!)
+
+- Wie wählt man die richtige Größe von Guedeltubus?
+	* Anlegen des Tubus außen am Gesicht des Patienten: Soll von Mund bis Ohrläppchen reichen
+
+- Wie wird der Guedeltubus gesetzt?
+	* Zuerst mit beigung nach oben ohne Spray eingeführt bis Widerstand, dann nach unten gedreht 
+
+- Was ist der Wendltubus?
+	* Röhre die von der nase bis in den Rachen führt
+
+- Wann? Wann nicht?
+	* Eingetrübt, möglw. noch Würgereflex vorhanden
+	* Nicht wenn: 
+		. Reanimationspflichtig
+		. Verletzungen im Gesichtsschädel
+		. nicht Erwachsen
+
+- Wie ist vorzugehen wenn eine nicht person nicht auf ansprache oder berührung reagiert (bewusstlos ist)? 
+	* Brust entblößen (so das Atembewegungen erkennbar sind -> T-Shirt ok)
+	* Atemcheck: Kopf überstrecken, 10s Hören, sehen, Fühlen
+		. keine Atmung/ineffektive atmung: Reanimieren
+	* Stabile Seitenlage!
+	* 15L O2 über MASKE
+	* Notarzt!
+	* SpO2, HF, RR, BZ, T messen und Überwachen
+	* Auf 97% zielsättigen
+	* Reanim. Bereitsch (Defi, Beatmungsbeutel, Absaugeeinh)
+	* Bodycheck
+	* !!!Wärmeerhalt!!!
+
+- Wie saugt ein RS ab?
+	* Immer nur auf sicht (so tief ie wie guedeltubus)
+	* Kein UDruck beim Reingehen, UDruck beim Rausnehmen d. Katheters
+	* Kathetergrößen absteigend: Wie ampel (rot gelb grün schwarz[erde])
+	* Achtung bei Würgereflex
+
+- Wie passiert eine FK-Verlegung meistens?
+	* Beim Essen
+	* Oft von anderen Beobachtet
+
+- Was tun wenn patient nicht ansprechbar beim Eintreffen der Rettung?
+	* Sofort NA alamieren und Reanimation (mit mundraumkontrollen vorm beatmen) starten
+
+- Wie lässt sich die Atemwegsverlegung allgemein einteilen?
+	* Leichte A-verleg.:
+		. effektives husten (luft kommt noch durch)
+		. -> Anregen zum husten, leichte Rückenschläge
+		. kein NA notwendig
+	* Schwere A-verleg. (ineffektives husten)
+
+- Was tun bei einer Schweren A-verleg?
+	* NA Alamieren
+	* 5 Rückenschläge (patient nach vorne gebeugt zwischen die Schultern fest durchziehen, auf WS aufpassen)
+	* 5 Oberbauchkompressionen (hinter patienten gehen u ruckartig unter den rippen nach oben drücken) [Sobald min eine Oberbauchkomp. durchgeführt wurde ist der Patient immer zu hospitalisieren!!! (Organschäden mögl)]
+
+- Was tun wenn der Patient bewusstlos wird?
+	* Reanimieren! (immer vor Beatmung mundraumkontrolle!)
+
+- Wodurch könnte eine Schwellung der Atemwege verursacht werden?
+	* Insektenstiche
+	* Anaphylaxie
+	* Infektionen
+
+- Was ist zu tun falls eine SChwellung atemnot verursacht?
+	* O2
+	* Vitalzeichen kontrollieren
+	* immer NA
+	* Von Außen Kühlen
+	* Möglw. Allergene entfernen, etc.
+
+- Was ist ein Tracheostoma?
+	* Künstlicher Zugang zur Luftröhre im Kehlkopf unter den Stimmbändern
+
+- Was sind Ursachen für eine Verlegung der Tracheostomas?
+	* Meist SChleim
+
+- Was tun?
+	* Notarzt
+	* OK erhöht lagern
+	* Tracheostoma Aussaugen
+	* O2 druch Anhalten v Makse ans tracheostoma verabreichen
+	* Atemstillstand: CPR (Beatmung mit Babymaske)
+
+- Wie viele Rippen hat der Mensch?
+	* 12 Paare, davon
+		. 7 echte Rippen (1-7)
+		. 5 unecte Rippen, davon (8-12)
+			~ 2 fliegende Rippen (11,12)
+
+- Was unterscheidet "echte" von "unechten" rippen? 
+	* Echte sind direkt mit dem Brustbein (Sternum) verbunden, während 7-10 nur mit über andere Rippen und 11,12 garnicht mit dem sternum verbunden sind.
+
+- Warum sind 11,12 fliegende Rippen?
+	* Weil sie nicht teil des geschlossenen Brustkorbs sind, sie verbinden weder direkt noch indirekt zum sternum
+
+- Woraus bestehen die Rippen?
+	* Knochen die aus der Wirbelsäule entspringen und dann in Knorpel übergehen die zum Sternum verbinden (damit sich der Brustkorb auch ausdehnen kann)
+
+- Wie erden Die Räume zwischen den Rippen genannt? Wie viele gibt es?
+	* Sie heißen Zwischenrippenräume oder Intercostalräume und es gibt 9 pro seite
+
+- Wo findet man das Atemzentrum?
+	* Verlängertes Mark
+
+- Was ist die Aufgabe des Atemzentrums?
+	* Steuert die Atemfrequenz, Atemtiefe, ... in Reaktion auf gewisse werte
+
+- Welche Werte nimmt das Atemzentrum in erwägung beim bestimmen der Atemfrequenz/ -tiefe?
+	* Blut-02-gehalt, Blut-Co2-gehalt, Blut-pH
+
+- Was ist der für Menschen normale BLut-pH?
+	* 7.35-7.45
+
+- Wie nennt man es wenn es zu sauer/basisch wird?
+	* Azidose/Alkalose
+
+- Was sind die pH grenzen welche sicher Tödlich sind wenn überschritten?
+	* 6.8 / 8.0
+
+- Wodurch könnte der pH wert im blut außer kontrolle geraten?
+	- respiratorische 
+		. Azidose: zu wenig Atmung -> zu viel CO2 im Blut -> zu viel Kohlensäure -> pH sinkt
+		. Alkalose: zu viel Atmung (Hypervent.) -> zu wenig CO2 im Blut -> zu wenig Kohlensäure -> pH steigt
+	- metabolische
+		. Azidose: Milchsäuregärung im dekompensierten Schock, Hyperglykämie führt zu Ketoazidose -> pH sinkt
+		. Alkalose: Magensäureverlust -> weniger Säure -> pH steigt
+
+
+- Wie kann der pH wert im Blut wieder normalisiert werden?
+	* bei einer respiratorischen Azidose/Alkalose versucht der Stoffwechsel im Körper den pH wert auszugleichen
+	* bei einer metabolsichen (vom Stoffwechsel ausgelösten) Azid/Alka wird die atmung verlangsamt/beschleunigt um es respiratorisch zu kompensieren
+
+- Welche 2 Teile der Pleura werden unterschieden?
+	* Brustfell (an den Rippen)
+	* Lungenfell (an der Lunge)
+
+- Was ist der Pleuraspalt?
+	* Raum zwischen Brust- und Lungenfell, gefüllt mit Flüssigkeit mit Unterdruck -> Lungenfell folgt bewegungen des Rippenfells
+
+- Wie nennt man den Einatem/Ausatemprozess mit Fachbegriff?
+	* Inspiration/Expiration
+
+- Welcher der beiden ist normalerweise aktiv?
+	* Inspiration
+
+- Welche Muskeln machen die Atemmuskulatur aus?
+	* Zwischenrippen, Zwerchfell
+
+- Atemhilfsmuskulatur?
+	* Schultergürtel Halsmuskeln, ...
+
+- Wie funktioniert das Einatmen?
+	* Atemmuskeln angespannt (Rippen nach außen (durch äußere Zwischenrippenmuskulatur), Zwerchfell strafft sich -> nach unten)
+
+- Ausatmen? 
+	* Atemmuskeln entspannen; normalerweise rein passiv kann aber willkürlich aktiv getan werden -> innere Zwischenmuskulatur spannt an (antagonist zur äußeren)
+
+- Welche 2 Arten der Atmung unterscheidet man?
+	* Innere (Zellen gasaustausch mit BLut) und Äußere (blut gasaustuasch mit luft in alveolen)
+
+- Was ist der normbereich der Atemfrequenz bei Erwachsenen?
+	* 12-20/min
+
+- -//- bei Neugeborenen?
+	* 40-60/min
+
+- -//- kindern?
+	* 16-20/min
+
+- Wie sagt man wenn die AF außerhalb des Normbereichs liegt?
+	* Tachy (zu schnell) / Bradypnoe (zu langsam)
+
+- Wie sagt man wenn jemand schwierigkeiten beim Atmen hat?
+	- Dyspnoe
+
+
+- Wie lässt sich die Atmung beurteilen?
+	* Atemfrequenz
+	* Atemtiefe
+	* Atemarbeit -> Hat schwierigkeiten beim Atmen? Verwendet Atemhilfsmuskulatur (vorgebeugt?) 
+	* Atemgeräusche -> abnormale Geräusche beim atmen: beim einatmen/ausatmen -> inspiratorisch/expiratorisch ... Stridor (Pfeifen), Rasseln, Brodeln
+	* Zyanose
+	* SpO2
+	* Qualität / Atemmuster
+
+- Was sind die wichtigsten Atemmuster?
+	- normale Atmung 12-20/min
+	- Atemdepression (-AF, -Atemtiefe) -> Symptom von Opiat-OD
+	- Kußmaul Atmung
+	- Biot-Atmung
+	- Cheyne-Stokes-Atmung
+
+- Was ist die Kußmaul-Atmung?
+	* Tiefere Atmung, evtl. auch schneller
+	* Möglw. Respiratorische Kompensation für metabilische Azidose (Hyperglykämie)
+
+- -//- Biot-Atmung?
+	* Immer wieder sekundenlange Atempausen
+	* Kann Symptom für erhöhten Hirndruck sein
+	* Atemzentrum kann evtl nicht mehr auf CO2-Gehalt reagieren, nur O2 -> O2 ok -> hört auf zu Atmen obwohl CO2 nicht ok
+
+- -//- Cheyne-Stokes-Atmung?
+	* So wie Biot, nur stark beschleunigt
+	* Kann Symptom für Schlaganfall, Hirntumor, CO-Vergiftung sein
+
+- Was ist eine Zyanose?
+	* Blaufärbung der Haut weil zu wenig O2 im blut (Wenn hämoglobin nix gebunden hat schimmert es blau, sonst rot)
+
+- Welche formen der Zyanose unterscheidet man
+	* Zentrale
+	* Periphere
+
+- Woran erkennt man Zentrale/Periphere Z. + wodurch wird sie ausgelöst?
+	* Zentrale
+		. erkennbar an 
+			~ Mundschleimhaut
+			~ Zunge
+			(~ Lippen)
+		. AUsgelöst durch ein A/B-Problem -> Lungen-Problem -> Lunge kann nicht genug O2 aufnehmen
+	* Periphere
+		. erkannbar an
+			~ Finger/Zehen			
+			~ Hände
+			~ Nase
+			~ Andere Extremitäten
+		. ausgelöst durch erhöhte O2-Ausschöpfung in peripherie -> zu wenig Blutfluss -> C-Problem (Herzinsuffizienz, Hypovlämer Schock, ...)
+
+
+- Sind beide Formen gleichzeitig möglich?
+	* JA
+
+- Was misst das Pulsoxymeter?
+	* Herzfrequenz und Sauerstoffsättigung
+
+- Wie funktioniert das Pulsoxymeter?
+	* Es schickt 2 Lichter mit 2 Unterschiedlichen Wellenlängen durch den Finger. Auf der anderen Seite trifft das Licht auf einen Sensor wo eine Spektralanalyse durchgeführt wird. Da gebundenes Hämoglobin andere Wellenlängen absorbiert als ungebundenes lässt sich daraus ein Wert errechnen
+
+- Was sind typische Fehlerquellen beim Pulsoxymeter?
+	* SChmutzige/Lackierte Fingernägel
+	* Schlechte Periphere Durchblutung (Schock, kälte, ...)
+	* Patient bewegt sich zu viel
+	* CO!! weil CO-gebundenes Hb absorbiert auch gleiche Wellenlängen wie O2-Gebundenes Hb 
+	* Helles umgebungslicht
+
+- Wie misst das Pulsoxymeter die Herzfrequenz?
+	* Es errechnet sie indirekt aufgrund des Blutvolumens in den Kapillaren
+
+- Welche Maßnahmen kann man generell setzen wenn man ein B Problem vermutet?
+	* O2-Gabe
+	* OK Erhöht Lagern (Atemmuskulatur wird aktiviert)
+	* Beatmung
+
+- Wie kann man O2 verabreichen?
+	* Brille (<4L/min)
+	* Maske (>6L/min)
+	* Sauerstoffdusche (Maske 1cm über Patienten halten)
+
+- Welche Arten der Beatmung gibt es?
+	* Assistierte Beatmung:
+		. Selbständige Atmung des Patienten nicht suffizient, dh wird Nachgeholfen
+		. Patient bestimmt wann er ein/ausatmet
+		. aber maschine/(mensch) hilft nach -> drückt mehr Luft hinein
+		. Sehr schwer zu timen, dh meist nur an der Maschine
+	* Kontrollierte Beatmung:
+		. Patient atmet gar nicht mehr von alleine -> Reanimationspflichtig!!!
+		. Atem-timing und Atem-tiefe von außen "kontrolliert"
+		. Ambubeutel
+	* Maschinelle Beatmung
+		. Ventilator
+
+
+- Wann ist eine Große Flasche am Auto zu wechseln?
+	* Falls nur 1ne Flasche am Auto: <70 bar
+	* Falls 2: <10 bar
+
+- Wann die kleine im Oxybag?
+	* <50 bar
+
+
+- Wie nennt man astma mit Fachbegriff?
+	* Astma bronchiale
+
+- Was ist Asthma?
+	* chronische entzündbarkeit der unteren Atemwege
+	* dauerhaft Überempfindlich
+	* Häufig ab Kindheit/Jugend
+	* Ausgelöst durch extrinsische (von außen kommende -> allergene) oder intrinsische (andere) Faktoren
+	* Mit guter Medikamenteneinstellung meist komplett beschwerdefrei
+
+- Was ist ein akuter Asthma anfall?
+	* Plötzliche Verengung der Atemwege bei einem Asthma Patienten
+
+- Durch was kann ein Anfall ausgelöst werden?
+	* Allergene
+	* Infekte
+	* Körperliche Antrengung
+	* Feinstaub
+	* Kalte/Trocjente Luft
+	* Meds
+	* Psychische Faktoren
+	* ...
+
+- Welche genauen Faktoren führen bei einem Anfall zu einer Verengung der Atemwege?
+	* Bronchospasmus -> unwillkürliches Zusammenziehen der Muskeln welche die Bronchien umgeben -> verengung
+	* SChleimhautödem -> Schwellung der Schleimhaut in den Bronchien durch Flüssigkeit -> weitere verengung
+	* Hypersekretion -> ganz viel sekret wird abgegeben -> noch verengter
+	* Schleim wird dickflüssiger -> nicht abhustenbar
+
+- Wofür steht COPD?
+	* Chronic Obstructive Pulminary Disease, Chronisch obstruktive Lungenerkrankung
+
+- Was sind die tatsächlichen Probleme die unter COPD vorkommen?
+	* chonische Bronchitis -> Entzündung der Bronchien -> produktives Husten, verengte Bronchien
+	* Emphyseme -> Überausdehnung und Schädigung der Alveolen -> Verlieren stark an elastizität -> Ausatmen weniger effektiv
+
+- Was sind Risikofaktoren für COPD?
+	* Hauptsächlich Rauchen
+	* begünstigend sind auch
+		. feinstaub
+		. chemikalien
+		. wiederkehrende (rezividierende) Infekte
+
+- Mit welchem Lebensalter tritt COPD normalerweise frühestens auf?
+	* 40 j
+
+- Wie lässt sich COPD einteilen?
+	* Je nach stärke durch GOLD-Skala
+		. Einteilung durch Spirometrie-Test -> 1-4 nach schwere aufsteigend
+		. Einteilung nur durch Symptomatik -> A-D nach schwere aufsteigend
+
+- Was sind die Beschwerden bei COPD?
+	* Husten mit Auswurf
+	* Dispnoe (je nach GOLD nur bei Belastung oder auch in Ruhe)
+	* Müdigkeit, Abgeschlagenheit
+
+- Wie nennt man eine Akute Verschlechterung von COPD?
+	* COPD- Exacerbation
+
+- Was löst eine Exacerbation aus?
+	* meist Infekte d Atemwege (Pneumonie), manchmal auch Überanstrengung
+
+
+- Was sind die Symptome von Asthmaanfall/COPD-E?
+	* Dyspnoe
+	* Tachypnoe
+	* Erhöhte Atemarbeit
+	* Expiratorischer Stridor
+	* Husten
+	* Zyanose
+	* Blässe
+	* Kaltschweißig
+	* Tachykardie
+
+- Was sind zu setzende Maßnahmen bei Asthma-Anfall/COPD-E?
+	* Notarzt
+	* OK Erhöht lagern -> Atemmuskulatur einsetzen
+	* 6L O2 geben
+	* Vitalwerte ständig überwachen
+	* Zielsättigung 
+		. Asthma: 92-95%
+		. COPD: 88-92%
+	* Bewegungsverbot, auch Patienten sagen er soll sich nicht bewegen
+	* Reanimationsbereitschaft
+
+- Warum ist bei COPD die Zielsättigung nur 92%?
+	* Körper an erhöhten CO2 gehalt gewöhnt -> regelt nur über O2 -> genug O2 -> hört auf zu atmen -> CO2 viel zu hoch
+
+- Was ist ein Lungenödem?
+	* Ansammlung von Flüssigkeit im Lungengewege und in den Alveolen
+
+- Welche arten von Lungenödemen unterscheidet man und wie entstehen sie?
+	* Hypertensives Lungenödem
+		. Generell erhöhter Blutdruck
+		. Blutdruck auch in Lungenkreislauf erhöht
+		. Drückt Flüssigkeit durch Kapillarwand
+	* Kardiales Lungenödem
+		. Linksherzinsuffizienz
+		. Blut staut in Lungenkreislauf zurück
+		. Lungenkreislaufdruck steigt
+		. Flüssigket wieder durch Kapillarwände gedrückt
+	* toxisches Lungenödem
+		. Ausgelöst durhc Rauch/Reizgase
+		. Alveolen geschädigt -> Flüssigkeitsdurchtrutt
+		. Symptomfreies intervall (bis zu 24h nach kontakt mit gas)
+
+- Symptome für Lungenödem
+	* Dyspnoe
+	* Tachypnoe
+	* Brodelndes Atemgeräusch
+	* Schaumige, rot/pinke Flüssigkeit hochgehustet
+* Blass/kaltschweißig
+* Möglw. Bewusstseinstrübung	
+* KEINE ATEMABHÄNGIGEN SCHMERZEN??
+
+- Maßnahmen bei Lungenödem?
+	* Notarzt
+	* Sauerstoff 15 bis SpO2 97%
+	* OK Erhöht lagern
+	* Vitalwerte überwachen
+	* Wärmeerhalt
+	* Reanimationsbereitschaft
+
+- Was ist eine Lungenembolie?
+	* Verlegung der Blutstrombahn durch die Lunge
+
+- Wodurch wird eine Lungenembolie verursacht?
+	* Blutgerinsel (entsteht bei Venösen Verschluss in den Beinen, Löst sich und Bleibt in Lungenkapilaren stecken)
+	* Manchmal auch
+		* Fett
+		* Luft (wenn Luft in spritze/IV)
+		* Fruchtwasser
+
+- Symptome der Lungenembolie?
+	* Atemabhängige Brustschmerzen (v.a. beim Einatmen)
+	* niedrige SpO2
+	* Dyspnoe
+* möglw. Zyanose
+	* Bluthusten
+	* Blass, kaltschweißig
+	* Tachykardie
+	* Todesangst, UNruhe
+	* Möglw. Symptome Venöser Verschluss im Bein
+
+- Was sind die Folgen bei einer Lungenembolie?
+	* Hypoxia
+	* Rechtsherzinsuffizienz (Rechte Herzkammer kann blut nicht mehr durchdrücken weil weg verstopft)
+
+- Was sind Risikofaktoren für eine Lungenembolie?
+	* Risikofaktoren Venöser Gefäßverschluss
+	* An Infusion hängend
+- Was sind die Maßnahmen bei einer Lungenembolie?
+	* Lagerung mit erhöhtem Oberkörper (außer eingetrübt dann ssl)
+* 15L O2 bis auf 97% Zielsättigen
+* Vitalzeichen überwachen
+* Notarzt
+* Reanimationsbereitschaft
+* Bewegungsverbot
+* Wärmeerhalt 
+
+- Was ist eine Lunngenentzündung?
+	* Entzündung der Lunge (AHAHHA)
+
+- Wie nennt man eine Lungenentzündung noch?
+	* Pneumonie
+
+- Was kann eine Lungenentzündung auslösen?
+	* Infektion (meist Baktierien wie Pneumokokken)
+	* Aspiration (Erbrochenes, Nahrung)
+
+- Wer ist besonders gefährdet für Lungenentzündungen?
+	* Alte Menschen
+	* Vorerkrankungen (zb COPD)
+	* Bettlägrige
+	* Immuno-compromised
+
+- Was sind die Typischen Symptome einer Lungenentzündung?
+	* Dyspnoe
+	* erhöhte Atemfrequenz
+	* Atemabhängige Brustschmerzen
+	* Möglw. brodelndes Atemgeräusch
+	* Fieber
+	* Husten mit auswurf (wenn gelb -> bakterien, klar -> viren)
+	* Schüttelfrost
+	* Möglw. Bewusstseinstrübung wegen hohem Fieber
+
+- Bei welchen Patienten sind atypische Verläufe häufig?
+	* Alten menschen
+
+- Wie schauen diese Atypischen Verläufe aus?
+	* Viele Symptome können teilweise oder ganz fehlen
+	* Oft nur schlechterer Allgemeinzustand
+
+- Was ist zu tun bei einer Lungenentzümdung?
+	* Erhöhter OK -> Atemhilfmuskulatur
+	* 6L initial O2
+	* Vitalwerte Kontrollieren
+	* Notarzt je nach Patientenzustand
+
+- Was ist das Hyperventilationssyndrom?
+	* Unwillkürlich stark erhöhte Atemfrequenz und Tiefe
+
+- Was sind Auslöser des Hyperventilationssyndrom?
+	* psychische Faktoren wie Angst/Aufregung
+
+- Was sind mögliche Komplikationen von Hyperventilation?
+	* wegen erhöhter Atmung zu viel CO2 abgeatmet -> respiratorische Alkalose
+
+- Was ist bei der Diagnose von Hyperventilation zu beachten?
+	* Andere Diagnosen zuerst ausschließen, z.B. Hyperglykämie (Acetongeruch in ausatemluft) -> BZ messen
+	* Beschleunigte, aber nicht vertiefte atmung auch bei
+		. Hohem Fieber
+		. Hypoxie (Asthma-Anfall, COPD-E)
+		. Schonatmung
+
+- Was sind die Symptome von Hyperventilation?
+	* subjektive Dyspnoe
+	* schnelle, tiefe Atmung
+	* Kribbeln in Händen
+	* Taube Lippen/Zunge
+	* Tetanie (Muskelverkrampfung) 
+		. in Unterarmen -> symmetrische Pfötchenstellung 
+		. des Munds -> Karpfenmund
+	* Kopfweh, Schwindel, Sehstörungen
+
+- Maßnahmen bei Hyperventilation?
+	* Zuerst versuchen Patienten zu beruhigen
+	* "Nur eine Harmlose störung"
+	* Angeleitetes Atmen
+	* Rückatmung der Ausatemluft (O2 Maske nicht anschließen)
+	* Wenn nix funktioniert: NA Rufen
+
+- Was ist zu beachten bevor der Patient rückatmet?	
+	* Andere Diagnosen Ausschließen: BZ messen (Schließt aus Hyperglykämie)
+
+- Was sind typische Gasvergiftungen?
+	* CO
+	* CO2
+	* Rauch/Reizgase
+
+- Was ist wichtig bei Verdacht auf Gasvergiftung?	
+	* Selbstschutz!
+	* MA70 über Journal verständigen lassen -> Feuerwehr und Einsatzfahrzeuge zur behandlung von uns JUH und anderen leuten in umgebung kommen
+	* NA wenn nötig muss extra angefordert werden!
+
+- Welche infos sollen an diw MA70 weitergegeben werden?
+	* Bei CO: Messwert am display
+	* Größe des Wohnhauses
+		. wie viele stockwerke
+		. wie viele wohneinheiten 
+
+- Wie entsteht CO? Was sind häufige quellen?
+	* Verbrennung mit zu wenig O2
+	* Alte Gasthermen
+	* Wohnungsbrände
+	* SHisha
+	* Pelletlager
+
+- Was sind wichtige eigenschaften von CO? warum ist es gefährlich?
+	* Farblos
+	* Geruchlos
+	* Diffundiert durch wände
+	* Ähnlich schwer wie O2 -> vermischt sich gut 
+	* Bindet 200x stärker an Hb als O2
+
+- Welche Kategorien von Symptomen treten meist bei CO-Intox in Kombi auf?
+	* Neurológisch
+	* Kardial
+
+- Was sind Symptome einer CO-Intoxikation?
+	* Neurologische
+		. Kopfweh
+		. Schwindel
+		. Übelkeit
+		. Sehstörungen
+		. Bewusstseinseintrübung
+	* Kardiale
+		* Brustenge (AP)
+		* Tachykardie
+	* Pulsoxy zeigt falsche hohe werte an (kann nicht zwischen CO und O2 unterscheiden)
+	* Blasse Hautfarbe (keine Zyanose), bei sehr hoher Belastung evtl. leicht rosig
+
+- Was sind die Grenzen beim CO Messgerät? Welche Maßnahmen sind zu ergreifen?
+	* >30ppm: Alarmgrenze 1
+		. Fenster auf
+		. Wenn möglich mit Patient weggehen
+	* >60ppm: Alarmgrenze 2
+		. Sofort Ort verlassen
+		. Crashrettung nur wenn möglich: Wenn patient am weg mitnehmen und so schnell wie möglich raus
+
+- Was heißt OL am display?
+	* OVER LIMIT -> >300ppm SOFORT RAUS!!!!!!!!!!!
+
+- Welche Maßnahmen sind zu ergreifen bei einer CO Intox?
+	* Lagerung
+		. wenn B-los: SSL
+		. sonst OK erhöht
+	* 15L O2 -> CO rausspülen
+	* Vitalzeichen je nach Patientenzustand Kontrollieren oder ständig überwachen
+	* Bewegungsverbot
+	* Notarzt je nach Zustand 
+
+- Wie entsteht CO2? Wo treten manchmal gefährliche Konzentrationen auf?
+	* Verbrennungs und Gährprozesse
+	* Weinkellern
+	* Silos
+	* Güllegruben
+	* ...
+
+- Was sind wichtige Eigenschaften von CO2?
+	* Farblos
+	* Geruchlos
+	* Ungiftig
+	* Schwerer als Luft -> sammelt sich in bodennähe an (keller); kann aber verwirbelt werden und sich so ausbreiten
+
+- Symptome CO2-Intox?
+	* Schläfrigkeit
+	* Schwindel
+	* Kopfweh
+	* Dyspnoe
+	* Zyanose
+	* Tachykardie
+	* Krämpge
+	* Bewusstseinstrübung bis B-los (kann sofort passieren bei sehr hohen Konzentrationen)
+- Maßnahmen CO2-Intox?
+	* MA70
+	* Nur Feuerwehr darf patienten holen
+	* Lagerung nach zustand
+		. B-los: SSL
+		. OK erhöht
+	* O2 je nach SpO2 -> (Ziels. >95%?)
+	* Kontrolle/Überwachung d. Vitalzeichen je nach Zustand
+	* Bewegungsverbot
+	* NA je nach Zustand
+
+- Wo treten Rauch oder Reizgase möglicherweise auf?
+	* Brände
+	* Chlor: Schwimmbäder
+
+- Was sind Symptome für Rauch/Reizgasintox?
+	* Rußpartikel um Mund
+	* Husten
+	* Dyspnoe
+	* Rote/trändende Augen
+	* Hypoxie
+	* zeitverzögert toxisches Lundenödem
+
+- Maßnahmen Rauch/Rezigasintox?
+	* MA70
+	* Bergung nur durch Feuerwehr
+	* Lagerung nach patientenzustand
+		. B-Los: SSL
+		. Sonnst OK erhöht
+	* O2 je nach SpO2
+	* Kontrolle/Überwachung Vitalz. je nach Zustand
+	* NA je nach Zustand
+	* Bewegungsverbot
+
+
+- Wodurch kommt es zu einer Rippenfraktur/Prellung?
+	* Stumpfe Gewalteinwirkung	
+
+- Wie kann eine Rippenfraktur von einer -prellung unterschieden werden?
+	* Präklinisch meist nur sehr schwer
+
+- Was sind Symptome eines solchen Thorax-Traumas?
+	* starke stechende Atemabhängige Brustschmerzen
+	* Hämatome
+	* Schonatmung
+	* Druckempfindlichkeit
+
+- Was ist die größte Gefahr bei Thoraxtraumas im bereich der Unteren rippen?
+	* Verletzungen von Organen im Bauchraum wie Milz, Niere, Leber
+
+- Wann spricht man von einer Serienrippenfraktur?
+	* > 2 Anliegende Rippen oder
+	* > 3 Rippen
+
+- Was sind Symptome einer Serienrippenfraktur?
+	* Paradoxische atmung im betroffenen Bereich -> zu wenig O2
+	* Zyanose
+	* Dispnoe
+	* Alles von Rippenfraktur
+
+- Was ist ein Pneumothorax?
+	* Kompletter oder Teilweiser Kollaps eines Lungenflügels
+	* Pleura geöffnet -> Unterdruck ausgeglichen -> Lungenflügel kollabiert und fällt für atmung aus
+
+- Welche Kategorien von Pneumothorax gibt es?
+	* Geschlossen
+		. spontan
+	* Offen
+	* Spannungspneumothorax
+
+- Wie kommt ein geschlossener Pneumothorax zustande
+	* Lungenfell verletzt (z.B. durhc gebrochene Rippe)
+	* Luft strömt von Lunge in Pleuraspalt
+	* Spontaner Pneum.:
+		. im Wachstom manchmal einfach Riss des Lungenfells
+
+- Wie ein offener?
+	* Rippenfell von außen durchstoßen (Stich-, SChusswinde, ...)
+	* Außenluft gelangt in Pleuraspalt
+
+- Wie ist die Wunde eines offenen Pneumothorax zu versorgen?
+	* Sterile Wundauflage darauf und an 3 der 4 Seiten mit Leukoplast fixieren, darf aber nicht Luftdicht sein, sonst Spannungspneum. möglich!!
+
+- Was sind Symptome eines Pneumothorax?
+	* Dyspnoe
+	* Tachypnoe
+	* Nicht-Seitengleiche Atmung
+	* Atemabhängiger stechender Schmerz
+
+
+- Wie nennt man die Trennwand zischen den beiden Lungenflügeln? 
+	* Mediastinum
+
+- Was passiert bei einem Spannungspneum.?
+	* Immer mehr Luft strömt beim Einatmen in Pleuraspalt, öffnung verschließt sich beim ausatmen
+	* Druck im Pleuraspalt wächst an
+
+- Was sind die Symptome eines Spannungspneum.?
+	* Dyspnoe
+	* Zyanose
+	* Tachypnoe
+	* Asym. Atembewegungen
+	* Hautemphysem (Gas unter der Haut)
+		. Schwellungen
+		. Unter "Schneeballknirschen" wegdrückbar
+	* Blutdruckabfahl weil nicht mehr so viel Blut zu Herz fließen kann
+	* Halsvenenstauung
+	* Verschiebung der Trachea zur gesunden Seite (sehr spät)
+	* Mediastinum zur Gesunden seite verlagert ->
+		. Hohlvenenkompression -> weiterer RR abfall
+		. massive Atemnot (keiner der Beiden Lungenflügel funktioniert noch gut)
+		. Gefahr auf Pneumothorax beim gesunden Lungenflügel
+	* bei offenen Spannungspneum. zusätzlich möglich:
+		. Schaumiges Blut aus der Wunde
+		. atemsynchrones saugendes Geräusch
+
+- Was tun bei Spannungspneu?
+	* SSL
+	* Absaugen von Blut bei Verletzungen
+	* 15L O2
+	* Vital städnig überwachen
+	* Notarzt
+	* Bodycheck
+	* Reanimationsbereitschaft
+	* Wärmeerhalt
+
+- Beschreibe den Weg den das Blut nimmt, ausgehend von der Lunge
+	1. Sauerstoffreiches Blut fließt über die Lungenvene in den linken Vorhof
+	2. Linke Kammer
+	3. Aorta transportiert Blut in den Körperkreislauf
+	4. Im Körper gibt BLut O2 ab
+	5. Blut fließt über venen zu rechtem Vorhof
+	6. Rechte Kammer
+	7. Lungenarterie
+	8. Blut nimmt in Lungenkapillaren O2 auf
+	9. wieder 1.
+
+- Wie viel Blut hat ca ein Erwachsener?
+	* 5-6L
+	* 70 ml/kg Körpergewicht
+	* 10 mal das Atemvolumen hahaha
+
+- Wie viel Blutverlust ist akut lebensgefährlich?
+	* >1L
+
+- Was sind die Aufgaben des Bluts?
+	* Transport von Nährstoffen, Gasen, Hormone, Abfälle
+	* Flüssigkeitshaushalt
+	* Wundverschließung
+	* pH Gehalt regeln
+	* Infektionsabwehr
+
+- Was sind die 3 wichtigsten Zellentypen im BLut?
+	* Erythrozyten: ROte BLutkörperchen, Transpotieren O2 (Hb)
+	* Leukozyten: Weiße BK, Imunabwehr
+	* THrombozyten: Blutplättchen, gerinnung
+
+- Welche 2 Komponenten führen zur Blutgerinnung?
+	* Gerinnungsfaktoren (Proteine)
+	* Blutplättchen (Thrombozyten0)
+
+- Wie sind Arterien aufgebaut?
+	* außen glatte Muskelzellen
+	* Elastische Fasern
+	* Endothelzellen
+
+- Was sind die aufgaben der Kapillaren?
+	* Gasaustausch und Stoffaustausch mit der Zelle
+
+- Warum ist die Venenwand dünner als die Arterienwand?
+	* Niedriger blutdruck (nur so 10 mmHg)
+
+- Welche Mechanismen bewegen das Blut in den Venen trotz niedrigem Blutdruck?
+	* Muskelpunpe kontrahiert teile des gefäß -> Drückt blut nach oben und unten
+	* Venenklappen verhindern Rückfluss -> Blut kann nur nach oben fließen
+
+- Wie heißen Hals-, Speichen-, Oberarm-, Oberschenkel- und Fußrückenarterie auf Latein?
+	* A. Carotis
+	* A. Radialis
+	* A. Brachialis
+	* A. Femoralis
+	* A. dorsalis pedis 
+
+- Wie heißen Hohl- und Oberschenkelvene auf latein?
+	* V. cava
+	* V. femoralis
+
+- Welche informationen können beim Puls-tasten erfasst werden?
+	* Tastbar peripher/zentral/garnicht
+	* Leicht/Stark
+	* Frequenz
+	* Rhytmisch/Arrhytmisch
+
+- Was bezeichnet man als Schock?
+	* Durchblutungsproblem -> O2-Mangel der Organe
+	* Kann bis zu Zelltod führen
+	* Lebensbedrohlich
+
+- Was sind 3 möglichkeiten die zu einem massiven Durchblutungsproblem und damit zum Schock führen können?
+	* absoluter Volumensmangel (zu wenig Blut im Kreislauf; Blutverlust): absoluter hypovolämer Schock
+	* relativer Volumensmangel (Gefäße zu weit festellt, z.B. anaphylaxie): relativer hypovolämer Schock
+	* Herzstörung (z.B. ausgedehnter MCI): kardiogener Schock
+
+- Wie reagiert der Körper im Schock?
+	* Sympathicus wird aktiv ->
+	* Adrenalin
+
+- Was bewirkt Adrenalin?
+	* AF erhöht
+	* Bronchien erweitert
+	* Zentralisierung (Periphere Gefäße enggestellt)
+	* +HF
+	* +Schlagkraft
+	* Zuckermobilisierung
+
+
+- Welche 3 Stadien lässt sich Schock einteilen? Wie schauen die aus? (Am Beispiel von absolutem hypovolämen schock)
+	* kompensiert
+		* Maßnahmen des Körpers funktionieren -> Organe noch gut versorgt
+		* RR noch normal weil HF und Schlagkraft erhöht
+		* Kann nicht endlos aufrecht erhalten werden, wenn Situation sich verschlechtert nächstes Stadium
+	* dekompensiert
+		* HF noch mehr angehoben, reicht aber nicht
+		* RR sinkt
+		* Bewusstheitseintrübung
+		* Gefäße enger gestellt -> Versorgung schlechter
+		* Zellen nicht mehr ordentlich versorgt -> beginnen mit Milchsäuregährung -> metablische Azidose
+	* irreversibel
+		* Wenn dekompensiertes Stadium nicht schnellstens repariert -> Zellen sterben ab
+		* Nun nicht mehr reversibel
+		* Multiples Organversagen
+		* Tod
+
+- Was sind Typische Schocksymptome?
+	* stark Erhöhte HF
+	* blasse, Kaltschweißige haut
+	* RR sinkt ab (bei Hypovoläm)
+	* Bewusstseinstrübnug
+
+- Was tun bei Schock?
+	* Lagerung nach zustand
+		. wenn B-Los: SSL
+		. sonst flach oder OK leicht erhöht
+	* Wenn möglich Ursache beheben (Blutung stillen)
+	* 15L O2 -> 97% Zielsättigung
+	* Überwachen der Vitalzeichen
+	* NA
+	* Reanimationsbereitschaft
+	* Bodycheck (vor allem Bauch)
+	* Wärmeerhalt
+
+- Was sind Sofortmaßnahmen zur Blutstillung?
+	* Verletzte sollen sitzen oder liegen
+	* Blutung mit Wundauflage zudrücken
+	* Druckverband wenn möglich
+	* Abbinden wenn Notwendig und möglich
+
+- Wie ist ein Druckverband aufgebaut?
+	* Sterile Wundauflage
+	* Festgebunden mit Mullbinde/PEHA-Haft
+	* Druckkörper
+		. Größer als die Wunde
+		. Fest
+		. Saugfähig
+	* Druckkörper wiederum festgebunden
+
+- Wann kann kein Druckverband angelegt werden?
+	* Kein Knochen gegen den gedrückt werden kann
+	* Hals, Bauch
+	* Wunde zu groß
+
+- Wann darf Abgebunden werden?
+	* Wunde zu Groß für druckverband
+	* Gliedmaßen sind Abgetrennt/Teilabgetrennt
+	* Extreme Innere Blutungen
+	* Arm/Bein eingeklemmt -> man kommt nicht zur Blutung
+	* Sehr viele Verletzte (kann nicht so viel Zeit investieren)
+
+- Was ist wichtig sobald abgebunden wurde?
+	* Zeit notieren
+
+
+- Was ist ein anaphylaktischer Schock?
+	* schwerstmögliche allergische Reaktion
+
+- Was löst einen anaphylaktischen Schock aus?
+	* Allergische REaktion führt zu Histaminausschüttung
+	* Gefäße werden Weitgestellt -> relativer hypovoläm.
+	* Gefäßwand wird durchlässiger -> noch mehr Blutverlust
+	* Bronchien stellen sich eng -> Dysnpoe
+
+- Was im Körper ist bei einem anaphylaktischem Schock direkt betroffen?
+	* Lunge
+	* Herz-Kreislauf
+	* Haut/Schleimhaut
+	* Kombinationen davon
+
+- Was sind Symptome für einen Anaphylaktischen SChock?
+	* Haut/Schleimhaut:
+		. Rötung
+		. Juckreiz
+		. Schwellungen
+		. Quaddeln (Hebungen)
+	* Atemwege:
+		* Asthma-Anfall
+	* Kreislauf
+		* anaphylaktischer schock -> relativer hypovolämer schock
+	* Nicht unbedingt alle 3 Systeme betroffen
+
+- Was tun bei einem Anaphylaktischen Schock?
+	* Lagerung je nach Zustand
+		. B-Los: SSL
+		. sonst: Flach oder OK leicht erhöht
+	* Allergene entfernen wenn möglich
+	* initial 15L O2 auf 97% Zielsättigen
+	* Vitalzeichen Ständig überwachen
+	* Notarzt
+	* Reanimationsbereitschaft
+	* Wärmeerhalt
+
+- Was ist eine Hypertensive Krise?
+	* Blutdruck ploötzlich viel zu hoch + Symptome
+
+- Was kann eine Hypertensive Krise auslösen?
+	* Bei bekannten Hypertonikern manchmal auch einfach so
+	* Blutdruckmittel nicht eingenommen
+	* Psychisch/Körperliche belastung
+	* Aufputschende Drogen
+
+- Welche Symptome können bei einer Hypertensiven Krise auftreten?
+	* RR > 200mmHg
+	* Druckgefühl in der Brust
+	* Herzklopfen spürbar
+	* Schwindel
+	* Kopfweh
+	* Sehstörungen
+	* Ohrensausen
+	* Überlkeit
+	* Erbrechen
+	* Verwirrtheit
+	* Nasenbluten
+	* Rotes Gesicht 
+
+- Was tun bei einer Hypertensiven Krise?
+	* OK erhöht lagern
+	* pot. Nasenbluten stillen
+	* Je nach Zustand Kontrolle/Überwachung der Vitalzeichen
+	* Neurocheck durchführen
+	* Notarzt wenn eines Zutrifft
+		. >200mmHg Systole + Symptome
+		. >220mmHg
+		. Druckgefühl in der Brust
+
+- Was sind mögliche Komplikationen einer Hypertensiven Krise?
+	* Agina Pectoris od MCI
+	* Linksherzinsuffizienz -> Lungenödem, kardiogener Schock
+	* Hirnblutung
+
+- Was ist der Fachbegriff für Nasenbluten?
+	* Epistaxis
+
+- Was kann Epistaxis verursachen?	
+	* Hypertonie / Hypertensive Krise
+	* Verletuzungen
+	* Infekte
+	* Blutverdünner
+
+- Was tun bei Nasenbluten?
+	* OK erhöht, Kopf nach vorne (kein Blut soll in Magen rinnen)
+	* Nasenflügel zusammenpressen
+	* Nicht tamponieren!
+	* Nacken kühlen
+	* Vitalzeichen kontrollieren
+	* Bodycheck durchführen
+
+- Was kann einen Arteriellen Gefäßverschluss verursachen?
+	* Eingeschwemmter Thrombus (entsteht in Tasche in linker Herzhälfte)
+		. bei Vorhofflimmern noch wahrscheinlicher
+	* Ateriosklerose
+
+- Was sind Risikofaktoren für ateriosklerose?
+	* Rauchen
+	* erhöhter Blutfettgehalt
+	* hoher blutdruck
+	* hoher Cholesterin
+	* Diabetes
+
+- Was sind die Klassischen 5 Symptome eines arteriellen Gefäßverschlusses?
+	* Pulseless - an der Betroffenen Gliedmaße ist kein Puls tastbar
+	* Pain - art. Verschluss extrem Schmerzhaft (8-10 auf skala)
+	* Pale - betroffene Stelle und darunter blass weil zu wenig blut
+	* Parastheisa - Betroffene Stelle Taub
+	* Paralysis - Betroffene stelle gelähmt
+
+- Was ist zu tun bei einem Arteriellen Gefäßverschluss?
+	* Extremität tief, warm und weich lagern
+	* Vitalzeichen kontrollieren
+	* MDS zum Abchecken durchführen
+	* Notarzt nach PAtientenwunsch (Schmerztherapie)
+
+- Welche Station ist anzufahren mit einem art. verschluss?
+	* Gefäßchirugie
+
+- Was sind Risikofaktoren für einen Venösen Verschluss?
+	* Rauchen
+	* Krampfandern
+	* Übergewicht
+	* Östrogen (also auch Frauen unter 60j)
+
+- Was sind Ursachen eines venösen Verschlusses?
+	* Lange immobilisierung
+	* mechanische Reizung (verengung der venen)
+	* zu wenig getrunken
+
+- Was sind Symptome eines Gefäßverschluss?
+	* Schmerzen (ziehend) aber weniger stark als bei art. Gefäßv.
+	* Spannungs- und Schweregefühl
+	* Druck und Bewegungsschmerz
+	* Schwellungen Ödeme
+	* Rötung oder Blaufärbung d. Extremität
+	* deutlich wärmer
+
+- Was tun?	
+	* weich und flach -> thrombus soll sich nicht lösen
+	* Kontrolle Vitalzeichen
+	* MDS
+	* Bewegungsverbot -> thrombus soll sich nicht lösen
+
+- Welche Station fährt man damit an?
+	* Dermatologie
+- Wie groß und schwer ist das herz?
+	* geballte Faust
+	* 250-350g
+
+- Was ist ein durschnittliches Herminutenvolumen und wie lässt es sich berechnen?
+	* Schlagvolumen * Herzfrequenz
+	* 5-30L (bei anstrenugn mehr)
+
+- Wie heißen Vorhof, Kammer mit Fachbegriff?
+	* Atrium
+	* Ventrikel
+
+- Wie heißen die Klappen zwischen Vorhof und Kammer?
+	* Segelklappen
+
+- Wie heißen die Klappen zwischen Kammer und Aorta/Lungenarterie?
+	* Taschenklappen
+
+- Was ist die Aufgabe der Klappen? 
+	* Rückstrohm verhindern
+
+- Wie funktioniert das Herz beim Schlag?
+	* Segelklappen geschlossen (kein Blut fließt aus Kammer zu vorhof)
+	* Kammern kontrahieren
+	* Taschenklappen offen
+
+- In der Entspannung?
+	* Segelklappen offen
+	* Taschenklappen verhindern rückstrom
+	* Atrien kontrahieren
+	* Blut aus atrium strömt in kammer
+
+- Wie wird der Herzmuskel selbst versorgt?
+	* Herzkranzgefäße / Koronargefäße
+	* Entspringen direkt aus der Aorta über der Aortenklappe
+
+- Welche Stationen nimmt der Reiz bei der Herz-Kontraktion?
+	* Erzeugt im Sinusknoten
+	* Geht zu AV-Knoten -> Atrien Kontrahieren
+	* Nach unten zu Kammer -> Kammern kontrahieren
+
+- Was für Zellen erzeugen den reiz/geben ihn wieter?
+	* spezifische Muskelfasern
+
+- Wie wird die Herzfrequenz bestimmt?
+	* Sinusknoten löst normalerweise 60-80/min aus, moduliert durch Sympathicus
+
+- Was passiert wenn der Sinusknoten keinen Reiz erzeugen/weitergeben kann?
+	* Der av knoten schwingt mit 40-60/min
+	* restliches System wenn auch av knoten kaputt: 20-40/min
+
+- Wie funktioniert hier ein Defi?
+	* wenn unkontrollierte impulse bei kammern:
+		. Alle Zellen gelichzeitig angeregt -> reset
+
+- Wofür steht MCI?
+	* Myokardinfarkt -> Herzinfarkt
+
+- Was löst einen MCI aus?
+	* Ateriosklerose
+		. Blutfett erhöht
+		. Übergeweicht
+		. Diabetes
+		. Nikotin
+		. Bluthochdruck
+
+- Was ist AP?
+	* Angina Pectoris
+	* Brustenge
+	* Minderdurchblutung des Herzens
+
+- Was löst AP aus?
+	* Arteriosklerose -> Gefäße verengt aber noch nicht verschlossen (das wäre MCI)
+	* Verkrampfung der Gefäße
+
+- Ursachen?
+	* Belastung
+	* Nikotin
+	* Kälte 
+
+- Was passiert bei einem MCI?
+	* manche Koronargefäße ganz verschlossen
+	* Teil des muskels nicht versorgt -> stirbt ab
+
+- Was deutet einen MCI im vorhinein an?
+	* AP, wenn durch ASKL ausgelöst, da ASKL platzt und Gefäß nun ganz verschlossen
+
+- Was sind überlebenschancen bei MCI?
+	* 30% Tödlich, davon 50% innerhalb der ersten 60 min nach Symptombeginn
+
+- Was sind Symptome eines MCI?
+	* Blass, Kaltschweißig
+	* Druckgefühl in der Brust
+	* Thorax-Schmerz (retrosternal, brennend)
+	* Ausstrahlung der Schmerzen
+	* Vernichtungsgefühl, Todesangst
+	* Überlkeit
+	* Erbrechen
+	* Kombination von mehreren davon
+	* Abnormale Herzfrequenz
+	* erhöhte AF
+
+- Wann können MCIs mit sehr wenigen Symptomen auftreten?
+	* Diabetikern, da Nerven in der Brust abgestorben -> kein schmerz
+
+- Was sind Maßnahmen bei einem MCI?
+	* OK 45° lagern
+	* O2 wenn SpO2 unter 90 [außer wenn Schock, Zyanose, ... dann auch über 90%]
+	* Vitalzeichen Überwachen
+	* Notarzt
+	* Reanimationbereitschaft
+	* Bewegungsverbot
+	* Wärmeerhalt
+
+- Was ist ein kardiogener Schock?
+	* Herz kann nicht genug Blut pumpen -> schlechte Versorgung trotz außreichendem Volumen
+
+- Was sind Ursachen eines kardi. SChock?
+	* MCI wenn arg
+	* Herzrhytmusstörungen
+
+- Was sind Symptome eines kardiogenen Schocks?
+	* blässe
+	* kaltschweißig
+	* niedriger Blutdruck
+	* möglw. MCI symptome
+	* möglw. Lungenödemsymptome
+	* bewusstseinstrübung
+
+- Was tun beim kardiogenen Schock?
+	* SSL
+	* 15L O2
+	* Überwachung d Vitalzeichen
+	* Notarzt
+	* Wärmeerhalt
+	* REanimationsbereitschaft
+
+- Was ist der Normbereich der HF?
+	* 60-100
+
+- Was sind normale Gründe für niedrige HF? 
+	* in ruhe sein
+	* Sportler haben generell niedrigeren ruhepuls
+	* Medikamente
+
+- Wann ist -HF ein symptom?
+	* beruhigungsmittel (opiate)
+	* Hirnblutung/Hirndruck -> Druckpuls 
+	* Erregungsleitungsstörungen (unterversorgung Sinus/Av knoten):
+		. mit Schwindel
+		. Synkopen
+
+
+
+- Wann ist Tachykardie normal?
+	* Anstrengung, Aufregung
+
+- Wann ist es ein Symptom?
+	* AUfputschmittel
+	* Sympathikus
+	* Fieber
+	* Erregungsleitungsstörungen: Vorhofflimmern, MCI
+		. arrhytmischer puls
+		. schwindel
+		. Atemnot
+
+
+- Was tun bei verdacht auf Erregungsleitungsstörungen?
+	* Lagerung nach Patientenzustand
+		. B-Los SSL
+		. Ok erhöht
+	* O2 wenn benötigt (97% Zielsättigung)
+	* Vitalwerte überwachen
+	* Notarzt
+	* Reanimationsberreitschaft
+	* Bewegungsverbot
+
+- Was kann zu einer Linksherzinsuffizienz führen?
+	* Chronisch
+		. Hypertonie
+		. St. p. MCI
+		. virale Infekte (Herzmuskelinsuffizienz)
+	* akut
+		. MCI
+		. Hypertensive Krise
+		. Rhytmusstörungen
+
+- Was sind beschwerden bei einer Chronischen Linksherzinsuffizienz?
+	* Lungenstauung: Bronchialschleimhäute geschwollen -> Dispnoe (v.a. im Liegen)
+	* O2 je nach Zustand geben
+
+- Wie kommt es zu einer rechtsherzinsuffizienz?
+	* akute
+		. MCI
+		. Lungenembolie
+	* chronische
+		. lange ASthma/COPD (Blutgefäße abgedrückt)
+		. chronische Linksherzinsuffizient
+
+- Was sind symptome einer akuten rechtsherzinsuffizienz?
+	* -RR
+
+- Was ist zu tun?
+	* Ursache (MCI/Lungenembolie behandeln)
+
+- was sind Symptome einer Chronischen Rechtsherzinsuffizienz?
+	* Wegdrückbare Ödeme in beiden Beinen
+	* Aszites (Bauchwassersucht, also Wasser in der Bauchhöle)
+
+- Was ist die Aufgabe des Kleinhirns?
+	* Inverse Kinematik
+
+- Wie sind die Hirnhäute aufgebaut, von oben nach unten?
+	* Knochen
+	* Dura Mater - Harte Hirnhaut
+	* Arrachnoidea - Spinnwebenhaut
+	* Pia mater - Weiche Haut
+
+- Wie lässt sich das Nervensystem anatomisch einteilen?
+	* Zentral
+	* Peripher
+
+- Wie funktionel?
+	* somatisch -> willkürlich
+	* autonom -> unwillkürlich
+
+
+- Welchen einfluss haben Sympathicus/Parasympathicus?
+	* +HF/HF
+	* +Herzkraft/-Herzkraft
+	* +Bronchienweite/-Bronchienweite
+	* +Pupillenweite/-Pupillenweite
+	* -Verdauung/+Verdauung
+
+- Wie lässt sich die Bewusstseinslage mit Fachbegriffen einteilen?
+	* Solomnenz: leicht schläfirg/eingetrübt
+	* Sopor: starke eintrübung, nicht ansprechbar, nur auf Schmerzreize reagieren
+	* Koma: gar keine Reaktionen mehr, keine Schutzreflexe
+
+- Wie kann man orientiert sein?
+	* Z
+	* O
+	* P
+	* S
+
+- Was ist eine Synkope?
+	* Plötzliche Bewusstlosigkeit die aber schnell wieder vorbeigeht
+
+- Wodurch wird sie ausgelöst?
+	* Minderdurchblutung
+
+- Was sind Präsynkope-symptome?
+	* Schwindel
+	* Flimmern
+	* Schwarz for Augen
+	* Blässe
+	* Übelkeit
+	* Pupillen nach oben
+
+- Was tun bei Präsynkopesymptomen?
+	* Hinlegen/Hinsetzen
+
+- Was für Ursachen können zu einer Synkope führen?
+	* Kreislauf
+		. Lageänderung
+		. Schreck
+		. Vena Cava Kompressionsyndrom
+		. ...
+	* Kardiale
+		. Abmormale herzfrequenz
+		. Herzinsuffizienz
+		. Rhytmusstörungen
+		. Herzklappen kapput
+
+- Welche 2 Symptome werden oft unter Schwindel zusammengefasst?
+	* systematischer Schwindel (Vertigo, Dreh- oder Wankschwindel)
+	* unystematischer Schwindel (Eng.: Dizziness)
+
+- Wie kommt es zu Vertigo?
+	* 3 Lgeichgewichtssysteme (Innenohr, Auge, Information über muskellage im raum) stimmen nicht überein
+	* zB Karussel: Innenohrflüssigkeit dreht sich weiter obwohl auge sieht dass sich nicht mehr dreht
+
+- Wie kommt es zu unsystematischem Schwindel
+	* Sensoren unterversorgt
+	* Symptom bei
+		. Hypoglykämie
+		. Herzrhytmusstörungen
+		. Präsynkope
+		. Hypotonie
+
+- Welche formen kann systematischer Schwindel annehmen?
+	* Dreh-
+	* Wank-
+	* Liftschwindel
+
+- Wo ist systematischer Schwindel unter anderem ein Symptom?
+	* gutatiger Lagerungsschwindel
+	* Entzündung d. Gleichgewichtnervs
+	* Altersschwindel
+	* ....
+
+
+- Was verursacht gutartigen Lagerungsschwindel?
+	* Steinchen im Gleichgewichtsorgan brauchen sehr lange um nach Lagerungsänderung zu Ruhe zu kommen
+
+- Was sind Symptome für gutartigen Lagerungsschwindel?
+	* tritt immer bei Lagerungsänderungen auf
+	* dauert sekunden bis zu mehrere minzten
+	* Oft Übelkeit, Erbrechen
+	* Auch Kleinste Kopfbewegungen lösen Drehschwindel aus
+
+- Was sind symptome für eine Entzüdnung des Gleichgewichtnervs?
+	* Krankheitsgefühl
+	* Starke Überlkeit und Erbrechen
+	* Heftiger Drehschwindel, verstärkt durch Lagerungsänderung
+
+- Was ist Morbus Meniere? Welche Symptome sind typisch?
+	* seltene, noch nicht ganz erforschte Erkrankung
+	* Drehschwindelattacken
+		. mehrere male pro Woche
+		. 20 mintuen - Stunden andauendt
+	* Übelkeit
+	* Erbrechen
+	* Ohrgeräusche, schwerhörigkeit, Druckgefühl auf betroffenen Ohr
+
+- Was kann sonst SChwindel auslösen?
+	* Angst, Psychische Belastung va bei Depression/Angeststörung
+	* Intoxikationen
+	* Seekrank, Reisekrank, ...
+
+- Was versteht man unter Alterschwindel?
+	* Schwindel der im Alter auftritt wegen Veränderungen im Gleichgewichtsorgan, Augen oder Bewegungsaparat
+	* Unterschiedleicher Schwindel/Dauer
+	* Zunahme im Dunkeln
+	* Gangunsicher
+
+- Was ist Diabetes mellitus?
+	* Stoffwechsel-Störung im Zuckerhaushalt
+
+- Was ist die Aufgabe von insulin?
+	* Transportiert Zucker aus dem Blut in die Körperzellen
+
+- Wo wird Insulin normalerweise Hergestellt?
+	* Pankreas in den Beta-Zellen
+
+- Was ist Diabetes mellitus Typ 1?
+	* Meißt schon im Kinder/Jugendalter
+	* Autoimmunerkrankung, Beta-Zellen zerstört
+	* Insulin muss von außen zugeführt werden
+
+- Was ist Diabetes mellitus Typ 2?
+	* im alter und bei ungesunden Lebensstil
+	* zu viel Zucker aufgenommen -> viel Insulin produziert
+	* Immer mehr insulin notwendig weil Zellen daran gewöhnt (Insulinrezeptoren weniger Empfindlich)
+	* Irgendwann kann nicht mehr Insulin produziert werden -> muss zugeführt werden
+
+- Was ist Hypoglykämie
+	* BZ unter 70
+
+- Was kann Hypoglykämie auslösen?
+	* zu viel Insulin/Antidiabetika
+	* nichts gegessen
+	* Starke Anstregung (Fieber)
+	* Alkoholkonsum
+
+- Was passiert bei Hypoglykämie?
+	* Gehrin zu wenig zucker -> aktiviert Sympathikus
+
+- Was sind Symptome bei Hypoglykämie?
+	* blass, kaltschweißig
+	* +HF
+	* Hunger
+	* Unkonzentriertheit
+	* Müdigkeit
+	* Abnormales Verhalten (Verwirrt, Agressiv)
+	* Abnormale Sprache
+	* Motorik eingeschränkt
+	* Krampfanfälle
+	* Bewusstseinseintrübung bis zu Koma
+
+- Maßnahmen bei Hypo?
+	* Lagerung nach zustand, wenn nicht eingetrübt OK erhöht
+	* O2 wenn benötigt
+	* Kontrolle/überwachung je nach Zustand
+	* Neurocheck
+	* Notarzt wenn eingetrübt oder B-Los
+	* Wenn nicht stark Bewusstseinsauffällig:
+		. Zuckerzufuhr (Zucker, dann Langkettige KH)
+	* Immer Hospitalisieren!
+
+- Was ist Hyperglykämie?
+	* Blutzucker zu hoch (>250)
+	* Passiert langsam
+
+- Was sind Ursachen für Hyperglykämie?
+	* undiagnostiziertes Diabetes
+	* falsche/fehlende Medikamente
+	* zu wenig Insulin
+	* zu viel Zucker
+	* Infektion
+
+- Was passiert bei Hyperglykämie?
+	* zu wenig Insulin um Zucker in Körperzellen zu verfrachten
+	* mobilisieren mehr Zucker weil Unterversorgt
+	* BZ steigt weiter
+	* Fettsäuren abgebaut -> ketose
+
+- Was sind Symptome von Hyperglykämie?
+	* Tachypnoe
+	* Acetongeruch in Ausatemluft
+	* Viel Urinieren
+	* HF erhöht
+	* Trockene Haut/Schleimhaut
+	* starker Durst
+	* Bewusstseinstrübung/Koma
+
+- Amßnahmein bei Hyperglykämie?
+	* Lagerung nach Zustand
+	* O2 wenn benötigt
+	* Vitalwerte überwachen wenn eingetrübt
+	* Notarzt wenn eingetrübt
+	* Flüssigkeit geben wenn nicht Bewusstseinsauffällig
+
+- Wie sagt man zu einem Schlaganfall mit Fachbegriff?
+	* Insult
+
+- Welche 2 Ursachen kann ein Insult haben?
+	* Minderdurchblutung (Hirnischämie)
+	* Hirnblutung
+
+- Was ist ein TIA?
+	* Transitorische ischämische attacke -> Vorrübergehende Minderdurchblutung
+	* 12 minuten symptome
+	* Vorbote für Hirninfarkt
+
+- Welche Blutungstypen können zu einem Insult fürhen?
+	* Subarachnoedalblutung
+	* Intercerebralblutung
+
+- Wie lässt sich eine TIA präklinisch von einem Infarkt unterscheiden?
+	* Nicht
+
+- Was verursacht einen ischämischen Insult?
+	* Embolus eingeschwemmt von Vorhofflimmern, Herzklappenerkrankung, Carotis
+	* ASKL vor ort
+	* Verengung der Halsschlagader
+
+- Was kann eine Intercerebralblutung verursachen?
+	* ASKL
+	* Hypertonie
+	* Blutverdünner
+	* Drogen
+	* Gefäßmissbildung
+
+- Was kann zusätzlich eine Subarachnoidalblutung auslösen?
+	* Aneurisma (Gefäßwand verdünnt sich)
+
+- Welche Symptome träten bei einem Insult auf?
+	* Unterschiedlcih 
+	* Alle neurologisch
+	* abhängig von betroffenem Areal
+	* Typische Symptome:
+		. motorische Schwächen
+		. Hemiparese
+		. Gesichtslähmungen
+		. Kopfweh
+		. Sprachstörungen
+		. Sehstörungen
+		. Gleichgewichtsstörung
+		. selten Cheyne Stokes
+
+
+- Wie lässt sich eine Ischämie und eine Hirnblutung unterscheiden?
+	* Bei Ischämie Symptome plötzlich und unverändert
+	* Bei Blutung auch plötzlich aber immer schlimmer werdend
+
+- Was sind Maßnahmen bei Ischämie?
+	* OK 30° erhöht
+	* O2 auf 94-98% Zielsättigen
+	* BZ messen (Hypoglykämie)
+	* Vitalzeichen + GCS überwachen -> wenn verschlechterung eher Hirnblutung
+	* Neurocheck
+	* NA nur wenn wirklich Vitalparameter extrem problematisch (RR bis 220 tolerierbar)
+	* Stroke Unit so schnell wie möglich
+
+- Was sind innerklinische Therapieformen für Ischämie?
+	* <4.5h Lyse
+	* Thrombektomie (entfernen von THrombus) bei schweren Anfällen
+
+- Wie lässt sich ein schwerer SChlaganfall von einem leichten unterscheiden?
+	* APSS < 4 -> leicht
+	* APSS >= 4 -> schwer
+
+- Was ist wichtig zu merken beim APSS?
+	* nicht für diagnose geeignet
+
+- Was sind symptome bei einer Blutung?
+	* Gleiche wie bei Ischämie
+	* Folgende Symptome erhöhen wahrscheinlichkeit für Blutung:
+		. Pupillendifferenz
+		. Unruhe
+		. Übelkeit, Erbrechen
+		. Biot
+		. BEwusstseinstrübung/Koma
+		. Druckpuls
+		. Verschlechterung
+		. Bei Subarachnoidalblutung: Nackensteife
+
+- Was sind Maßnahmen bei einer Blutung?
+	* Lagerung nach zustand
+		. Wenn B-Los SSL
+		. sonnst 30°
+	* O2 94-98
+	* BZ messen
+	* Vitalzeichen + GCS überwachen
+	* Nerocheck und Meningismustest
+	* Notarzt
+	* Reanimationsbereitschaft
+
+- Was sind Typische Abdomensymptome?
+	* Übelkeit
+	* Erbrechen
+	* Durchfall
+	* Fieber
+	* Gastrointestinale Blutungen
+
+- Wie lääst sich die Location einer Blutung bei Blut im Erbrochenen feststellen?
+	* "Dunkelheit" d Blutes -> je dunkler desto Verdauter -> niedriger
+	* Schwarzes Erbrechen / Kaffeesatz -> Magenblutung
+	* Helles Blut -> Ösophargusvarizenblutung
+
+- Was ist die große Gefahr bei Gastrointestinalen Blutungen?
+	* Hypovolämer Schock
+
+- Was ist der Fachbegriff für das Bauchfell?
+	* Peritonem
+
+- Was ist eine akutes Abdomen?
+	* Entzündung/Reizung d Bauchfells -> Bretthart
+	* potentiel Lebensbedrohlich
+	* Entzündung, Blutungen, ....
+	* Bildet sich über Stunden/Tage
+
+- Wie ist der Verlauf bei einer Perforation eines Hohlorgans?
+	* Bildet Über Stunden-Tage
+	* Bakterien in Bauchraum -> Entzündung
+	* Möglw. Sepsis/Spetischer Schock als folge
+	
+
+- Was kann ein akutes Abdomen auslösen?
+	* Blutung im Bauchraum reizt Peritonem
+
+- WIe ist der Verlauf bei einer Gastrointestinalen/Gynäkologischen Blutungen
+	* Schnelle Entwicklung  
+
+- Was sind Symptome eines akuten Abdomen?
+	* Anfänglich Abwehrspannung
+		. Bei perforationen möglw. nur in einem Segment
+	* Später Brettharte Bauchdecke
+	* Heftige Schmerzen
+	* Schonhaltung
+	* Möglw. Übelkeit
+	* Möglw. Erbrechen
+	* Tachypnoe
+	* RR niedrig
+	* Tachykard
+	* Eintrübung
+	* Andere Symptome Hypovolämer Schock
+	* wenn Blutung: blass, kaltschweißig
+
+- Was tun bei akutem Abdomen?
+	* Lagerung nach Zustand
+		. klare Bewusstseinslage: flach
+		. eingetrübt: SSL
+	* O2 auf 97% sättigen
+	* Überwachen der Vitalzeichen
+	* Wärmeerhalt
+	* Keine Nahrung- oder Flüssigkeit (OP!)
+	* NA
+	* Reanimationsbereitschaft
+
+- Welche Organe findet man im Oberen rechten quadranten?
+	* Leber
+	* Gallenblase
+	* 12 Finger Darm
+	* Dickdarm
+
+- Welche oben links?
+	* Milz
+	* Magenblutung
+	* Pankreas
+	* Ösophargus
+	* Dickdarm
+
+- Links unten?
+	* Vorne
+		. Dünndarm
+		. Dickdarm
+		. Eileiter
+	* Hinten
+		. Niere
+		. Harnleiter
+
+- Rechts Unten?
+	* Vorne
+		. Appendix
+		. Dünndarm
+		. Dickdarm
+		. Eileiter
+	* Hinten
+		. Niere
+		. Harnleiter
+
+- Was ist in der mitte?
+	* Pankreas
+	* Bauchaorta
+	* Harnblase
+	* Uterus
+
+- Was verursacht Gastritis?	
+	* Bakterien
+	* Kaffe, Nikotin, Alkohol
+	* Ernährung (Scharf, Fettig, gebraten)
+	* Stress
+	* Meds
+
+- Was sind Symptome für Gastritis?
+	* Völlegefühl
+	* Apetitlosigkeit
+	* Erbrechen
+	* Druckempfindlichkeit d Magens
+	* Schmerzen nach dem Essen
+
+- Was sind Ursachen für ein Magengeschwür?
+	* Wie Gastritis
+
+- Was sind Symptome für ein Magengeschwür (Ulcus ventriculi/duodeni)?
+	* Oberbauchschmeruen
+		. Nach der Nahrungsaufnahme: Magen
+		. Nüchtern: 12-Finger-Darm
+		. Druck
+		. Völlegefühl
+		. Übelkeit
+
+- Was sind mögliche Komplikationen eines Magengeschwürs?
+	* Blutungen (Kann auch lebensbedrohlich sein!)
+	* Ulcusperforationen -> Akutes Abdomen
+
+- Welche Schmerztypen unterscheidet man bei Abdominelen Notfällen?
+	* Perforation: Schmerzspitze am Anfang, dann immer stärker werdender Schmerz
+	* Kolik: Auf- und abwallender Schmerz
+	* Entzündung: Immer stärker werdender aber auch schwankender Schmerz
+
+- Was tun bei Magengeschwür?
+	* Lagerung nach Patientenwunsch
+	* Vitalzeichen kontrollieren
+	* Bodycheck
+	* Notarzt bei verdauch auf Perforation/Blutung (akut. Abdomen)
+	* Nahrungs/Flüssigkeitskaren
+
+- Wie nennt man einen Darmverschluss mit Fachbegriff?
+	* Illeus
+
+- Welche arten von Illeus unterscheidet man? Was löst die aus?
+	* mechanischer Illeus
+		. Verwachsung
+		. Tumor
+		. Gallensteine
+	* paralytischer Illeus
+		. Entzündungen
+		. Nervenschädigung
+		. Mesentrialinfarkt
+		. Vergiftung (va Opiate)
+
+- Was sind Symptome eines Illeus?
+	* krampfartige (kolische) Bauchschmerzen
+	* kein Stuhl
+	* Übelkeit, Erbrechen (möglw. Stuhl im Erbrochenen)
+	* Völlegefühl, Appetitlosigkeit
+	* Meteorismus -> evtl Dyspnoe
+
+- Was sind mögliche Komplikationen bei einem Illeus?
+	* Bakterien gelangen in Bauchraum -> akutes Abdomen
+
+- Was tun bei Illeus?
+	* Lagerung nach Patientenwunsch
+	* O2 bei bedarf
+	* Kontrulle/Überwachung je nach zustand
+	* NA bei akutem Abdomen
+	* Bodycheck
+	* Nahrungs- Flüssigkeitskarenz
+
+- Appendizitis Symptome
+	* anfang: Oberbauchschmerzen
+	* später: rechter Unterbauch SChmerzen
+	* Entzündungsschmerz
+	* McBurney Punkt, Blumberg-Zeichen
+	* Übelkeit
+	* Erbrechen
+	* Fieber
+
+- Wie lässt sich für Appendizitis testen?
+	* 3-Eck Zwischen Nabel und Hüftschaufeln
+	* unteres 3. auf der rechten Seite: McBurney Punkt, Schmerz
+
+- Was tun bei Appendizitis?
+	* Lagerung nach Patientenwunsch
+	* Kontrolle der Vitalzeichen
+	* Bodycheck
+	* Nahrungs- und Flüssigkeitskarenz
+
+- Was sind die Aufgaben der Leber?
+	* Gallensäure produktion
+	* Gerinnungsfaktoren produktion
+	* Speichert Glykogen 
+	* Entgiftet
+
+- Wie nennt man Leber mit Fachbegriff?
+	* Hepar
+
+- Was ist die Pfortader?
+	* Bringt Blut von Bauchorganen zur Leber -> reinigt
+	* Vene
+	* Alle einzelnen Bauchorgane angeschlossen
+
+- Symptome einer Gallenkolik
+	* kolik schmerzen rechter Oberbauch
+	* evtl ausstrahlend in rechte Schulter
+	* oft nach fettreicher Nahrung
+	* Völlegefühl
+	* Blähungen
+	* Übelkeit
+	* Erbrechen
+	* evtl weißer Stuhl
+	* evtl. Ikterus (gelbe augen)
+
+- Was sind mögliche Komplikationen?
+	* Entzünung
+	* Pankreatitis
+	* Perforation d Gallenblase (Akutes Abdomen)
+
+- Was tun Gallenkolik?
+	* Lagerung nach patientenwunsch
+	* Kontrolle Vitalzeichen
+	* Bodycheck
+	* NA nach Patientenwunsch
+	* Nahrungs und Flüssigkeitskarenz
+
+- Was sind Aufgaben des Pankreas?	
+	* Herstellung von Verdauungsenzymen
+	* Herstellung von Hormonen (Insulin, Glucagon)
+
+- Was kann zu einer Pankreatitis führen?
+	* vorbestehende Gallensteine
+	* Chronischer Alkoholkonsum
+	* -> Löst selbstverdauung aus
+
+- Was sind Symptome einer Pankreatitis
+	* Gürtelförmige (li u re) Schmerzen im Oberbauch 
+	* Übelkeit, Erbrechen
+	* elastische Abwehrspannung (Gummibauch -> Abwehrspannung + Meteorismus)
+	* Meteorismus -> evtl Atemnot
+
+- Maßnahmen Pankreatitis?
+	* Lagerung nach Patientenwunsch
+	* O2 nur wenn <90% (wegen MCI!)
+	* Kontrolle Vitalzeichen
+	* Bodycheck
+	* Notarzt wenn keine eindeutigen Symptome (DD MCI)
+	* Nahrungs und Flüssigkeitkarenz
+
+- Ösophargusvarizenblutung
+	* Erkrankung d Leber 
+	* Leber kann nicht mehr so viel Blut aus der Pfortader verarbeiten
+	* Blut weicht über Venen in Ösophagus, ...
+	* Krampfadern bilden sich
+	* Harte nahrung reißt krampfaden auf
+	* Starke blutung
+
+- Symptome Ösophargusvaritzenblutung
+	* Übelkeit
+	* Erbrechen (mit Blut, eher rot)
+	* Gefährdung der Atemwege
+	* hypovolämer Schock	
+
+- Ösophargusvarizenblutung Maßnahmen?
+	* SSL
+	* Absaugebereitschaft
+	* 15L O2 !DUSCHE!
+	* Überwachung der Vitalzeichen
+	* NA
+	* Reanimationsbereitschaft
+	* Wärmeerhalt
+
+- Wo liegt die Milz? Was sind ihre Aufgaben?
+	* linker Oberbauch
+	* Umgeben von Gewebskapsel
+	* Immunabwehr
+	* Erythrozyten
+	* Sehr stark durchblutet
+
+- Was sind die Aufgaben der Niere?
+	* Ausscheidung
+	* Harnproduktion
+	* Wasser- Elektrolyt- Säure-Basen-Haushalt
+	* RR Regulation
+	* In Nebennieren: Hormonproduktion
+
+- Wie sind die Ableitenden Harnwege aufgebaut?
+	* Nierenbecken: Sammelt Harn in Niere
+	* Harnleiter
+	* Harnblase
+	* Harnröhre
+
+- Wie wird akute bzw chronische Niereninsuffizienz abgekürzt?
+	* ANV (akutes Nierenversagen) bzw CNI (Chronische Niereninsuffizeinz)
+
+- Nierenkolik?
+	* Nierensteine im Harnleiter
+
+- Symptome Nierenkolik?
+	* kolik schmerzen in der Flanke oder seitlicher Unterbauch, evtl. bis in Genitalbereich
+	* oft besser beim Gehen
+	* Übelkeit
+	* Erbrechen
+	* Harndrang, evtl. Blut im Harn / wenig / kein Harn
+
+- Maßnahmen Nierenkolik?
+	* Lagerung nach Patientenwunsch
+	* T messen (DD Nierenbeckenentzündung/HWI)
+	* Vitalkontrolle
+	* NA (Schmerztherapie)
+
+- HWI
+	* Infektion der Harnröhre
+	* Aufstieg der Erreger
+
+- Symptome HWI
+	* Schmerzen beim Urinieren (Brennen)
+	* häufiger Harndrang, evtl nur wenig
+	* evtl. Blut im Harn
+	* evtl. Fieber
+
+- Was kann einen HWI bei alten Leuten auslösen?
+	* Wenig getrunken
+	* Hygene WC
+	* Katheter
+	* schwaches Immunsystem
+
+- Wie können sich die Symptome eines HWI bei alten Leuten unterscheiden?
+	* fehlen/abgeschwächt sein
+	* Va Verschlechterung Allgemeinzustand
+		. Inkontinenz
+		. Appetitlosigkeit
+		. Verwirrtheit
+- Welche Abschnitte hat die Wirbelsäule?
+	* HalsWS (7, C1-C7)
+	* BrustWS (12, Th1...)
+	* LendenWS (5, L1)
+	* Kreuzbein (5 verwachsene)
+	* Steißbein (5 verwachsene)
+
+- Wie  nennt man C1, C2 und was bilden sie?
+	* Kopfgelenk/Genick
+	* C1: Atlas
+	* C2: Axis
+
+- Wie ist ein Wirbel aufgebaut?
+	* innen hohl (Rückenmarkskanal)
+	* Dornenfortsatz (hi)
+	* Querfortsätze (hi l/r)
+
+- Aus was bestehen die bandscheiben? Was ist die Aufgabe?
+	* Fasriger Ring mit Gallertkern
+	* Stoßdämpfer
+	* Wenn Kern herausrutscht: Bandscheibenvorfall
+
+- Was ist eine Prellung?
+	* Gewebe durch stumpfe Gewalt gequetscht
+	* Schmerzen
+	* Hämatom
+	* Bewegungseinschränkung
+
+- Wie kann man eine Prellung präklinisch von Fissuren unterscheiden?
+	* gar nicht
+
+- Was ist eine Verstauchung?
+	* gelenk aus pfanne raus und gleich wieder rein
+	* Gelenkskapsel/Bänder gezerrt/gerissen
+	* Gleiche Symptome wie Prellung nur bei Gelenk
+
+- Wie nennt man eine Verrenkung mit Fachbegriff?
+	* Luxation
+
+- Was ist eine Luxation?
+	* Gelenk aus pfanne raus, kehrt nicht zurück
+	* Optisch sichtbar (fehlstellung des Gelenks)
+	* Aktive Bewegung nicht möglich
+	* Außerdem wie bei Verstauchung
+
+- Was tun bei Luxation?
+	* Kleidung weg wenn beengend
+	* evtl Kühlen
+	* Schienen (MDS!!)
+	* NICHT REPONIEREN
+	* Kontrolle Vitalzeichen
+	* Bodycheck
+	* NA für Schmerztherapie oder Reposition wenn durchblutung gefährdet (MDS nicht gut)
+
+- Welche arten von Knochenbrüchen unterscheidet man?
+	* Fissur -> nur eingerissen
+	* geschlossene Fraktur
+	* offene Fraktur
+	* Grünholzfraktur
+		. bei Kindern/Jugendlich
+		. Knochen bricht, aber Knochenhaut intakt
+
+- Was sind die Symptome einer Fraktur?
+	* Unsicher: Prellungssymptome
+	* Sicher:
+		. Achsenfehlstellung
+		. Knochenreiben bei bewegung
+		* Knochenfragmente sichtbar (offene Fraktur)
+
+- Wo ist auch bei geschlossenen Frakturen ein Hypovolämer schock möglich? Ändert das die Maßnahmen?
+	* Becken
+	* Oberschenkel
+	* JA, immer NA und RR überwachen
+
+- Was sind Symptome für einen Oberschenkelhalsbruch?
+	* Schmerzen
+	* verkürztes bein
+	* nach außen rotiert
+	* nicht gestreckt abhebbar
+
+- Wohin mit dem Oberschenkelhals?
+	* OSH-Bett auf unfall abbuchen
+
+- Was sind die symptome bei einem eingestauchten OSH?
+	* schmerzen bei belastung werden immer schlimmer -> Rettung oft erst nach tagen
+	* Bein nur leicht nach außen geneigt 
+
+- Was sind die Schweregrade einer offenen Fraktur?
+	* Haut durchstochen nur durch knochen
+	* Hautwunden durch gewalt von außen
+	* (Teil)amputation
+
+- Maßnahmen offene Fraktur?
+	* kleidung Weg
+	* OP-Folie drüber
+	* Schienen
+	* Kontrolle/Überwachung je nach Ausmas
+	* Bodycheck
+	* Wärmeerhalt
+	* O2 bei bedarf
+	* NA!
+
+- Was sind die Notarztkriterien bei Frakturen?
+	* Schmerztherapie (abstimmen mit Patienten)
+	* Blutverlust -> hypovoläm
+	* Becken, Oberschenkel gebrochen
+	* Bei Luxation mit beeinträchtiger Durchblutung
+	* Alle offenen Frakturen
+
+- Was ist ein HWS Schleudertrauma?
+	* Zuerst schnell in die eine dann in die andere Richtung (Autounfall)
+	* Bänderzerrung C3-C7
+
+- Was sind Symptome eines Wirbelkörper-Bruchs?
+	* Oft Osteoporose
+	* "Knacken" bei Bagatelltrauma gehört
+	* Verletztung im bereich der WS
+	* Schonhaltung -> Verspannte Muskeln
+	* Neurologische Probleme je nach nhöhe
+		. Stuhl/Harnabgang 
+		. Parallysis/Parastesia ab einer gewissen höhe + beidseitig
+
+- Maßnahmen WS verletzung
+	* Vakuum/Stifneck va wenn Neurologische Symptome / Verspannungen / Intoxikiert
+	* Kontrolle/Überwachung
+	* Neurocheck + Bodycheck
+	* NA wenn ...
+	* Wärmeerhalt
+	* BZ
+	* wenn B-Los/Eingetrübt -> Checkliste 
+
+- Welche typen von Beckenfrakturen unterscheidet man?
+	* Stabile
+		. nur Randbereich (häufig Schambein) betroffen
+		. Schmerz in der Leiste
+		. Bewegungseinschränkung
+	* Instabile
+		. Becken gibt bei druck nach
+		. gehen, stehen unmöglich
+		. möglw. Blutverlust -> hypovoläm
+		. Nervenverletzungen
+
+- Maßnahmen Beckenfraktur?
+	* Wenn Bewusstseinsklar: Vakuummatratze, sonst SSL
+	* O2 nach bedarf
+	* Vitalzeichen überwachen
+	* Neurocheck, Bodycheck
+	* NA
+	* Reanimationsbereitschaft
+	* Wärmeerhalt
+
+- Definition Polytrauma:
+	* mehrere gleichzeitig entstandene Verletzungen wo min eine oder die kombi Lebensbedrohlich ist
+- Welche formen von Bauchtrauma unterscheidet man?
+	* stumpfes
+		. häufiger
+		. innere Blutungen (va Milz, Leber) -> Hypovoläm
+		. UHG wichtig
+	* penetrierendes/offenes
+
+- Was sind Symptome eines stumpfen Bauchtraumnas?
+	* Bauchschmerzen
+	* Prellmarken
+	* Zuerst Abwehrspannung dann Brettharte Bauchdecke (akut Abdomen)
+	* Schonhaltung
+	* Bauch wird größer
+	* Hypovolämer Schock
+
+- Was tun bei Bauchtrauma?
+	* Lagerung je nach Zustand
+		. SSL wenn eingetrübt
+		. sonst OK erhöht, Knierolle
+	* O2 bei Bedarf
+	* Überwachung Vital
+	* BC
+	* NA
+	* Reanimationsbereitschaft
+	* Wärmeerhalt
+	* Nahrungs- u Flüssigkeitskarenz
+
+- Was tun wenn Darm etc austreten?
+	* Kompressen mit NaCl befeuchten
+	* Trocken abdecken
+	* Wärmeerhalt!
+
+- Was tun wenn Gegenstand noch in Bauch?
+	* nicht entfernen oder bewegen
+	* Fixieren
+	* Verbinden
+
+- Wie ist die Haut aufgebaut?
+	* Oberhaut (2mm)
+	* Lederhaut (4mm)
+	* unterhaut (2mm)
+
+- Was sind die Aufgaben der Haut?
+	* schutz vor Infektionen, Umwelteinflüssen, Substanzen
+	* Wärmeerhalt/Temperaturregulation
+	* Wasser u Elektrolythaushalt
+	* Sinnesfunktion
+
+- Was kann zu Wunden führen?
+	* mechanisch
+	* chemisch
+	* thermisch
+
+- Welche arten von mechanischen Wunden gibt es?
+	* Schürfwunde (Excoratio)
+		. nur kapillaren geöffnet -> punktförmige blutungen
+		. schmerzhaft
+	* RQW
+		. stumpfe Gewalt wo knochen dahinter
+		. oberflächlich, wundränder zerfetzt 
+	* Schnittwunde
+		. glatte Ränder
+		. möglw tief
+		. Sehnen, Muskel, Nervenverletzungen
+		. Möglw infektionsrisiko -> Gegenstand ermitteln
+	* Stichwunde
+		. äußere Verletzung oft sehr klein
+		. innere Verletzungen gut möglich
+	* Bisswunde
+		. Wundrand je nachdem wie spitz zähne
+		. infektiös
+		. HIV, Hep B/C
+		. Besitzer von Tier Notieren/LPD 
+	* Schusswunde
+		. oft starke innere verletzungen
+		. Austrittswunde mögl.
+	* Pfählung
+		* Pfahlartige gegenstände (Stahlstangen, Zaun, ...) dringen ein
+		* sehr tief (möglw wiederaustritt)
+		* schwere innere Verletzungen möglich
+	* Fremdkörper
+		. Gegenstand steckt noch -> nicht entfernen/bewegen
+		. Gegenstand stabilisieren
+	* Ablederung
+		. Scherkräfte reißen haut
+		. Große fläche
+		. möglw starke Blutung
+		. bei alten Leuten recht einfach (dünne Haut)
+	* Skalpierung
+		. Haare in Maschine gefangen, ...
+		. sehr viel Blutverlust
+	* Amputation
+		. Abtrennung v (teil)gliedmaßen
+		. total/subtotal (hängt noch iwo)
+		. immer nach abgetrenntem stück suchen
+		. in sterile Kompressen verpacken
+		. NA + Schockraum!
+
+- Was sind Maßnahmen bei mechanischen Wunden?
+	* Verbinden/abdecken (steril)
+	* MDS
+	* Kontrolle/überwachung
+	* Blutstillung wenn starke blutung
+	* Notarzt (hypovoläm, schockraum, ...)
+
+- Welche Verbrennungsgrade unterscheidet man?
+	* 1: Rötung, schwellung, schmerz | betrifft nur oberhaut
+	* 2: BLASENBILDUNG, abheilung nur wenn oberflächlich (sonst narben) | betrifft ober- und lederhaut
+	* 3: SCHORF, KEINE SCHMERZEN, VERKOHLUNG, narbenbildung | betrifft alle hautschichten
+
+- Was sind die Gefahren bei Stromunfällen?
+	* Stromkreis immer vor annäherung von Fachpersonal unterbrechen lassen
+	* unter 1000V (niederspannungsunfall)
+		. Herzrhytmusstörungen
+		. lokale Verbrennungen
+	* über 1000V (hochspannungsunfall)
+		. tiefe Verbrennungen
+
+- Was tun bei Verbrennungen?
+	* Kleidung vorsichtig entfernen
+	* Ausmaß, Grad abschätzen (eine Patientenhandfläche ~ 1%)
+	* Mit lauwarmen wasser spülen (10-20min); ACHTUNG: UNTERKÜHLUNG
+	* steril abdecken (Wundauflage od Verbrennungstuch) & Verbinden (Finger einzeln!)
+	* Kontrolle/Überwachung nach zustand
+	* O2 bei Bedarf
+	* Bodycheck
+	* NA für SChmerztherapie oder wenn großflächige Verletzungen
+	* Wärmeerhalt
+	* Verbrennungsbett wenn
+		. Kinder: >10% 2. Grad oder >5% 3. Grad
+		. Erwachsene: >15% 2. Grad oder >10% 3. Grad
+		. Hände, Füße, Gesicht, Genitalbereich mit grad 2
+
+- Was sind Erfrierungen? Wie unterscheiden sie sich von Unterkühlung?
+	* Körperkerntemp noch normal
+	* Lokaler Kälteschaden
+	* Meist sehr peripher (Füße, Hände, Nase, Ohren)
+	* 3 Grade
+		. 1: blasse haut, Gefühlslos oder prickelnde Schmerzen
+		. 2: Rötung, schwellung, BLASENBIDLUNG, STARKE Schmerzen
+		. 3: weiß, gefühllos, nach Zeit blau-schwarz
+
+- Maßnahmen Erfrierung?
+	* weitere Kälte verhindern
+	* Temp messen
+	* Grad 1:
+		. aktiv	es Aufwärmen (warmes wasser)
+	* Grad 2, 3:
+		. wunden möglichst wenig berühren
+		. Wundauflage/Verbrennungstuch
+		. Kontrolle Vitalzeichen
+
+- Bei Chemischen Wunden - Unterschied Säure-/Basenverätzung?
+	* Säure entzieht wasser -> schorf -> dring nicht so tief ein
+	* Base dringt tief ein, perforation Ösoph, Magen möglich (orale einnahme)
+
+- Maßnahmen Chemische Wunden?
+	* Selbstschutz (Fachpersonal)
+	* kleidung mit chem entfernen
+	* mit Wasser ausspülen (nicht noch mehr kontaminieren)
+	* abdecken wundauflage, verbrennungstuch
+	* Vergiftunszentrale anrufen, art der substanz notieren
+	* Kontrolle/Überwachung je nach Zustand
+	* NA bei bedarf
+
+- Was bei chem verletzungen der Augen zu beachten?
+	* Kopf zur seite des Verletzen auges
+	* Mit Elo-Mel/NaCl ausspühlen
+	* Beide Augen locker Verbinden (verhindert viel bewegen von patienten)
+	* NA für Schmerztherapie?
+
+- Was bei chem Verletzungen des Verdauungstrakts?
+	* nicht Ebrechen bringen
+	* Mund ausspülen (Wasser)
+
+- Was ist Dekubitus?
+	* Druckwunde
+	* Oft bei Immobilität -> Gefäße zugedrückt -> minderdurchblutung
+	* 3 Ds: Druck (va nahe an Knochen, hohem gewicht), Dauer, Disposition (-RR, +Alter)
+
+- In welche Stadien wird ein Dekubitus eingeteilt?
+	* 1: Rötung
+	* 2: Blase
+	* 3: Offen + Sektret
+	* 4: Nekrose, Tasche
+
+- Maßnahmen Dekubitus?
+	* Lagerung so dass stelle entlastet
+	* Prophylaktisch: Hautpflege, Mobilisation, gute Ernährung 
+
+- Was ist ein Ulcus crusis (venosum/ateriosum)
+	* Wunden durch Kreislaufstörung
+	* CVI (chroniische venöse insuffzienz):
+		. kaputte Venenklappen
+		. Blut Staut sich -> Ödem
+		. oft in Unterschenkel
+	* pAVK (periphere Arterielle Verschluss Krankheit):
+		. ASKL
+		. oft in Zehen, Vorfuß, Ferse
+		. führt zu Nekrose
+
+- Was kann eine Bindehautentzündung auslösen?
+	* Infektion
+	* physk. reize (rauch, staub, ...)
+	* Allergie
+
+- Was sind Symptome einer Bindehautsentzündung?
+	* Rötung
+	* Lidspalte Verengt
+	* mehr Tränen
+	* Lichtscheu
+	* Juckreiz, gefühl so als wäre Fremdkörper drinnen
+	* Brennen, möglw. starke Schmerzen
+
+- Was tun wenn Fremdkörper im Auge?
+	* kleine FK mit Tupfer, Spülung entferen
+	* große/scharfe FK oder Holz/glas/metall nicht entfernen
+		. beide Augen abdecken -> Bewegung minimiert
+		. NA für Analgesie?
+
+- Was kann eine Blutung aus dem Ohr auslösen?
+	* Entzündung
+	* Verletzung (Trommelfellriss)
+	* Schädelbasisfraktur
+
+- Maßnahmen bei Blut aus Ohr?
+	* Locker abdecken (nicht Tamponieren!)
+
+- Wie kommt es zu einer Mittelohrentzündung?
+	* Erreger druch eustachische Röhre von Rachen zu Mittelohr
+	* Symptome:	
+		. pulsierender Ohrschmerz
+		. Fieber
+		. Hörminderung
+
+- Wie kommt es zu einer Trommelfellperforation? Was sind symptome?
+	* Wattestäbchen, andere direkte Verletzung
+	* plötzlicher Überdruck (Ohrfeige, Explosion)
+	* Mittelohrentzündung
+	* Starke Druckschwankungen (Tauchen, Fliegen)
+	* Symptome
+		. stechender Schmerz
+		. plötzliche Hörverschlechterung
+		. Rauschen im Ohr
+		. Übelkeit, Schwindel
+		. möglw. leichte Blutung
+
+- Was sind die Aufgaben des Sanitätsdiensts? 
+	* Erste Hilfe/Sanitätshilfe (geht wsl noch ein bissi über erste hilfe hinaus), Rettungstechnik (Verladen, Transportieren, etc.) + Diagnostik und Therapeutik (erstdiagnose + präklinische Maßnahmen)
+
+- Was ist der Tätigkeitsbereich d. Rettungssanitäter?
+	Präklinische, hauptsächlich nicht invasive Maßnahmen und Tests im Gesundheitlichen Interesse des Patienten, e.g. O2, BZ, .. ...
+
+- Was darf der Rettungssani?
+	* Lebensrettende Sofortmaßnahmen
+	* O2
+	* Infusion Aufrechterhalten/Beenden
+	* BZ Messen
+	* Halbautom. Defi
+
+- Was sind die Pflichten d. RS?
+	* Allgemeine Pflichten
+	* Dokupflicht
+	* Verschwiegenheitspflicht
+	* Auskunftspflicht
+	* Fortbildungspflicht
+	* Rezertifizierungspflicht
+
+- Welche Algemeinen Pfilchten gibt es? 
+		. Ausübung "ohne Ansehen der Person" -> Egal wer es ist, er muss gleich behandelt werden!
+		. Handeln nach Wissenschaftlicher Erkenntnis und Erfahrungen (lege artis)
+		. NA Anfordern
+
+- Was ist die Dokupflicht?
+		. Gesetze Maßnahmen
+		. Immer Objektiv und Genau
+		. Dient der Qualitätssicherung, Nachvollziebarkeit und rechtl Schutz des RS
+		. Nur Patient/gesetzl. Vertreter hat einsichtsrecht! Sonst immer explizite Erlaubnis des Patienten notwendig
+		. 10 Jahre aufbewahrt durch JUH
+
+- Was ist die Verschwiegenheitspflicht?
+		. ALLE Geheimnisse die durch Ausübung der Tätigkeit in erfahrung gebracht wurden
+		. Gegenüber JEDEM
+
+
+- Welche Außnahmen der Verschwiegenheitspflicht gibt es?
+	* Meldepflichtige Krankheiten
+	* Sozialversicherung / Kostenträger
+	* Explizite Endbindung v. d. Geheimhaltung
+	* Höherwertige Interessen (ich habe eine Bombe plaziert!)
+	* Anzeigepflicht
+
+- Was ist die Auskunftspflicht?
+	* gilt ggü 
+		. Patienten
+		. Gesetzlichen Vertretern
+		. als auskunftsberechtigt benannte Personen (meiner Schwester könnt ihr alles über meine Probleme sagen!)
+		. Weiterversorgendes Personal
+
+- Was ist die Fortblidungspflicht?
+	* Jeder RS muss innerhalb v 2 Jahren mind 16h tätigkeitsrelevant fortgebildet werden
+
+- Wann muss man sich Rezertifizieren (Rezertifizierungspflicht)
+	* 2 Jahre
+
+
+
+- Was sind die Voraussetzungen für eine Einwilligung zu einer Behandlung?
+	* !Informed! Consent -> Aufklärung
+	* Einwilligungsfähigkeit (!= Geschäftsfähigkeit) -> Einsichts + Urteilsfähigkeit
+		. Patient muss Grund, mögl. Folgen, mögl. Alternativen kennen, einsehen und daraus dann eine Meinung dazu bilden können
+		. ZOPS orientiert
+
+
+- Wann kann auf ein Einholen einer Einwilligung verzichtet werden, unabhängig von Patientenalter, Einsichts-/Urteilsfähigkeit, ...?
+	* Wenn Gefahr im Verzug ist, also das Einholen einer Einwilligung gefährlich für den Patienten wäre
+
+
+- Wann kann ein Minderjähriger alleine keine Einwilligung zu einer Behandlung geben?
+	* Wenn keine Gafahr im Vorzug ist und keine Einwilligungsfähigkeit gegeben ist -> Gesetzliche Vertreter (Eltern) müssen einwilligen
+
+- Wie ermittelt man die Einwilligungsfähigkeit bei Minderjährigen?
+	* Theoretisch nach Einsitsh- + Urteilsfähigkeit; aber wenn nicht eindeutig bestimmbar: <14j. Einwilligungsfäh. nicht gegeben, >14j schon (einzelfall jedoch möglw. anders!)
+
+- Was ist wenn ein Minderjähriger, der nach den bereits genannten Kriterien als Einwilligungsfähig eingestuft wurde, eine andere Meinung hat als seine Eltern/Gesetzliche Vertreter?
+	* Die Meinung der Eltern/Vertreter ist zu ignorieren
+
+
+- Wann müssen RS auch bei Volljährigen die Einverständniss 3ter einholen?
+	* Es ist keine Gefahr im Vollzug
+	* Er ist offensichtlich nicht Einwilligungsfähig (Psych. Krank, Dement, Sucht, ...)
+
+- Wer kann in so einem Fall eine Einwilligung für eine Behandlung geben?
+	* Patientenverfügung
+	* Gerichtliche Erwachsenenvertretung (z.B. Anwalt dem das früher schon Übertragen wurde)
+	* Person mit Vorsorgevollmacht
+	* Gesetzliche Erwachsenenvertretung (z.B. Ehepartner, nahe Angehörige)
+
+- Was ist eine Gerichtliche Erwachsenenvertretung
+	* Von Gericht bestimmte Person die wegen Geistiger Erkrankung, ... die Entscheidungen d Patienten in gewissen Bereichen übernimmt
+
+- Wann müssen RS Einwilligung d. Gerichtlichen Erwachsenenvertretenden einholen? Wann nicht?
+	* Vorraussetzungen für die Bindung d. Sanis sind:
+		. im Gerichtlichen Beschluss sind auch medizinische Behandlungen als Kompetenz inkludiert
+		. Die Vertretung ist aktuell (muss alle 3 Jahre erneuert werden)
+	* Nicht gültig wen
+		. Gefahr im Verzug ist
+		. Der Patient im Moment Einwilligungsfähig ist ("Luzides Interval")
+
+- Was ist eine Patientenverfügung?
+	* Ein Schriftliches Dokument wo der Patient seine Einwilligung zu gewissen med. Behandlungen schon im Vorhinein festlegt, falls er in der Zukunft nicht mehr Einwilligunsfähig seien sollte
+
+- Welche Vorraussetzung für die Gültigkeit gelten hier? Wann ist sie nicht anwendbar?
+	* Vorraussetzungen: 
+		. Entspricht den gesetlichen Vorderungen Patienten Verfügungs Gesetz
+	* Ungültig wenn:
+		. Gefahr im Verzug ist
+		. Es einen rechtsgültigen Widerruf gibt
+		. Momentan Einwilligungsfähigkeit besteht ("Luzides Interval") 
+
+- Was ist die Gesetzliche Erwachsenenvertretung?
+	* Eine nicht Einwilligungsfähige Person, für die keine Gerichtliche Erwachsenenvertretung bestimmt wurde und keinen anderen Gesetzlichen Vertreter hat, kann durch nächste Angehörige (eltern, volljähr. Kinder, Ehepartner, ..) vertreten werden
+
+- Gülting nur wenn? Wann nicht?
+	* Nur gültig wenn die gesetzliche Erwachsenenvertretung beim ÖZVV registriert wurde und der Aufgabenbereich die Zustimmung zu med. Behandlungen inkludiert
+	* Nicht gültig wenn
+		. Gefahr im Verzug ist
+		. Die Vertretung widerrufen wurde (selbst nach Verlust der Einwilligungsfähigkeit hahaha)
+		. Mehrere Vertretungsbefugte Angehörige sich uneinig sind
+		. Luzides Interval
+
+- Was ist die Vorsorgevollmacht?
+	* Eine Vollmacht welche erst dann wirksam wird wenn der Patient die Einsichts-, Urteils- oder Äußerungsfähigkeit verliert
+
+- Gültig nur wenn? Wann nicht?
+	* Gültig nur wenn
+		. Sie Registriert wurde im Zentralen Vertretungsverzeichniss
+		. In der Urkunde sind med. Behandlungen inkludiert
+	* Nicht Gültig wenn
+		. Gefahr im Verzug ist
+		. Es einen Widerruf gibt (auch wenn nicht Einwilligungsfähig)
+		. Luzides Interval
+
+
+
+- Was ist eine Belassung?
+	. Patient wird aus Willen d. Sanis oder d. Patienten nicht ins KH mitgenommen
+	. RS trägt hier mitverantwortung, falls Patient etwas passiert
+
+- Was ist ein Revers?
+	. Eine Schriftliche Urkunde die Dokumentiert dass es der eindeutige Wille d. Patienten war belassen zu werden
+	. Nur auf Grundlage einer umfassenden Aufklärung
+	. Verantwortung NUR bei Patienten
+	. Wichtig das Revers immer rechtsgültig/korrekt ausgefüllt wird und GUT DOKUMENTIERT WIRD
+
+- Wann kann kein Revers ausgestellt werden (Reversfähigkeit)?
+	. Wenn der Patient <18j alt ist oder nicht Einwilligungsfähig ist
+
+
+- Wofür ist eine Geschäftsfähigkeit nötig und was sind die Kriterien zur Beurteilung?
+	* Nötig für den Abschluss eines Kranken- oder Rettungstransportvertrags
+	* <7 nie Geschäftsfähig
+	* 7-18 beschränkt
+	* >18 grunsätzlich Fähig
+
+- Wie ist Vorzugehen bei Geschäftsunfähigen Patienten?
+	* Wenn GEfahr im Verzug ist keine Einwilligung nötig
+	* Gesetzl Vertreter
+
+- Einwilligungsfähigkeit?
+	* Zur Einwilligung bei med. Behandlung
+	* <14 grundvermutung nicht efähig
+	* 14-18 grundvermutung efähig
+	* >18 grundsätzlich efähig
+
+- Wenn Eunfähig?
+	* Gefahr im Verzug
+	* Gesetzlicher Vertreter, Patientenverfügung, ..
+
+- Reversfähigkeit?
+	* <18 nicht; >18 grundsätzlich schon
+
+- Wenn nicht?
+	* Gesetzlicher Vertreter
+	* Wenn ohne Revers belassen: HAFTUNG
+
+
+
+- Was rechtfertigt eine Unterbringung nach dem Unterbringungsgesetz?
+	* psych. Krankheit
+	* Eigen- oder Fremdgefährdung
+	* andere Behandlung/Betreuung nicht möglich
+
+- Wann ist eine unfreiwillige Unterbringun möglich?
+	* Untersuchung d. oberen Vorraussetzunhen dorch einen Amtsarzt od. Polizeiarzt
+	* Oder wenn Gefahr im Verzug (Amtsarzt zu langsam): Polizei führt Vorläufige Unterbringung durch
+
+
+
+- Was ist das Effektenverzeichniss?
+	* Eine liste alles Persönlichen Besitzes das beim Patienten gefunden wurde
+	* Rechtliches Dokument
+	* Sollten Sachen fehlen/kaput gehen haftet der Austeller oder die Personen an die die Gegenstände weitergegeben wurde
+	* Deshalb: immer auf Vollständigkeit (va Wertgegenstende) und Unversehrtheit prüfen
+
+
+- Wie schauen die Vertragskonstruktionen beim Transport aus?
+	- Der Patient hat einen Kranken- oder Rettungstranportvertrag mit der Einrichtung
+	- Die Einrichtung hat einen Dienstvertrag/(Verpflichtung zum Zivildienst) mit den RS
+	- Die RS Erfüllen die Pflicht des Transportvertrages der Einrichtung mit dem Patienten, führen also die Tätigkeit aus haben aber keinen direkten Vertrag!
+
+
+- Welche Gesetze sind Relevant für unseren Rettungsdienst?
+	
+	Bundesgesetze: 
+		* Sanitätergesetz (SanG): Pflichten, Tätigkeitsbereich, Kompetenzen der Sanis
+			. Sanitäter-Ausbildungsverordnung: Wie werden RS ausgebildet, ...
+			. Sanitäter-Ausweiß- und Fortbildungsverordnung: Wie musst du dich Fortbilden...
+		* Angestelltengesetz (AngG): Für Hauptberufliche, regelt das Dienstverhältnis (im Arbeitsvertrag dann auch: wer darf dir Weisungen erteilen)
+		* Zivildienstgesetz (ZDG): Pflichten und Rechte der Zivildiener im Allgemeinen -> Weisung (wer darf dir was ansagen) 
+
+	Landesgesetze:
+		* Wiener Rettungs- und Krankentransportsgesetz (WRKG): Regelt die Abwicklung von Rettungs- und Krankentransporten
+
+- Welche Regeln gelten im Katastrophenfall?	
+	* Normale RS Gesetze (SanG)
+	* Katastrophenhilfsgesetze
+	* Statuten/Regelungen der JUH
+
+- Welche Kategorien von Katastrophen unterscheidet man?
+	* Naturkatastrophen, technische Katastrophen, humanogene Katastrophen
+
+- Was sind die Wichtigsten Mitglieder des K Kreis?
+	* Rettungsorganisationen
+	* Polizei
+	* Feuerwehr
+	* Heer
+	* Medienpartner (z.B. ORF)
+	* Wiener Betriebe (Linien, Energie, Netze)
+	* Magistratsabteilungen
+
+- Wie funktioniert die Alarmierung der Bevölkerung im Katastrophenfall?
+	* Bundeswarnzentrale
+	* Landeswarnzentrale
+	* kat. leitzentrale (im Ratshaus)
+	* K-Kreis, wichtige Betriebe, Krankenhjäuzser, Sirene -> Bevölkerung
+
+- Über welche Kanäle wird die Bevölkerung gewarnt?
+	* Radio, TV
+	* Lautsprecher (auf Autos, in öffentl. Gebäuden)
+	* Sirene
+	* Presse
+
+- Was sind wichtige Sirenenzeichen?
+	* 3 min an: Warnung -> TV, Radio an
+	* 1 min auf/ab: Alarm
+	* 1 min an: Entwarnung
+
+- Was ist die GAMS regel?
+	* Gefahr erkennen
+	* Absichern
+	* Menschenrettung (unter Selbstschutz)
+	* Sicherheitskräfte informieren
+
+- Was ist bei Gefahrengutunfällen zu beachten?
+	* 60m Sicherheitsabstand
+	* 100-200m absperren
+	* Bergung nur durch Fachkräfte
+
+- Was sind die Aufgaben des ersteintreffenden Fahrzeugs?
+	* Melden wann da
+	* Melden was los
+	* Lage beurteilen
+	* FW/LPD informieren
+	* Updates an Leitstelle
+	* Patientenablage u Wagenhalteplatz festlegen
+	* RS: vorläufiger Leiter Rettung
+	* Fahrer: vorläufiger Leiter Wagenhalteplatz
+
+- Was ist wichtig zu melden?
+	* Ausmaß des Schadens 
+	* Welche Verletzungen, wie schwer
+	* wie viel/welches Material noch benötigt wird + extra Fahrzeuge
+	* Feuerwehr? 
+	* Noch Gefahr?
+	* Wie Zufahren, Welche Infra exisitiert
+	* Heli landung möglich?
+	* Nicht alles auf einmal sondern laufend berichten während der beurteilung/erkundung
+
+- Was wird in der SanHist gemacht?
+	* Triage
+	* Erste Hilfe (va Lebensrettende Sofortmaßnahmen)
+	* Organisation von Transport + Patienten Transportfähig machen
+
+- Was sind die Triagestufen?
+	* I: Nicht transportfähig, sofort behandelm
+	* II: Transportfähig
+		. a: erste Prio (muss sofort abgeklärt werden)
+		. b: 2. prio (baldmöglichst abzuklären)
+	* III: Spätere Behandlung (leicht verletzte)
+	* IV: Abwartende Behandlung (zu schwer verletzte)
+
+- Was müssen wir beim PLS ausfüllen?
+	* B-sein, Atmung, Kreislauf, Name, Triage, gesetzte Maßnahmen, Lagerung
+	* Zielspital
+		. Unterer abriss an Leiter Transport
+		. Oberer an Zielspital
+	* Behandlungsprotokol (Meds)
+
+- Wie schaut der Weg eines Patienten aus?
+	* In Schadenszone: Bei bergetriage zur bergung ausgewählt
+	* PLS schein erhalten
+	* Bei Triagestelle: Identifikation, Grobdiagnose, Einstufung, evtl Behandlungsaufträge
+	* Behandlungsstelle (je nach Triagestufe): Behandlungsaufträge durchführen, Pat. Lagern, Effektenverzeichniss, ...
+	* Verladestelle: Zielspital eintragen, unterer Abriss abreißen
+	* Zielspital: oberer abriss
+
+- Was sind Beispiele wann die ABW verständigt werden kann?
+	* Notfall/krisenereignisse: Kindertod, .. 
+	* Großschadenereignisse
+	* Katastrophen
+	* Geplante Ereignisse (Großveranstaltungen)
+
+- Was sind endogene/exogene Infektion?
+	* Erreger aus Umgebung/ eigenem Körper (an anderer Stelle)
+
+- Was sind besiedlung/infektion?
+	* Mikroorg vermehren sich ohne erkrankung auszulösen/dringen in körper ein und verursachen Krankheitssymptome
+
+- Wie können sich Erreger bewegen?
+	* lymphogen
+	* in Hohlräumen/Gewebe
+	* Hämatogen (im Blut)
+		. Sepsis
+		. Septischer Schock
+
+- Was ist eine systematische Infektion?
+	* Ganzer Körper betroffen (hämatogen)
+
+- Was ist Sepsis?
+	* Fehler des Immunsystem -> greift Körpereigene Zellen an
+	* Sepsis immer wenn infekt + Organversagen
+
+- Wie lässt sich Sepsis preäklinisch diagnostizieren?
+	* sehr schwer
+	* Verdacht von Infekt
+	* qSOFA (quick sequential organ failiure assessment score) [2/3 out of 3 -> Kritisch]
+		. GCS < 15
+		. RR < 100
+		. AF > 22
+	* Petechien (fleckenhämatome als Symptom von Organversagen)
+
+- Welche Gefahren können Schutz von Handschuhen aufheben?
+	* Penetration
+	* Permeabiität (nie 100% dicht)
+	* Kontamination beim Ausziehen
+
+- Welche Arten von Infektionstransporte gibt es im RD?
+	* IInfektion über Blut (Hep B, C, HIV)
+		. nicht unbedingt einzeltransport
+		. handschuhe
+	* Kontakt/Schmierinfekt (Hep A, MRE, Clostridien, Brechdurchfall)
+		. Einzeltransport
+		. handschuhe
+		. Kittel/Schürze
+	* Tröpfcheninfekt (Meningitis, Tbc, Grippe, Covid)
+		. Einzeltransport
+		. handschuhe
+		. schürze/kittel
+		. ffp3 maske
+
+- Was ist Meningitis?
+	* Entzündung Hirn- u Rückenmarkshaut
+	* Meist durch Meningokokken (bakterielle Mening.)
+		. ansteckend
+		. va 1-4j 15-19j
+		. Tröpcheninfekt + enger Kontakt
+
+- Was sind Symptome von bakterieller Meningitis?
+	* Fieber, Schüttelfrost
+	* Kopfweh
+	* Meningismus
+	* Licht- und Lärmempfindlich
+	* B-trübung
+	* Krämpfe
+	* Petechien 
+
+- Maßnahmen bakt Meningitis?
+	* Handschuhe, Kittel, Maske
+	* Lagerung nach Zustand
+		* OK 30°
+		* wenn eingetrübt SSL
+	* O2 bei bedarf
+	* Neurochekc + Meningismustest
+	* Überwachen Vitalwerte
+	* NA je nach Zustand 
+	* Meldung JUH
+	* KH voranmelden
+	* wenn tatsächlich bakt. meningitis: RS nimmt 750mg Ciproxin
+
+- Was sind Auslöser von Brechdurchfall?
+	* viral (Rota/Norovirus) -> Tröpfcheninfekt
+	* bakteriekk (Salmonellen) -> Lebénsmittel
+	* Symptome:
+		. Übelkeit
+		. Erbrechen
+		. evtl. Durchfall
+		. evtl. Fieber
+	* Achtung: Dehydration!!
+
+- Was ist TB?
+	* 1/3 aller menschen infiziert, 5-10% krank
+	* Therapie: Antibiotika
+	* Zunahme von Multiresistentem TB
+	* offene Lungen-TB:
+		. Tröpfcheninfekt.
+		. infektionswahrscheinl. trotzdem gering
+- Symptome bei TB?
+	* Fieber, Nachtschweiß
+	* Husten
+	* Brustweh
+	* Dyspnoe
+	* Gewichtsabnahme
+	* Wenn schlechtes Immmunsystem: Organ-TB
+
+- Was ist MRSA?
+	* multiresistenter staphylococcus aureus
+	* auf Haut, schleimhait, nasenvorhof besiedlung bei 30% d Leute, davon 1-3% MRSA
+	* Infektionen va in Wunden -> Pneumonie, Sepsis
+
+- Was ist MRGN?
+	* multiresistenter gramnegativer erreger
+	* normalerweise besiedlung in Darm
+	* Infektion:
+		. HWI
+		. Wunde
+		. Pneumonie
+		. Sepsis
+
+- Schutzmaßnahmen multiresistenter erreger?
+	* Handschuhe, Kittel
+	* Wunden Verbinden
+	* Masken
+	* Einzeltransport
+	* Händedesinfekt (auch Patient)
+	* PSA ablegen
+
+- Was ist Clostridium difficile?
+	* Darmerkrankung nach Antibiotika-einnahme
+	* Symptome: 
+		. milder Durchfall
+		. möglw Darmentzündung
+		. bishin zu Perforation
+		. Schmierinfektion
+	* Nur schwere und Todesfälle meldepflichtig
+
+
+- Was ist Hepatitis?
+	* Virus A,B,C
+	* Leberentzündung
+	* Symptome:
+		* keine
+		* Überleit, erbrechen, krank fühlen, temp erhöhung
+		* Lebervergrößerung, Ikterus, dunkler harn
+
+- Was ist Hep A/B/C?
+	* A: 
+		. weltweit, aber Europa selten
+		. Schmierinfekt
+		. nur wenn akut ansteckend
+		. Impfbar
+	* B:
+		. überall
+		. infekt über blut
+		. 5-10% der fälle leberzirrhose, karzinom
+	* C:
+		. überall
+		. körperflüssigkeiten aber serlten
+		. mehr als 70% der fälle leberzirrhose, karzinom
+
+
+- Was ist HIV/AIDS?
+	* Symptome:
+		. akute phase: grippesymptome
+		. latenzphase (~10j): keine
+		. Krankheitsphase: wie Akut nur zusätzlich kein Immunsystem
+	* Infekt über Blut, Sperma, Vaginalflüssigkeit
+	* Lebenslang infektiös
+	* keine Impfung
+
+
+- Maßnahmen Nadelstichverletzung?
+	* Wunde auspressen (4-5min)
+	* Desinfekt 30s
+	* Wenn blut im mund: octenisept 30s spülen, 1m wirken
+	* Journal melden
+	* Nach dienst ins KH
+	* Patientendaten mitnehmen
