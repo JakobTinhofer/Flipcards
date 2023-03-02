@@ -1306,58 +1306,58 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		. Übelkeit, Schwindel\r
 		. möglw. leichte Blutung`,t:"Environment"},{id:435,q:"Wie lange dauert eine Schwangerschaft?",a:`* Meist 40 SSW\r
 	* 38-42 SSW normal\r
-	* Davor frühgeburt`,t:"Gyn�kologie und P�diatrie"},{id:436,q:"Ab welcher woche hat baby Überlebenschance?",a:"* 24 SSW",t:"Gyn�kologie und P�diatrie"},{id:437,q:"Was kann zu Frühgeburten führen?",a:`* Alk\r
+	* Davor frühgeburt`,t:"Gynäkologie und Pädiatrie"},{id:436,q:"Ab welcher woche hat baby Überlebenschance?",a:"* 24 SSW",t:"Gynäkologie und Pädiatrie"},{id:437,q:"Was kann zu Frühgeburten führen?",a:`* Alk\r
 	* Nikotin\r
 	* Hypertonie\r
 	* Infektion\r
 	* Präeklampsie\r
-	* Diabetes`,t:"Gyn�kologie und P�diatrie"},{id:438,q:"Wie lässt sich die Schwangerschaft einteilen?",a:`* Trimester\r
+	* Diabetes`,t:"Gynäkologie und Pädiatrie"},{id:438,q:"Wie lässt sich die Schwangerschaft einteilen?",a:`* Trimester\r
 		. 1: (bis 13 SSW): Anlage wichtiger Organe\r
 		. 2: (bis 26 SSW): Ausbildung organe, erste bewegungen, ab 24 lebensfähig\r
-		. 3: (bis 40 SSW): Organe fertig ausgebildet, Mutter wird geburtsbereit`,t:"Gyn�kologie und P�diatrie"},{id:439,q:"Was ist eine Fehlgeburt? Symptome?",a:`* meist 10-12. SSW\r
+		. 3: (bis 40 SSW): Organe fertig ausgebildet, Mutter wird geburtsbereit`,t:"Gynäkologie und Pädiatrie"},{id:439,q:"Was ist eine Fehlgeburt? Symptome?",a:`* meist 10-12. SSW\r
 	* nicht überlebensfähriges kind geboren\r
 	* Symptome:\r
 		. Wehenartige Schmerzen (Unterbauch/Kreuz)\r
 		. Vaginale Blutung\r
-		. Abgang v Gewebe/toter Frucht`,t:"Gyn�kologie und P�diatrie"},{id:440,q:"Was ist die Extrauteringravidität",a:`* Eizelle nistet außerhalb d Gebärmutter\r
-	* meist Eileiter`,t:"Gyn�kologie und P�diatrie"},{id:441,q:"Was sind die Symptome einer Eileiterschwangerschaft?",a:`* Einsietige Unterbauchschmerzen\r
+		. Abgang v Gewebe/toter Frucht`,t:"Gynäkologie und Pädiatrie"},{id:440,q:"Was ist die Extrauteringravidität",a:`* Eizelle nistet außerhalb d Gebärmutter\r
+	* meist Eileiter`,t:"Gynäkologie und Pädiatrie"},{id:441,q:"Was sind die Symptome einer Eileiterschwangerschaft?",a:`* Einsietige Unterbauchschmerzen\r
 	* vaginale Blutung\r
 	* Schwangerschaft möglich\r
-	* -> Lagerung nach Patientenwunsch`,t:"Gyn�kologie und P�diatrie"},{id:442,q:"Was ist eine Tubenruptur? Symptome?",a:`* Komplikation Eileiterschwangerschaft\r
+	* -> Lagerung nach Patientenwunsch`,t:"Gynäkologie und Pädiatrie"},{id:442,q:"Was ist eine Tubenruptur? Symptome?",a:`* Komplikation Eileiterschwangerschaft\r
 	* meist 6-9 SSW (6-9 W ohne Regel)\r
 	* Eileiter reißt ein\r
 	* Symptome:\r
 		. sehr starke einseitige Unterbauchschmerzen\r
 		. akutes Abdomen\r
 		. Hypervolämer Schock\r
-		. evtl. Vaginalblutung`,t:"Gyn�kologie und P�diatrie"},{id:443,q:"Maßnahmen Tubenruptur?",a:"* siehe Hypovoläm Schock",t:"Gyn�kologie und P�diatrie"},{id:444,q:"Was sind die Maßnahmen bei anderen Vaginalblutungen?",a:`* Lagerung nach Fritsch\r
+		. evtl. Vaginalblutung`,t:"Gynäkologie und Pädiatrie"},{id:443,q:"Maßnahmen Tubenruptur?",a:"* siehe Hypovoläm Schock",t:"Gynäkologie und Pädiatrie"},{id:444,q:"Was sind die Maßnahmen bei anderen Vaginalblutungen?",a:`* Lagerung nach Fritsch\r
 	* Anamnese (Zyklus, Schwangerschaft, MuKi-Pass)\r
 	* ggf. Maßnahmen hypovoläm. schock\r
 	* ggf. NA\r
-	* AVISO`,t:"Gyn�kologie und P�diatrie"},{id:445,q:"Was ist die Aufgabe der Plazentas?",a:`* Verbindet Kreislauf v Mutter und Kind\r
+	* AVISO`,t:"Gynäkologie und Pädiatrie"},{id:445,q:"Was ist die Aufgabe der Plazentas?",a:`* Verbindet Kreislauf v Mutter und Kind\r
 	* Stellt Kind nähstoffe zur verfügung\r
 	* Blut trotzdem getrennt - kapillaren von mutter neben kapillaren von kind\r
-	* Entsteht wo eizelle eingenistet`,t:"Gyn�kologie und P�diatrie"},{id:446,q:"Was ist die Nabelschnur?",a:`* Verbindung Plazenta-Kind\r
-	* 2 Arterien (zur Mutter hin, entorgt Schadstoffe), 1 Vene (zu Kind hin, bringt Nährstoffe)`,t:"Gyn�kologie und P�diatrie"},{id:447,q:"Was ist die Fruchtblase?",a:`* Eiheute von Plazenta ausgehend, bilden Sack\r
+	* Entsteht wo eizelle eingenistet`,t:"Gynäkologie und Pädiatrie"},{id:446,q:"Was ist die Nabelschnur?",a:`* Verbindung Plazenta-Kind\r
+	* 2 Arterien (zur Mutter hin, entorgt Schadstoffe), 1 Vene (zu Kind hin, bringt Nährstoffe)`,t:"Gynäkologie und Pädiatrie"},{id:447,q:"Was ist die Fruchtblase?",a:`* Eiheute von Plazenta ausgehend, bilden Sack\r
 	* Gefüllt mit Fruchtwasser\r
-	* SChützt vor Stößen, Verletzungen, Infektionen`,t:"Gyn�kologie und P�diatrie"},{id:448,q:"Was ist eine vorzeitige Plazentalösung?",a:`* meist letztes trimester\r
+	* SChützt vor Stößen, Verletzungen, Infektionen`,t:"Gynäkologie und Pädiatrie"},{id:448,q:"Was ist eine vorzeitige Plazentalösung?",a:`* meist letztes trimester\r
 	* Plazenta ganz oder Teilweise von Gebärmutter getrennt\r
-	* Durch Stöße, Trauma, Zug, Gefäßverenderungen (Drogen, Präeklampsie, Hypertonie, Nikotin)`,t:"Gyn�kologie und P�diatrie"},{id:449,q:"Was sind Symptome einer Plazentalösung?",a:`* Blutverlust\r
+	* Durch Stöße, Trauma, Zug, Gefäßverenderungen (Drogen, Präeklampsie, Hypertonie, Nikotin)`,t:"Gynäkologie und Pädiatrie"},{id:449,q:"Was sind Symptome einer Plazentalösung?",a:`* Blutverlust\r
 	* Schmerzen\r
 	* Brettharter Uterus\r
 	* Hypovoläm\r
-	* möglw leichte-starke vaginale blutung`,t:"Gyn�kologie und P�diatrie"},{id:450,q:"Wie nennt man es wenn plazenta vor ausgan?",a:"* Plazenta praevia",t:"Gyn�kologie und P�diatrie"},{id:451,q:"Was ist Placenta praevia? Symptome?",a:`* Plazenta vor Muttermund -> verlegt\r
+	* möglw leichte-starke vaginale blutung`,t:"Gynäkologie und Pädiatrie"},{id:450,q:"Wie nennt man es wenn plazenta vor ausgan?",a:"* Plazenta praevia",t:"Gynäkologie und Pädiatrie"},{id:451,q:"Was ist Placenta praevia? Symptome?",a:`* Plazenta vor Muttermund -> verlegt\r
 	* Am ende d Schwangerschaft Plazenta verletzt -> blutungen\r
 	* Meist in MuKi zu lesen\r
 	* Symptome: \r
 		* vaginale Blutung\r
 		* keine Schmerzen\r
-		* möglw. hypovoläm`,t:"Gyn�kologie und P�diatrie"},{id:452,q:"Was ist SIH?",a:`* Schwangerschafts-Induzierte Hypertonie\r
+		* möglw. hypovoläm`,t:"Gynäkologie und Pädiatrie"},{id:452,q:"Was ist SIH?",a:`* Schwangerschafts-Induzierte Hypertonie\r
 	* RR > 140/90\r
 	* vor Schwangerschaft RR normal\r
 	* 6-8% aller Schwangeren\r
 	* meist weg 3 mo vor geburt\r
-	* Wenn Organ-involement: Präeklampsie`,t:"Gyn�kologie und P�diatrie"},{id:453,q:"Was sind Symptome für Präeklampsie?",a:`* SIH + Organmanifest\r
+	* Wenn Organ-involement: Präeklampsie`,t:"Gynäkologie und Pädiatrie"},{id:453,q:"Was sind Symptome für Präeklampsie?",a:`* SIH + Organmanifest\r
 	* RR > 140/90 + Proteine im Urin\r
 	* Mögliche Symptome:\r
 		. Ödeme\r
@@ -1367,20 +1367,20 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		. Sehstörungen\r
 		. Übelkeit, Erbrechen\r
 		. selten Ikterus\r
-	* 2% aller schwangeren (25% aller mit SIH)`,t:"Gyn�kologie und P�diatrie"},{id:454,q:"Was sind Risikofaktoren für Präeklampsie?",a:`* Erstgeburt\r
+	* 2% aller schwangeren (25% aller mit SIH)`,t:"Gynäkologie und Pädiatrie"},{id:454,q:"Was sind Risikofaktoren für Präeklampsie?",a:`* Erstgeburt\r
 	* Schwangere > 35\r
 	* früher schon mal präeklampsie\r
 	* Mehrlinge\r
 	* Hypertonie vor Schwanger\r
 	* Adipositas\r
-	* Diabetes`,t:"Gyn�kologie und P�diatrie"},{id:455,q:"Was ist HELLP?",a:`* 0,1-0,2% aller Schwangerschaften, 10-20% von Präeklampsie\r
+	* Diabetes`,t:"Gynäkologie und Pädiatrie"},{id:455,q:"Was ist HELLP?",a:`* 0,1-0,2% aller Schwangerschaften, 10-20% von Präeklampsie\r
 	* Auch nach geburt möglich\r
 	* Hemolysis (Blut löst sich auf -> anämie)\r
 	* Elevated Liver (schlechte Leber)\r
-	* Low Platelet Count (wenig Blutplättchen)`,t:"Gyn�kologie und P�diatrie"},{id:456,q:"Symptome HELLP?",a:`* möglw. Präeklampsie\r
+	* Low Platelet Count (wenig Blutplättchen)`,t:"Gynäkologie und Pädiatrie"},{id:456,q:"Symptome HELLP?",a:`* möglw. Präeklampsie\r
 	* Starke SChmerzen rechter Oberbauch (Leber-Kapsel steht unter Spannugn)\r
 	* Übelkeit, Erbrechen, Durchfall\r
-	* Ikterus`,t:"Gyn�kologie und P�diatrie"},{id:457,q:"Komplikationen HELLP?",a:`* Leber immer kaputter\r
+	* Ikterus`,t:"Gynäkologie und Pädiatrie"},{id:457,q:"Komplikationen HELLP?",a:`* Leber immer kaputter\r
 	* Leberkapselruptur -> akut Abdomen\r
 	* Hirnblutungen	\r
 	* ANV\r
@@ -1388,22 +1388,22 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 	* fetale Wachstumsstörung\r
 	* Lethalität:\r
 		. Mutter 3-5%\r
-		. Kind 10-40%`,t:"Gyn�kologie und P�diatrie"},{id:458,q:"Was ist Eklampsie?",a:`* Präeklampsie + Krämpfe\r
-	* Grand mal vor/während/bis zu 7 Tage nach Geburt`,t:"Gyn�kologie und P�diatrie"},{id:459,q:"Was sidn vorzeichen für Eklampsie?",a:`* starker RR anstieg\r
+		. Kind 10-40%`,t:"Gynäkologie und Pädiatrie"},{id:458,q:"Was ist Eklampsie?",a:`* Präeklampsie + Krämpfe\r
+	* Grand mal vor/während/bis zu 7 Tage nach Geburt`,t:"Gynäkologie und Pädiatrie"},{id:459,q:"Was sidn vorzeichen für Eklampsie?",a:`* starker RR anstieg\r
 	* Sehstörungen (Flimmern, Doppelt sehen, verschwommen)\r
 	* Verwirrtheit\r
-	* fokale motorische ausfälle`,t:"Gyn�kologie und P�diatrie"},{id:460,q:"Was ist ein Nabelschnurvorfall?",a:`* sehr selten (0,2-0,6%)\r
+	* fokale motorische ausfälle`,t:"Gynäkologie und Pädiatrie"},{id:460,q:"Was ist ein Nabelschnurvorfall?",a:`* sehr selten (0,2-0,6%)\r
 	* bei Vorzeitigem Blasensprung\r
 	* Nabelschnur vor kinderkopf\r
-	* wird abgedrückt -> kind unterversorgt`,t:"Gyn�kologie und P�diatrie"},{id:461,q:"Was sind Präventivmaßnahmen gegen Nabelschnurvorfall?",a:`* Nach Blasensprung nicht stehen/gehen\r
+	* wird abgedrückt -> kind unterversorgt`,t:"Gynäkologie und Pädiatrie"},{id:461,q:"Was sind Präventivmaßnahmen gegen Nabelschnurvorfall?",a:`* Nach Blasensprung nicht stehen/gehen\r
 	* Becken hochgelagert\r
-	* Bis Hebame OK gibt`,t:"Gyn�kologie und P�diatrie"},{id:462,q:"Was sind akute Maßnahmen bei Nabelschnurvorfall?",a:`* NA\r
+	* Bis Hebame OK gibt`,t:"Gynäkologie und Pädiatrie"},{id:462,q:"Was sind akute Maßnahmen bei Nabelschnurvorfall?",a:`* NA\r
 	* Becken hoch\r
-	* Wehen verhecheln`,t:"Gyn�kologie und P�diatrie"},{id:463,q:"Was steht im MuKi-Pass?",a:`* SSW\r
+	* Wehen verhecheln`,t:"Gynäkologie und Pädiatrie"},{id:463,q:"Was steht im MuKi-Pass?",a:`* SSW\r
 	* Lageanomalien\r
-	* Mehrlinge?`,t:"Gyn�kologie und P�diatrie"},{id:464,q:"Was ist sonst wichtig zur Doku nach Blasensprung?",a:`* wann Blasensprung?\r
+	* Mehrlinge?`,t:"Gynäkologie und Pädiatrie"},{id:464,q:"Was ist sonst wichtig zur Doku nach Blasensprung?",a:`* wann Blasensprung?\r
 	* Pat wie angetroffen?\r
-	* Farbe Fruchtwasser`,t:"Gyn�kologie und P�diatrie"},{id:465,q:"Was ist das Vena Cava - Kompressionssyndrom? Symptome?",a:`* in Rückenlage gewicht von kind drückt Vena Cava inferior ab -> wenig rückfluss zum Herzen\r
+	* Farbe Fruchtwasser`,t:"Gynäkologie und Pädiatrie"},{id:465,q:"Was ist das Vena Cava - Kompressionssyndrom? Symptome?",a:`* in Rückenlage gewicht von kind drückt Vena Cava inferior ab -> wenig rückfluss zum Herzen\r
 	* Symptome (in Rückenlage):\r
 		* -RR\r
 		* Synkope\r
@@ -1411,10 +1411,10 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		* +HF\r
 		* Atemnot\r
 		* Kollaps\r
-		* Wenn zu lange: kind Unterversorgt`,t:"Gyn�kologie und P�diatrie"},{id:466,q:"Maßnahmen Vena-Cava-Kompressionssyndrom?",a:`* Seitenlage\r
-	* Wenn sich zustand nicht bessert, andere Ursache!!`,t:"Gyn�kologie und P�diatrie"},{id:467,q:"Wie viel wiegt ein normales Neugeborenes?",a:"* 3,5-5kg",t:"Gyn�kologie und P�diatrie"},{id:468,q:"Wie könnte ein Kind liegen? Wann macht man einen Kaiserschnitt?",a:`* Schädellage (96%)\r
+		* Wenn zu lange: kind Unterversorgt`,t:"Gynäkologie und Pädiatrie"},{id:466,q:"Maßnahmen Vena-Cava-Kompressionssyndrom?",a:`* Seitenlage\r
+	* Wenn sich zustand nicht bessert, andere Ursache!!`,t:"Gynäkologie und Pädiatrie"},{id:467,q:"Wie viel wiegt ein normales Neugeborenes?",a:"* 3,5-5kg",t:"Gynäkologie und Pädiatrie"},{id:468,q:"Wie könnte ein Kind liegen? Wann macht man einen Kaiserschnitt?",a:`* Schädellage (96%)\r
 	* Beckenendlage (3%)\r
-	* Querlage, Schräglage (beide <1%): Kaiserschnitt`,t:"Gyn�kologie und P�diatrie"},{id:469,q:"Welche Phasen der Geburt gibt es?",a:`* ERöffnungsphase\r
+	* Querlage, Schräglage (beide <1%): Kaiserschnitt`,t:"Gynäkologie und Pädiatrie"},{id:469,q:"Welche Phasen der Geburt gibt es?",a:`* ERöffnungsphase\r
 		. 6-12h (Erstgebärende)\r
 		. Erröfnungswehen (Senkwehen): unregelmäßig, kurz -> kind weiter nach unten\r
 		. Muttermund öffnet sich (10cm) -> Ende v. Eröffnungsph.\r
@@ -1426,28 +1426,28 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		. Kind immer Tiefer, Presswehen\r
 	* Nachgeburtsphase\r
 		. Nachwehen (ca 15 min lang) -> Auswurf Placenta\r
-		. bis zu 0.5l blutverlust normal`,t:"Gyn�kologie und P�diatrie"},{id:470,q:"Maßnahmen in der Nachgeburtsphase?",a:`* Kind an Brust von Mutter -> Hormonausschüttung -> zieht Gebärmutter zusammen\r
+		. bis zu 0.5l blutverlust normal`,t:"Gynäkologie und Pädiatrie"},{id:470,q:"Maßnahmen in der Nachgeburtsphase?",a:`* Kind an Brust von Mutter -> Hormonausschüttung -> zieht Gebärmutter zusammen\r
 	* Lagerung Fritsch\r
-	* Placenta an KH`,t:"Gyn�kologie und P�diatrie"},{id:471,q:"Was ist PPH?",a:`* postpartale Blutung -> Blutung nach Placenta-Ablösung zu stark\r
-	* Schocksymptome`,t:"Gyn�kologie und P�diatrie"},{id:472,q:"Risikofaktoren PPH?",a:`* St. p. atone Blutung (MuKi-pass)\r
+	* Placenta an KH`,t:"Gynäkologie und Pädiatrie"},{id:471,q:"Was ist PPH?",a:`* postpartale Blutung -> Blutung nach Placenta-Ablösung zu stark\r
+	* Schocksymptome`,t:"Gynäkologie und Pädiatrie"},{id:472,q:"Risikofaktoren PPH?",a:`* St. p. atone Blutung (MuKi-pass)\r
 	* Mehrlingsschwangersch.  (MuKi)\r
 	* zu schnelle Geburt\r
 	* Plazenta unvollständig gelöst\r
 	* Gerinnungsstörung\r
-	* Verletzung bei Austreibung (Dammbruch?)`,t:"Gyn�kologie und P�diatrie"},{id:473,q:"Maßnahmen PPH?",a:`* über nabel kreisförmig streichen -> Wehe auslösen\r
+	* Verletzung bei Austreibung (Dammbruch?)`,t:"Gynäkologie und Pädiatrie"},{id:473,q:"Maßnahmen PPH?",a:`* über nabel kreisförmig streichen -> Wehe auslösen\r
 	* Coolpack unterbauch \r
 	* Kind stillen lassen -> oxytocin\r
-	* Hypovoläm`,t:"Gyn�kologie und P�diatrie"},{id:474,q:"Wie schaut es mim NA bei der Geburt aus?",a:"* IMMER",t:"Gyn�kologie und P�diatrie"},{id:475,q:"Was fragen bei Geburtshilfe?",a:`* MuKi-Pass\r
+	* Hypovoläm`,t:"Gynäkologie und Pädiatrie"},{id:474,q:"Wie schaut es mim NA bei der Geburt aus?",a:"* IMMER",t:"Gynäkologie und Pädiatrie"},{id:475,q:"Was fragen bei Geburtshilfe?",a:`* MuKi-Pass\r
 	* wie vielte SChwangerschaft?\r
 	* Wehen?\r
 	* Blasensprung?\r
 	* Termin?\r
 	* Wunschklinik?\r
-	* Wie gehts jtzt?`,t:"Gyn�kologie und P�diatrie"},{id:476,q:"Was ist bei APGAR inkludiert?",a:`* Atmung\r
+	* Wie gehts jtzt?`,t:"Gynäkologie und Pädiatrie"},{id:476,q:"Was ist bei APGAR inkludiert?",a:`* Atmung\r
 	* Puls\r
 	* Grund-tonus (bewegung)\r
 	* Aussehen\r
-	* Reflexe`,t:"Gyn�kologie und P�diatrie"},{id:477,q:"Was tun bei Geburt?",a:`* NA\r
+	* Reflexe`,t:"Gynäkologie und Pädiatrie"},{id:477,q:"Was tun bei Geburt?",a:`* NA\r
 	* Rückenlage, Beine Nach oben\r
 	* OK leicht erhöht\r
 	* Langsame geburt\r
@@ -1455,57 +1455,57 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		. zum Verhecheln auffordern\r
 	* Kind bei geburt zur Seite mitdrehen\r
 	* Schulteraustritt mithelfen\r
-	* Wenn Körper vollständig draußen: Zeit notieren`,t:"Gyn�kologie und P�diatrie"},{id:478,q:"Was tun nach Geburt?",a:`* Wärmeverlust schützen\r
+	* Wenn Körper vollständig draußen: Zeit notieren`,t:"Gynäkologie und Pädiatrie"},{id:478,q:"Was tun nach Geburt?",a:`* Wärmeverlust schützen\r
 	* Abtrocknen\r
 		. warme tücher\r
 		. stimuliert kind -> sollte Atmen anfangen\r
 		. danach zu Mutter an die Brust\r
 	* Abnabeln\r
 		. wenn Nabelschnur nicht mehr pulsiert (wenn baby stabil)\r
-		. wenn nicht stabil: nach abtrocknen`,t:"Gyn�kologie und P�diatrie"},{id:479,q:"Wie wird abgenabelt?",a:`* 1 Klemmme 2 Handbreiten von Neugeborenen\r
+		. wenn nicht stabil: nach abtrocknen`,t:"Gynäkologie und Pädiatrie"},{id:479,q:"Wie wird abgenabelt?",a:`* 1 Klemmme 2 Handbreiten von Neugeborenen\r
 	* 2. Klemme eine Handbreite nach 1. Klemme\r
 	* Mit Steriler Schere durchtrennen\r
 	* Neugebornen-Ende \r
 		. mit WUndauflage bedeckt\r
 		. mit mulbinde an babybauch fixiert\r
-	* Mutter-Ende in Leistenbeuge, darauf Vorlage`,t:"Gyn�kologie und P�diatrie"},{id:480,q:"Wann macht man APGAR?",a:`* 1 / 5 / 10 min nach geburt\r
-	* notieren!`,t:"Gyn�kologie und P�diatrie"},{id:481,q:"Wie unterscheidet sich die A-Anatomie von Säulginen zu Erwachsenen?",a:`* <5 mo: nur Nasenatmung\r
+	* Mutter-Ende in Leistenbeuge, darauf Vorlage`,t:"Gynäkologie und Pädiatrie"},{id:480,q:"Wann macht man APGAR?",a:`* 1 / 5 / 10 min nach geburt\r
+	* notieren!`,t:"Gynäkologie und Pädiatrie"},{id:481,q:"Wie unterscheidet sich die A-Anatomie von Säulginen zu Erwachsenen?",a:`* <5 mo: nur Nasenatmung\r
 	* kurzer Hals, große Zunge/Epiglottis\r
 	* Engste stelle nicht stimmritze sondern direkt darunter\r
-	* Larynx höher`,t:"Gyn�kologie und P�diatrie"},{id:482,q:"B-Anatomie Säuglinge unterschied zu Erwachsenen?",a:`* l/r Hauptbronchien fast gleich steil\r
+	* Larynx höher`,t:"Gynäkologie und Pädiatrie"},{id:482,q:"B-Anatomie Säuglinge unterschied zu Erwachsenen?",a:`* l/r Hauptbronchien fast gleich steil\r
 	* Atemwege generell eng\r
 	* rel. O2 verbrauch doppelt so hoch\r
 	* Thorax biegsamer\r
 	* Rippen horizontal -> nicht guter schutz\r
-	* atemmuskulatur noch in entwicklung -> Säuglinge sind Bauchatmer`,t:"Gyn�kologie und P�diatrie"},{id:483,q:"AF Neigeborener, Säugling, Kind?",a:`* 40-60, 30-40, 15-30\r
-	* Weil Lungenvolumen viel kleiner`,t:"Gyn�kologie und P�diatrie"},{id:484,q:"Symptome Atemnot Säugling/Kind?",a:`* AF noch höher\r
+	* atemmuskulatur noch in entwicklung -> Säuglinge sind Bauchatmer`,t:"Gynäkologie und Pädiatrie"},{id:483,q:"AF Neigeborener, Säugling, Kind?",a:`* 40-60, 30-40, 15-30\r
+	* Weil Lungenvolumen viel kleiner`,t:"Gynäkologie und Pädiatrie"},{id:484,q:"Symptome Atemnot Säugling/Kind?",a:`* AF noch höher\r
 	* Zyanose\r
 	* Atemgeräusche\r
 	* Nasenflügeln gehoben\r
 	* Einziehungen am Hals (unterdruck ohne Atmung)\r
 	* "Head-bobbing"\r
-	* Schaukelatmung (Bauch/Thorax gegengleich)`,t:"Gyn�kologie und P�diatrie"},{id:485,q:"Wie wird Pseudokupp noch genannt?",a:"* Laryingitis",t:"Gyn�kologie und P�diatrie"},{id:486,q:"Was ist Pseudokrupp/Laryngitis?",a:`* meist viral\r
+	* Schaukelatmung (Bauch/Thorax gegengleich)`,t:"Gynäkologie und Pädiatrie"},{id:485,q:"Wie wird Pseudokupp noch genannt?",a:"* Laryingitis",t:"Gynäkologie und Pädiatrie"},{id:486,q:"Was ist Pseudokrupp/Laryngitis?",a:`* meist viral\r
 	* herbst, winter\r
 	* Entzündung Larynx\r
 	* verengung der Atemwege bei engster Stelle\r
 	* wiederkehrende schübe va in der Nacht\r
-	* betroffen meist 6mo-3j`,t:"Gyn�kologie und P�diatrie"},{id:487,q:"Was sind Symptome von Pseudokrupp/Laryngitis?",a:`* Atemnot\r
+	* betroffen meist 6mo-3j`,t:"Gynäkologie und Pädiatrie"},{id:487,q:"Was sind Symptome von Pseudokrupp/Laryngitis?",a:`* Atemnot\r
 	* Zyanose\r
 	* inspiratorischer Stridor\r
 	* Heiserkeit\r
 	* trockener, bellender Husten\r
-	* möglw. Fieber`,t:"Gyn�kologie und P�diatrie"},{id:488,q:"Was ist Epiglottits?",a:`* bakteriell (HIB)\r
+	* möglw. Fieber`,t:"Gynäkologie und Pädiatrie"},{id:488,q:"Was ist Epiglottits?",a:`* bakteriell (HIB)\r
 	* Schwellung v Epiglottis, umliegendes gewebe\r
 	* plötzlich\r
 	* 2-6j\r
-	* impfung gegen HIB im Schema`,t:"Gyn�kologie und P�diatrie"},{id:489,q:"Symptome Epiglottitis?",a:`* Atemnot\r
+	* impfung gegen HIB im Schema`,t:"Gynäkologie und Pädiatrie"},{id:489,q:"Symptome Epiglottitis?",a:`* Atemnot\r
 	* Zyanose\r
 	* Inspiratorischer Stridor\r
 	* Schluck- und Sprachstörungen\r
 	* deutlicher Speichelfluss\r
 	* wenig/kein Husten\r
 	* plötzliches, hohes Fieber\r
-	* schwer Krank`,t:"Gyn�kologie und P�diatrie"},{id:490,q:"DD Epilgottitis/Laryngitis?",a:`* 1-7/0,5-3 J\r
+	* schwer Krank`,t:"Gynäkologie und Pädiatrie"},{id:490,q:"DD Epilgottitis/Laryngitis?",a:`* 1-7/0,5-3 J\r
 	* keine Tageszeit/Abends\r
 	* keine Jahreszeit/herbst o winter\r
 	* hohes fieber/kein o  niedriges Fieber\r
@@ -1513,17 +1513,17 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 	* schuckstörung: stark/nein\r
 	* husten: selten / bellend + trocken\r
 	* sprache: hot potato voice / heiser\r
-	* verlauf: schnell/langsam`,t:"Gyn�kologie und P�diatrie"},{id:491,q:"Maßnahmen Epiglottitis/Laryngitis?",a:`* beruhingen -> Eltern bei kind\r
+	* verlauf: schnell/langsam`,t:"Gynäkologie und Pädiatrie"},{id:491,q:"Maßnahmen Epiglottitis/Laryngitis?",a:`* beruhingen -> Eltern bei kind\r
 	* O2 15 L (dusche)\r
 	* Feuchte u Kalte umgebungsluft\r
 	* Überwachung Vitalzeichen\r
 	* NA\r
-	* Reanimationsbereitschaft`,t:"Gyn�kologie und P�diatrie"},{id:492,q:"HF biw kinder/saäuzgling?",a:`* Newborn: 130\r
+	* Reanimationsbereitschaft`,t:"Gynäkologie und Pädiatrie"},{id:492,q:"HF biw kinder/saäuzgling?",a:`* Newborn: 130\r
 	* 1-12 mo : 120\r
 	* 1 jahr: 110\r
 	* 2-6: 100\r
 	* 6 - 10: 95\r
-	* RR niedriger`,t:"Gyn�kologie und P�diatrie"},{id:493,q:"Was ist Gastroentritis?",a:`* viral\r
+	* RR niedriger`,t:"Gynäkologie und Pädiatrie"},{id:493,q:"Was ist Gastroentritis?",a:`* viral\r
 	* Brechfruchfal\r
 	* Symptome: \r
 		* Übelkeit, heftige Erbrechen\r
@@ -1532,44 +1532,44 @@ var ae=Object.defineProperty;var se=(n,e,t)=>e in n?ae(n,e,{enumerable:!0,config
 		* Kopfweh\r
 		* MAtt\r
 		* evtl. Fieber\r
-	* Komplikation: Dehydration`,t:"Gyn�kologie und P�diatrie"},{id:494,q:"Wie erkennt man Dehydration bei Baby?",a:`* trockener Mudn/Zunge\r
+	* Komplikation: Dehydration`,t:"Gynäkologie und Pädiatrie"},{id:494,q:"Wie erkennt man Dehydration bei Baby?",a:`* trockener Mudn/Zunge\r
 	* Kneiftest: Zwichek, wenn haut nicht glättet: positiv\r
 	* Wenig urin (trockene windel >0,5d)\r
 	* Gewichtsabnahme\r
 	* Teilnahmslosigkeit\r
-	* eingesunkene Augen, keine Tränen`,t:"Gyn�kologie und P�diatrie"},{id:495,q:"Was ist Fieberkrampf?",a:`* 3-5% aller Kinder \r
+	* eingesunkene Augen, keine Tränen`,t:"Gynäkologie und Pädiatrie"},{id:495,q:"Was ist Fieberkrampf?",a:`* 3-5% aller Kinder \r
 	* 6mo-5j (meist 1-3j)\r
 	* rascher Anstieg d Körpertemp (oft viraler infekt)\r
-	* KRampf meist <1 min max 5 min`,t:"Gyn�kologie und P�diatrie"},{id:496,q:"Symptome Fieberkrampf?",a:`* B-verlust\r
+	* KRampf meist <1 min max 5 min`,t:"Gynäkologie und Pädiatrie"},{id:496,q:"Symptome Fieberkrampf?",a:`* B-verlust\r
 	* starre augen (evtl schräg oben)\r
 	* Zyanose od Blässe\r
 	* Kurzer Atemstillstand\r
 	* Muskelverspannung\r
 	* Zuckung\r
-	* Schlaffheit`,t:"Gyn�kologie und P�diatrie"},{id:497,q:"Maßnahmen Fieberkramf?",a:`* Lagerung nach zustand\r
+	* Schlaffheit`,t:"Gynäkologie und Pädiatrie"},{id:497,q:"Maßnahmen Fieberkramf?",a:`* Lagerung nach zustand\r
 	* O2 dusche, möglw assistierte Beatmung (während Astillstand)\r
 	* Überwachen Vitalzeichen\r
 	* NA\r
 	* Reanimationsbereitschaft\r
-	* Anfall Dauer und ablauf notieren`,t:"Gyn�kologie und P�diatrie"},{id:498,q:"Was ist der Unterschied bei Wärmehaushalt von kindern/säuglingen zu erwachsenen?",a:`* mehr oberfläche/volumen -> unterkühlungsgefahr\r
-	* weniger muskel(entwicklung) -> zittern ineffektiver`,t:"Gyn�kologie und P�diatrie"},{id:499,q:"Was ist Mumps? Symptome?",a:`* Schwellung einer Ohrspeicheldrüse\r
+	* Anfall Dauer und ablauf notieren`,t:"Gynäkologie und Pädiatrie"},{id:498,q:"Was ist der Unterschied bei Wärmehaushalt von kindern/säuglingen zu erwachsenen?",a:`* mehr oberfläche/volumen -> unterkühlungsgefahr\r
+	* weniger muskel(entwicklung) -> zittern ineffektiver`,t:"Gynäkologie und Pädiatrie"},{id:499,q:"Was ist Mumps? Symptome?",a:`* Schwellung einer Ohrspeicheldrüse\r
 	* Schmerzen\r
 	* Fieber\r
-	* in Impfschema`,t:"Gyn�kologie und P�diatrie"},{id:500,q:"Was ist Keuchhusten? Symptome?",a:`* hochansteckende Kinderkrankheit\r
+	* in Impfschema`,t:"Gynäkologie und Pädiatrie"},{id:500,q:"Was ist Keuchhusten? Symptome?",a:`* hochansteckende Kinderkrankheit\r
 	* Auch Pertussis genannt\r
 	* sehr lange dauer (100-Tage-husten)\r
 	* Symptome: \r
 		* 40% kein Husten, 40% akute Bronchitis, 20% typischer Keuchhusten\r
 		* Hustenattacken mit herausgesteckter Zunge\r
 		* Ziehendes einatemgeräusch\r
-		* glasiger schleim + erbrechen`,t:"Gyn�kologie und P�diatrie"},{id:501,q:"Wie unterscheiden sich Kinderkrankheitsausschläge?",a:`* Masern: Gehäuft, überall\r
+		* glasiger schleim + erbrechen`,t:"Gynäkologie und Pädiatrie"},{id:501,q:"Wie unterscheiden sich Kinderkrankheitsausschläge?",a:`* Masern: Gehäuft, überall\r
 	* Röteln: einelne Punkte, überall\r
 	* Scharlach: gehäuft, va achsel, genitalbereich, gesicht\r
-	* Windpocken: einzeln, va achseln, genitalbereich`,t:"Gyn�kologie und P�diatrie"},{id:502,q:"Vorgehen Kinderkrankheiten?",a:`* hoch ansteckend\r
+	* Windpocken: einzeln, va achseln, genitalbereich`,t:"Gynäkologie und Pädiatrie"},{id:502,q:"Vorgehen Kinderkrankheiten?",a:`* hoch ansteckend\r
 	* Hygene: handschuhe, kittel, maske\r
-	* Kinderambulanz (eigener Eingang, sonst zuerst ohne patient nachfragen)`,t:"Gyn�kologie und P�diatrie"},{id:503,q:"Was ist SIDS?",a:`* Sudden Infant Death Syndrome\r
+	* Kinderambulanz (eigener Eingang, sonst zuerst ohne patient nachfragen)`,t:"Gynäkologie und Pädiatrie"},{id:503,q:"Was ist SIDS?",a:`* Sudden Infant Death Syndrome\r
 	* Ungeklärter Kindstod\r
-	* 2.-4. mo`,t:"Gyn�kologie und P�diatrie"},{id:504,q:"Was sind die Aufgaben des Sanitätsdiensts?",a:"* Erste Hilfe/Sanitätshilfe (geht wsl noch ein bissi über erste hilfe hinaus), Rettungstechnik (Verladen, Transportieren, etc.) + Diagnostik und Therapeutik (erstdiagnose + präklinische Maßnahmen)",t:"Recht"},{id:505,q:"Was ist der Tätigkeitsbereich d. Rettungssanitäter?",a:"Präklinische, hauptsächlich nicht invasive Maßnahmen und Tests im Gesundheitlichen Interesse des Patienten, e.g. O2, BZ, .. ...",t:"Recht"},{id:506,q:"Was darf der Rettungssani?",a:`* Lebensrettende Sofortmaßnahmen\r
+	* 2.-4. mo`,t:"Gynäkologie und Pädiatrie"},{id:504,q:"Was sind die Aufgaben des Sanitätsdiensts?",a:"* Erste Hilfe/Sanitätshilfe (geht wsl noch ein bissi über erste hilfe hinaus), Rettungstechnik (Verladen, Transportieren, etc.) + Diagnostik und Therapeutik (erstdiagnose + präklinische Maßnahmen)",t:"Recht"},{id:505,q:"Was ist der Tätigkeitsbereich d. Rettungssanitäter?",a:"Präklinische, hauptsächlich nicht invasive Maßnahmen und Tests im Gesundheitlichen Interesse des Patienten, e.g. O2, BZ, .. ...",t:"Recht"},{id:506,q:"Was darf der Rettungssani?",a:`* Lebensrettende Sofortmaßnahmen\r
 	* O2\r
 	* Infusion Aufrechterhalten/Beenden\r
 	* BZ Messen\r

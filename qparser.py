@@ -11,13 +11,13 @@ topicGroups = re.split(r"\n[A-Za-z äöüßÄÖÜ]+ ?[\r\n]+", questionText)[1:]
 topicList = re.findall(r"\n[A-Za-z äöüßÄÖÜ]+ ?[\r\n]+", questionText)
 print(topicList)
 for ti in range(len(topicList)):
-    topic = topicList[ti].strip()
+    topic = json.dumps(topicList[ti].strip())
     s = "\n" + topicGroups[ti].strip()
     for q in s.split("\n- "):
         if("\t" in q):
                 q = q.replace('"', "\"")
                 options = q.split("\t", 1)
-                qStr += '{"id": ' + str(qID) + ', "q": ' + json.dumps(options[0].strip()) + ', "a": ' + json.dumps(options[1].strip()) + ', "t": "' + topic + '"},\n'
+                qStr += '{"id": ' + str(qID) + ', "q": ' + json.dumps(options[0].strip()) + ', "a": ' + json.dumps(options[1].strip()) + ', "t": ' + topic + '},\n'
                 qID += 1
 
  
