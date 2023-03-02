@@ -1,7 +1,12 @@
 <script lang="ts">
+    import type { Question } from "./types";
+
+
     
-export let Question: string;
-export let Answer: string;
+export let Question: Question;
+
+
+
 export let Callback: (boolean) => void;
 
 
@@ -11,19 +16,21 @@ function flip(ev){
     QuestionSide = !QuestionSide;
 }
 
-$: if(Question && Answer){
+$: if(Question){
     QuestionSide = true;
-    console.log(Answer)
 }
 
 </script>
 
 <div class="card">
+    <div class="card-header">
+        <p><b>{Question.t}</b> Question nr. {Question.id}</p>
+    </div>
     <div class="card-top" on:click={flip}>
         {#if QuestionSide}
-            <p>{Question}</p>
+            <p>{Question.q}</p>
         {:else}
-            <p>{Answer}</p>
+            <p>{Question.a}</p>
         {/if}
     </div>
     
@@ -46,13 +53,14 @@ $: if(Question && Answer){
     background-color: rgb(102, 102, 219);
     border-radius: 15px;
     color: white;
-    padding: 0px;
-    width: 350px;
+    padding: 10px;
+    max-width: 80vw;
+    max-height: 80vh;
 }
 .card-top{
+    overflow-y: auto;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     padding: 15px;
-    max-height: 90vh;
     white-space: pre-line;
     text-align: left;
 }

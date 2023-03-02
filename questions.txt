@@ -1,3 +1,4 @@
+Airway
 - Was ist die Abgrenzung zwischen Oberem und Unteren Atemweg?
 	* Der Kehlkopf, auch Larynx genannt. Er wird zu den Unteren Atemwegen gezählt, alles darüber ist beim oberen Atemweg
 
@@ -185,7 +186,7 @@
 	* Tracheostoma Aussaugen
 	* O2 druch Anhalten v Makse ans tracheostoma verabreichen
 	* Atemstillstand: CPR (Beatmung mit Babymaske)
-
+Breathing
 - Wie viele Rippen hat der Mensch?
 	* 12 Paare, davon
 		. 7 echte Rippen (1-7)
@@ -831,7 +832,7 @@
 	* Bodycheck
 	* Reanimationsbereitschaft
 	* Wärmeerhalt
-
+Circulation
 - Beschreibe den Weg den das Blut nimmt, ausgehend von der Lunge
 	1. Sauerstoffreiches Blut fließt über die Lungenvene in den linken Vorhof
 	2. Linke Kammer
@@ -1345,6 +1346,7 @@
 	* Wegdrückbare Ödeme in beiden Beinen
 	* Aszites (Bauchwassersucht, also Wasser in der Bauchhöle)
 
+Disability
 - Was ist die Aufgabe des Kleinhirns?
 	* Inverse Kinematik
 
@@ -1654,7 +1656,239 @@
 	* Nerocheck und Meningismustest
 	* Notarzt
 	* Reanimationsbereitschaft
+- Wodurch können Krampfanfälle ermöglicht werden?
+	* genetisch
+	* symptomatisch
+		- SHT, Blutungen, St. p. Insult, Tumor
+		- Hypoglykämie
+		- Meningitis
+		- Eklampsie
+		- Fieberkrampf
 
+- Welche Art von Krampf ist für uns relevant?	
+	* tonisch-klonischer Krampfanfall / Grand Mal
+
+- Welche Faktoren können einen Krampfanfall auslösen?
+	* Alkoholentzug
+	* visuelle Reize
+	* Schlafentzug
+	* Absetzen von Antiepileptiker
+
+- Was ist der Unterschied zwischen fokalem und generalisierten Anfall?
+	* Fokal betrifft nur eine einzige Hirnregion
+	* Generalisiert ist ganzes Hirn betroffen -> tonisch-klonischer Anfall
+	* Vor generalisiertem Anfall meist fokaler
+
+- Was ist die Aura?
+	* Fokaler Anfall als Vorbote für einen Generalisierten
+	* Symptome: Sinnestäuschungen (Seh- Hör- Geruchs- Geschmacksstörungen, Kribbeln, Taubheitsgefüghl, Wärmegefühl)
+
+- Wie ist die Tonische Phase?
+	* Streck oder Beugekrampf
+	* 10-30 sek
+	* möglw. Inertialschrei
+	* Patient stürzt zu boden
+	* Bewzusstseinstrübung
+	* Atemstillstand
+
+- Klonische Phase
+	* 3-5 Minuten
+	* rhytmisches Zucken
+	* Zungenbiss
+	* SChaum vorm Mund
+	* Lichtstarre Pupillen, gerader/Schräger starrer Blick
+	* Harn- oder Stuhlabgang
+
+- Maßnahmen während Anfall
+	* Patient vor verletzungen schützen (spitze Gegenstädne weg, evtl mit Decke abpolstern)
+	* Anfall abwarten
+	* O2 Dusche 15L
+	* Notarzt
+	* Reanimationsbereitschaft
+
+- Was ist die Nachschlafphase?
+	* Person schwer erqweckbar/schläfrig/verwirrt/abwesend/wach
+	* Dauert Minuten bis Stunden
+	* Während Phase Krampfanfall nicht erinnerlich (retrograde Amnesie)
+	* Unterschiedlich Person zu Person
+
+- Maßnahmen nach Kramnpfanfall?
+	* Lagerung nach Zustand
+		. B-klar: OK erhöht
+		. sonst SSL
+	* O2 bei Bedarf
+	* Vitalwerte krontrollieren
+	* BZ messen (Hypo)
+	* BC, NC
+	* Notarzt eig nicht notwendig
+
+- Was sind wichtige Anamnesefragen bei Krampfanfall?
+	* Durch Krampfanfall gestürzt?
+	* Krampfanfall bekannt?
+	* Medikammente? Eingenommen?
+	* Drogen, Alk, andere provozierende Faktoren?
+
+- Was ist Status Epilepticus?
+	* Krampf länger als 5 min
+	* Mehrere Anfälle ohne zu Bewusstsein zu kommen
+	* Lebensbedrohlich!!
+	* NA!
+
+- Wie wird die Körpertemp geregelt?
+	* Hypothalamus: Thermostat d Körpers
+	* Schwitzen
+	* Eng/Weitstellung peripherer Gefäße
+	* Zittern
+	* Bewegung
+	* Bei Neugeborenen: Wärmererzeugung in Braunen Fettgewebe
+
+- Was ist ein Sonnenstich? Symptome?
+	* Intensive Sonnenenstrahlung
+	* Reizung von Hirnhaut und -gewebe
+	* Schwindel
+	* Übelkeit
+	* Rötung, heiße haut
+	* Meningismus
+	* Übelkeit, Erbrechen, Schwindel
+	* Körpertemp evlt leicht erhöht
+	* Symptome möglw. stunden nach einstrahlung bei kindern und säuglingen
+
+- Maßnahmen Sonnenstich?
+	* kühler ort ohne Sonne
+	* Kalte Wickel an Kopf und Nacken
+	* OK Erhöht
+	* NC + Meningismus
+	* Vitalkontrolle
+
+- Welche typen von Hitzenotfall unterscheidet man?
+	* Hitzeerschöpfung (<40°C)
+	* Hitzeschlag (>40°C)
+
+- Was ist Hitzeerschöpfung? Symptome?
+	* Wasser, Elektrolytverlust durch Schwitzen
+	* Thermoregulation noch normal
+	* Möglw. Vorstufe Hitzeschlag
+	* Symptome
+		. Übelkeit
+		. Schwindel
+		. Erbrechen
+		. Kopfweh
+		. Schweißige haut
+		. + AF, + HF
+		. T normal bis 40°
+
+- Maßnahmen Hitzeerschöpfung?
+	* kühle Umgebung
+	* Lagerung nach Zustand
+	* kontrolle/überwachung Vitalzeichen (überwachung wenn richtung hitzeschlag)
+	* NA nach Zustand
+
+- Was ist Hitzeschlag?
+	* Temp über 40
+	* Thermoregulation funktioniert nicht mehr
+	* Organdysfunktion bis zu Versagen (immer ZNS betroffen)
+	* akute Lebensgefahr
+	* 2 Typen
+		. klassischer Hitzeschlag: (klein)kinder + ältere bei hoher umgebungstemp
+		. anstrengungshitzeschlag: extreme Anstrengung bei hoher temp 
+
+- Symptome Hitzeschlag?
+	* Körpertemp > 40
+	* evtl trockene Haut
+	* Kopfweh, Übelkeit, Erbrechen
+	* -RR, Arrhytmia
+	* Bewusstseinstrübung bis koma
+	* Krampfanfälle
+	* Andere Organe versagen
+
+- Maßnahmen Hitzeschlag?
+	* Kühlere Umgebung
+	* Abkühlen (Ziel <39°, Coolpack achsel/leisten)
+	* SSL
+	* 15L O2
+	* Überwachung Vitalzeichen
+	* NA
+	* Reanimationsbereitschaft
+
+- Wann spricht man von Unterkühlung?
+	* < 35°
+
+- Wie lässt sich UNterkühlungssymptomatik unterteilen?
+	* leicht
+		. Vasokonstriktion -> Zentralisierung
+		. periphere Zyanose
+		. +FH, +AF
+		. Zittern
+		. Bewusstsein normal
+	* moderat
+		. Vasodilatation
+		. -HF, -AF, -RR
+		. kein Zittern, sondern Starre
+		. B-trübung
+	* schwere
+		. minimaler Kreislauf/Kreislaufstillstand
+		. Scheintod
+		. keine Schmerz-/Pupillenreflexe
+
+- Maßnahmen leichte Unterkühlung?
+	* Aktives Aufwärmen
+
+- Maßnahmen moderat/schwer?
+	* Patient mögl wenig bewegen
+	* SSL
+	* 15L O2
+	* Vitalparam Überwachen
+	* NA
+	* Reanimtionsbereitschaft
+	* Wärmeerhalt (kein Aufwärmen!)
+
+- Was sind häufige Vergiftungen?
+	* Schlaf/Beruhingungsmittel
+	* Schmerzmittel
+	* Neuroleptika
+	* Antidepressiva
+	* Alk + Med
+	* Alkohol
+	* Andere Drogen
+
+
+- Was sind die 4 stadien einer Alkoholvergiftung?
+	* Exzitationsstadium (0.2-2 prom)
+		. Enthemmung
+		. verlängerte Reaktionszeit
+		. verminderte Schmezrwahrnehmung
+		. Gleichgewichtsstörung
+		. undeutliche Sprache
+	* Rauschstadium (2-2,5 prom)
+		. Muskelschlaffheit
+		. evtl. aggressiv
+		. Erbrechen
+		. Übelkeit
+		. Amnesie
+		. Sprachstörung
+		. enge Pupillen
+	* Narkose (2,5-4 prom)
+		. B-Los
+		. keine Schmerzreaktion
+		. Puillen unterschiedlich, träge reaktiv
+		. -RR
+	* Asphyxie (>4 prom)
+		. Koma
+		. Keine Reaktionen/reflexe mehr
+		. Ateminsuffizienz
+		. pupillen nicht reaktiv, weit geöfnet
+
+- Maßnahmen Alk intox
+	* Lagerung nach zustand
+		. klar: flach/leiucht ok erhöht
+		. eingetrübt: SSL
+	* O2 wenn benötigt
+	* BZ (Hypoglyk)
+	* Überwachung Vitalzeichen + GCS
+	* NC, BC
+	* NA wenn B-Los
+	* Wärmeerhalt
+Environment
 - Was sind Typische Abdomensymptome?
 	* Übelkeit
 	* Erbrechen
@@ -2390,7 +2624,485 @@
 		. Rauschen im Ohr
 		. Übelkeit, Schwindel
 		. möglw. leichte Blutung
+Gynäkologie und Pädiatrie
+- Wie lange dauert eine Schwangerschaft?
+	* Meist 40 SSW
+	* 38-42 SSW normal
+	* Davor frühgeburt
 
+- Ab welcher woche hat baby Überlebenschance?
+	* 24 SSW
+
+- Was kann zu Frühgeburten führen?
+	* Alk
+	* Nikotin
+	* Hypertonie
+	* Infektion
+	* Präeklampsie
+	* Diabetes
+
+- Wie lässt sich die Schwangerschaft einteilen?
+	* Trimester
+		. 1: (bis 13 SSW): Anlage wichtiger Organe
+		. 2: (bis 26 SSW): Ausbildung organe, erste bewegungen, ab 24 lebensfähig
+		. 3: (bis 40 SSW): Organe fertig ausgebildet, Mutter wird geburtsbereit
+
+- Was ist eine Fehlgeburt? Symptome?
+	* meist 10-12. SSW
+	* nicht überlebensfähriges kind geboren
+	* Symptome:
+		. Wehenartige Schmerzen (Unterbauch/Kreuz)
+		. Vaginale Blutung
+		. Abgang v Gewebe/toter Frucht
+
+- Was ist die Extrauteringravidität
+	* Eizelle nistet außerhalb d Gebärmutter
+	* meist Eileiter
+	
+- Was sind die Symptome einer Eileiterschwangerschaft?
+	* Einsietige Unterbauchschmerzen
+	* vaginale Blutung
+	* Schwangerschaft möglich
+	* -> Lagerung nach Patientenwunsch
+
+- Was ist eine Tubenruptur? Symptome?
+	* Komplikation Eileiterschwangerschaft
+	* meist 6-9 SSW (6-9 W ohne Regel)
+	* Eileiter reißt ein
+	* Symptome:
+		. sehr starke einseitige Unterbauchschmerzen
+		. akutes Abdomen
+		. Hypervolämer Schock
+		. evtl. Vaginalblutung
+
+- Maßnahmen Tubenruptur?
+	* siehe Hypovoläm Schock
+
+- Was sind die Maßnahmen bei anderen Vaginalblutungen?
+	* Lagerung nach Fritsch
+	* Anamnese (Zyklus, Schwangerschaft, MuKi-Pass)
+	* ggf. Maßnahmen hypovoläm. schock
+	* ggf. NA
+	* AVISO
+
+- Was ist die Aufgabe der Plazentas?
+	* Verbindet Kreislauf v Mutter und Kind
+	* Stellt Kind nähstoffe zur verfügung
+	* Blut trotzdem getrennt - kapillaren von mutter neben kapillaren von kind
+	* Entsteht wo eizelle eingenistet
+
+- Was ist die Nabelschnur?
+	* Verbindung Plazenta-Kind
+	* 2 Arterien (zur Mutter hin, entorgt Schadstoffe), 1 Vene (zu Kind hin, bringt Nährstoffe)
+
+- Was ist die Fruchtblase?
+	* Eiheute von Plazenta ausgehend, bilden Sack
+	* Gefüllt mit Fruchtwasser
+	* SChützt vor Stößen, Verletzungen, Infektionen
+
+- Was ist eine vorzeitige Plazentalösung?
+	* meist letztes trimester
+	* Plazenta ganz oder Teilweise von Gebärmutter getrennt
+	* Durch Stöße, Trauma, Zug, Gefäßverenderungen (Drogen, Präeklampsie, Hypertonie, Nikotin)
+
+- Was sind Symptome einer Plazentalösung?
+	* Blutverlust
+	* Schmerzen
+	* Brettharter Uterus
+	* Hypovoläm
+	* möglw leichte-starke vaginale blutung
+
+- Wie nennt man es wenn plazenta vor ausgan?
+	* Plazenta praevia
+
+- Was ist Placenta praevia? Symptome?
+	* Plazenta vor Muttermund -> verlegt
+	* Am ende d Schwangerschaft Plazenta verletzt -> blutungen
+	* Meist in MuKi zu lesen
+	* Symptome: 
+		* vaginale Blutung
+		* keine Schmerzen
+		* möglw. hypovoläm
+
+- Was ist SIH?
+	* Schwangerschafts-Induzierte Hypertonie
+	* RR > 140/90
+	* vor Schwangerschaft RR normal
+	* 6-8% aller Schwangeren
+	* meist weg 3 mo vor geburt
+	* Wenn Organ-involement: Präeklampsie
+
+- Was sind Symptome für Präeklampsie?
+	* SIH + Organmanifest
+	* RR > 140/90 + Proteine im Urin
+	* Mögliche Symptome:
+		. Ödeme
+		. Kopfweh, Schwindel
+		. Benommen
+		. Ohrensausen
+		. Sehstörungen
+		. Übelkeit, Erbrechen
+		. selten Ikterus
+	* 2% aller schwangeren (25% aller mit SIH)
+
+
+- Was sind Risikofaktoren für Präeklampsie?
+	* Erstgeburt
+	* Schwangere > 35
+	* früher schon mal präeklampsie
+	* Mehrlinge
+	* Hypertonie vor Schwanger
+	* Adipositas
+	* Diabetes
+
+- Was ist HELLP?
+	* 0,1-0,2% aller Schwangerschaften, 10-20% von Präeklampsie
+	* Auch nach geburt möglich
+	* Hemolysis (Blut löst sich auf -> anämie)
+	* Elevated Liver (schlechte Leber)
+	* Low Platelet Count (wenig Blutplättchen)
+
+- Symptome HELLP?
+	* möglw. Präeklampsie
+	* Starke SChmerzen rechter Oberbauch (Leber-Kapsel steht unter Spannugn)
+	* Übelkeit, Erbrechen, Durchfall
+	* Ikterus
+
+- Komplikationen HELLP?
+	* Leber immer kaputter
+	* Leberkapselruptur -> akut Abdomen
+	* Hirnblutungen	
+	* ANV
+	* Placentalösung
+	* fetale Wachstumsstörung
+	* Lethalität:
+		. Mutter 3-5%
+		. Kind 10-40%
+
+- Was ist Eklampsie?
+	* Präeklampsie + Krämpfe
+	* Grand mal vor/während/bis zu 7 Tage nach Geburt
+
+- Was sidn vorzeichen für Eklampsie?
+	* starker RR anstieg
+	* Sehstörungen (Flimmern, Doppelt sehen, verschwommen)
+	* Verwirrtheit
+	* fokale motorische ausfälle
+
+
+- Was ist ein Nabelschnurvorfall?
+	* sehr selten (0,2-0,6%)
+	* bei Vorzeitigem Blasensprung
+	* Nabelschnur vor kinderkopf
+	* wird abgedrückt -> kind unterversorgt
+
+- Was sind Präventivmaßnahmen gegen Nabelschnurvorfall?
+	* Nach Blasensprung nicht stehen/gehen
+	* Becken hochgelagert
+	* Bis Hebame OK gibt
+
+- Was sind akute Maßnahmen bei Nabelschnurvorfall?
+	* NA
+	* Becken hoch
+	* Wehen verhecheln
+
+- Was steht im MuKi-Pass?
+	* SSW
+	* Lageanomalien
+	* Mehrlinge?
+
+- Was ist sonst wichtig zur Doku nach Blasensprung?
+	* wann Blasensprung?
+	* Pat wie angetroffen?
+	* Farbe Fruchtwasser
+
+- Was ist das Vena Cava - Kompressionssyndrom? Symptome?
+	* in Rückenlage gewicht von kind drückt Vena Cava inferior ab -> wenig rückfluss zum Herzen
+	* Symptome (in Rückenlage):
+		* -RR
+		* Synkope
+		* Blässe
+		* +HF
+		* Atemnot
+		* Kollaps
+		* Wenn zu lange: kind Unterversorgt
+
+- Maßnahmen Vena-Cava-Kompressionssyndrom?
+	* Seitenlage
+	* Wenn sich zustand nicht bessert, andere Ursache!!
+
+- Wie viel wiegt ein normales Neugeborenes?
+	* 3,5-5kg
+
+- Wie könnte ein Kind liegen? Wann macht man einen Kaiserschnitt?
+	* Schädellage (96%)
+	* Beckenendlage (3%)
+	* Querlage, Schräglage (beide <1%): Kaiserschnitt
+
+- Welche Phasen der Geburt gibt es?
+	* ERöffnungsphase
+		. 6-12h (Erstgebärende)
+		. Erröfnungswehen (Senkwehen): unregelmäßig, kurz -> kind weiter nach unten
+		. Muttermund öffnet sich (10cm) -> Ende v. Eröffnungsph.
+		. Blasensprung (wenn davor: vorzeitig, auch in Austreibungsphase möglich)
+	* Austreibungsphase
+		. von Muttermundöffnung bis kind draußen
+		. Wehen im Abstand v 2-5min
+		. Wehendauer 60-90s 
+		. Kind immer Tiefer, Presswehen
+	* Nachgeburtsphase
+		. Nachwehen (ca 15 min lang) -> Auswurf Placenta
+		. bis zu 0.5l blutverlust normal
+
+- Maßnahmen in der Nachgeburtsphase?
+	* Kind an Brust von Mutter -> Hormonausschüttung -> zieht Gebärmutter zusammen
+	* Lagerung Fritsch
+	* Placenta an KH
+
+- Was ist PPH?
+	* postpartale Blutung -> Blutung nach Placenta-Ablösung zu stark
+	* Schocksymptome
+
+- Risikofaktoren PPH?
+	* St. p. atone Blutung (MuKi-pass)
+	* Mehrlingsschwangersch.  (MuKi)
+	* zu schnelle Geburt
+	* Plazenta unvollständig gelöst
+	* Gerinnungsstörung
+	* Verletzung bei Austreibung (Dammbruch?)
+
+- Maßnahmen PPH?
+	* über nabel kreisförmig streichen -> Wehe auslösen
+	* Coolpack unterbauch 
+	* Kind stillen lassen -> oxytocin
+	* Hypovoläm
+
+- Wie schaut es mim NA bei der Geburt aus?
+	* IMMER
+
+- Was fragen bei Geburtshilfe?
+	* MuKi-Pass
+	* wie vielte SChwangerschaft?
+	* Wehen?
+	* Blasensprung?
+	* Termin?
+	* Wunschklinik?
+	* Wie gehts jtzt?
+
+- Was ist bei APGAR inkludiert?
+	* Atmung
+	* Puls
+	* Grund-tonus (bewegung)
+	* Aussehen
+	* Reflexe
+
+- Was tun bei Geburt?
+	* NA
+	* Rückenlage, Beine Nach oben
+	* OK leicht erhöht
+	* Langsame geburt
+		. sanft kopf zurückhalten/abbremsen (flache Hand)
+		. zum Verhecheln auffordern
+	* Kind bei geburt zur Seite mitdrehen
+	* Schulteraustritt mithelfen
+	* Wenn Körper vollständig draußen: Zeit notieren
+
+- Was tun nach Geburt?
+	* Wärmeverlust schützen
+	* Abtrocknen
+		. warme tücher
+		. stimuliert kind -> sollte Atmen anfangen
+		. danach zu Mutter an die Brust
+	* Abnabeln
+		. wenn Nabelschnur nicht mehr pulsiert (wenn baby stabil)
+		. wenn nicht stabil: nach abtrocknen
+
+- Wie wird abgenabelt?
+	* 1 Klemmme 2 Handbreiten von Neugeborenen
+	* 2. Klemme eine Handbreite nach 1. Klemme
+	* Mit Steriler Schere durchtrennen
+	* Neugebornen-Ende 
+		. mit WUndauflage bedeckt
+		. mit mulbinde an babybauch fixiert
+	* Mutter-Ende in Leistenbeuge, darauf Vorlage
+
+
+- Wann macht man APGAR?
+	* 1 / 5 / 10 min nach geburt
+	* notieren!
+
+- Wie unterscheidet sich die A-Anatomie von Säulginen zu Erwachsenen?
+	* <5 mo: nur Nasenatmung
+	* kurzer Hals, große Zunge/Epiglottis
+	* Engste stelle nicht stimmritze sondern direkt darunter
+	* Larynx höher
+
+- B-Anatomie Säuglinge unterschied zu Erwachsenen?
+	* l/r Hauptbronchien fast gleich steil
+	* Atemwege generell eng
+	* rel. O2 verbrauch doppelt so hoch
+	* Thorax biegsamer
+	* Rippen horizontal -> nicht guter schutz
+	* atemmuskulatur noch in entwicklung -> Säuglinge sind Bauchatmer
+
+- AF Neigeborener, Säugling, Kind?
+	* 40-60, 30-40, 15-30
+	* Weil Lungenvolumen viel kleiner
+
+- Symptome Atemnot Säugling/Kind?
+	* AF noch höher
+	* Zyanose
+	* Atemgeräusche
+	* Nasenflügeln gehoben
+	* Einziehungen am Hals (unterdruck ohne Atmung)
+	* "Head-bobbing"
+	* Schaukelatmung (Bauch/Thorax gegengleich)
+
+- Wie wird Pseudokupp noch genannt?
+	* Laryingitis
+
+- Was ist Pseudokrupp/Laryngitis?
+	* meist viral
+	* herbst, winter
+	* Entzündung Larynx
+	* verengung der Atemwege bei engster Stelle
+	* wiederkehrende schübe va in der Nacht
+	* betroffen meist 6mo-3j
+
+- Was sind Symptome von Pseudokrupp/Laryngitis?
+	* Atemnot
+	* Zyanose
+	* inspiratorischer Stridor
+	* Heiserkeit
+	* trockener, bellender Husten
+	* möglw. Fieber	
+
+- Was ist Epiglottits?
+	* bakteriell (HIB)
+	* Schwellung v Epiglottis, umliegendes gewebe
+	* plötzlich
+	* 2-6j
+	* impfung gegen HIB im Schema
+
+- Symptome Epiglottitis?
+	* Atemnot
+	* Zyanose
+	* Inspiratorischer Stridor
+	* Schluck- und Sprachstörungen
+	* deutlicher Speichelfluss
+	* wenig/kein Husten
+	* plötzliches, hohes Fieber
+	* schwer Krank
+
+
+- DD Epilgottitis/Laryngitis?
+	* 1-7/0,5-3 J
+	* keine Tageszeit/Abends
+	* keine Jahreszeit/herbst o winter
+	* hohes fieber/kein o  niedriges Fieber
+	* speichelfluss: stark/kein
+	* schuckstörung: stark/nein
+	* husten: selten / bellend + trocken
+	* sprache: hot potato voice / heiser
+	* verlauf: schnell/langsam
+
+- Maßnahmen Epiglottitis/Laryngitis?
+	* beruhingen -> Eltern bei kind
+	* O2 15 L (dusche)
+	* Feuchte u Kalte umgebungsluft
+	* Überwachung Vitalzeichen
+	* NA
+	* Reanimationsbereitschaft
+
+
+- HF biw kinder/saäuzgling?
+	* Newborn: 130
+	* 1-12 mo : 120
+	* 1 jahr: 110
+	* 2-6: 100
+	* 6 - 10: 95
+	* RR niedriger
+
+- Was ist Gastroentritis?
+	* viral
+	* Brechfruchfal
+	* Symptome: 
+		* Übelkeit, heftige Erbrechen
+		* starker Durhcfall
+		* bauchweh
+		* Kopfweh
+		* MAtt
+		* evtl. Fieber
+	* Komplikation: Dehydration
+
+- Wie erkennt man Dehydration bei Baby?
+	* trockener Mudn/Zunge
+	* Kneiftest: Zwichek, wenn haut nicht glättet: positiv
+	* Wenig urin (trockene windel >0,5d)
+	* Gewichtsabnahme
+	* Teilnahmslosigkeit
+	* eingesunkene Augen, keine Tränen
+
+- Was ist Fieberkrampf?
+	* 3-5% aller Kinder 
+	* 6mo-5j (meist 1-3j)
+	* rascher Anstieg d Körpertemp (oft viraler infekt)
+	* KRampf meist <1 min max 5 min
+
+- Symptome Fieberkrampf?
+	* B-verlust
+	* starre augen (evtl schräg oben)
+	* Zyanose od Blässe
+	* Kurzer Atemstillstand
+	* Muskelverspannung
+	* Zuckung
+	* Schlaffheit
+
+- Maßnahmen Fieberkramf?
+	* Lagerung nach zustand
+	* O2 dusche, möglw assistierte Beatmung (während Astillstand)
+	* Überwachen Vitalzeichen
+	* NA
+	* Reanimationsbereitschaft
+	* Anfall Dauer und ablauf notieren
+
+- Was ist der Unterschied bei Wärmehaushalt von kindern/säuglingen zu erwachsenen?
+	* mehr oberfläche/volumen -> unterkühlungsgefahr
+	* weniger muskel(entwicklung) -> zittern ineffektiver
+
+- Was ist Mumps? Symptome?
+	* Schwellung einer Ohrspeicheldrüse
+	* Schmerzen
+	* Fieber
+	* in Impfschema 
+
+- Was ist Keuchhusten? Symptome?
+	* hochansteckende Kinderkrankheit
+	* Auch Pertussis genannt
+	* sehr lange dauer (100-Tage-husten)
+	* Symptome: 
+		* 40% kein Husten, 40% akute Bronchitis, 20% typischer Keuchhusten
+		* Hustenattacken mit herausgesteckter Zunge
+		* Ziehendes einatemgeräusch
+		* glasiger schleim + erbrechen
+
+
+- Wie unterscheiden sich Kinderkrankheitsausschläge?
+	* Masern: Gehäuft, überall
+	* Röteln: einelne Punkte, überall
+	* Scharlach: gehäuft, va achsel, genitalbereich, gesicht
+	* Windpocken: einzeln, va achseln, genitalbereich
+
+- Vorgehen Kinderkrankheiten?
+	* hoch ansteckend
+	* Hygene: handschuhe, kittel, maske
+	* Kinderambulanz (eigener Eingang, sonst zuerst ohne patient nachfragen)
+
+- Was ist SIDS?
+	* Sudden Infant Death Syndrome
+	* Ungeklärter Kindstod
+	* 2.-4. mo
+Recht
 - Was sind die Aufgaben des Sanitätsdiensts? 
 	* Erste Hilfe/Sanitätshilfe (geht wsl noch ein bissi über erste hilfe hinaus), Rettungstechnik (Verladen, Transportieren, etc.) + Diagnostik und Therapeutik (erstdiagnose + präklinische Maßnahmen)
 
@@ -2607,7 +3319,7 @@
 
 	Landesgesetze:
 		* Wiener Rettungs- und Krankentransportsgesetz (WRKG): Regelt die Abwicklung von Rettungs- und Krankentransporten
-
+Katastrophen
 - Welche Regeln gelten im Katastrophenfall?	
 	* Normale RS Gesetze (SanG)
 	* Katastrophenhilfsgesetze
@@ -2706,7 +3418,7 @@
 	* Großschadenereignisse
 	* Katastrophen
 	* Geplante Ereignisse (Großveranstaltungen)
-
+Hygene
 - Was sind endogene/exogene Infektion?
 	* Erreger aus Umgebung/ eigenem Körper (an anderer Stelle)
 

@@ -3,42 +3,60 @@
   import Card from './Card.svelte';
   import questionJson from "../../questions.json";
   import ProbList from './ProbList';
-
-  type Question = {
-    q: string, id: number, a: string
-  }
-
+  import type { Question } from './types';
+  
   const QuestionList: ProbList<Question> = new ProbList(); 
   let currentQ: Question
 
-  let cQ: string;
-  let cA: string;
+  let len: number;
 
-  for(const o of questionJson){
-    QuestionList.push(o, 10);
+  function nextQ(){
+    currentQ = QuestionList.getRand();
+    len = QuestionList.length;
   }
 
-  currentQ = QuestionList.getRand();
-  cQ = currentQ.q;
-  cA = currentQ.a;
+  function reset(any = undefined){
+    QuestionList.clear();
+    for(const o of questionJson){
+      QuestionList.push(o, 10);
+    }
+    nextQ();
+    
+  }
+
+  reset();
+
+ 
+
+  
 
   function nextQuestion(result: boolean){
-    if(currentQ != null){
-      const factor = result ? 0.5: 1.5
-      QuestionList.getItem(currentQ).Weight *= factor
-    }
-    currentQ = QuestionList.getRand();
-    cQ = currentQ.q;
-    cA = currentQ.a;
     
+
+    if(currentQ != null){
+      if(result) QuestionList.remove(currentQ);      
+    }
+    
+    if(QuestionList.length  > 0){
+      nextQ();
+    }
   }
 </script>
 
-<main>
-  <Card Question={cQ} Answer={cA} Callback={nextQuestion}></Card>
-</main>
+<div>
+  {#if len == 0}
+    <p>No questions left, you answered all of them</p>
+  {:else}
+    <Card Question={currentQ} Callback={nextQuestion}></Card>
+  {/if}
+  <button on:click={reset}>Reset ({len} remain)</button>
+</div>
 
 <style>
+  div{
+    height: 100%;
+    width: 100%;
+  }
   .logo {
     height: 6em;
     padding: 1.5em;

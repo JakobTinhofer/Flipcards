@@ -23,11 +23,19 @@ export default class ProbList<T>{
             console.log("Changed total by " + change)}, val, w))
     }
 
+    public clear(){
+        this.totalVal = 0;
+        this.vals = [];
+    }
 
     public remove(val: T){
         const index = this.vals.findIndex((v2) => { return v2.Value ===  val; } )
         this.totalVal -= this.vals[index].Weight
         this.vals.splice(index, 1)
+    }
+
+    public get length(){
+        return this.vals.length;
     }
 
     
