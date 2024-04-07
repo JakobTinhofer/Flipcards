@@ -1,0 +1,9 @@
+{
+    
+    "url": "gdp1b",
+    "build_script": "build_gdp1b.py",
+    "name": "Formeln für Grundlagen der Physik 1b",
+    "questions": [
+
+    ]
+}

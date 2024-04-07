@@ -2,7 +2,7 @@ import json
 import base64
 import codecs
 import re
-with codecs.open('questions.txt', encoding='utf-8') as f:
+with codecs.open(globals()["MODULE_FOLDER"] + '/questions.txt', encoding='utf-8') as f:
     questionText = "\n" + f.read().strip()
 
 qStr = ""
