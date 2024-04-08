@@ -1,5 +1,4 @@
 import json
-import base64
 import codecs
 import re
 with codecs.open(globals()["MODULE_FOLDER"] + '/questions.txt', encoding='utf-8') as f:
