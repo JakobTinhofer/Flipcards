@@ -25,7 +25,7 @@ def build_index(modules, html_index):
     return html_index.replace(r"<!--LINKS HERE-->", module_html)
 
 def write_html(q_html, url):
-    with open(os.path.abspath(os.path.join(script_path, '../public/' + url +'.html')), 'w') as f:
+    with open(os.path.abspath(os.path.join(script_path, '../public/' + url +'.html')), 'w', encoding="utf-8") as f:
         f.write(q_html)
 
 def write_questions(q_bin, url):
