@@ -23,6 +23,5 @@ for ti in range(len(topicList)):
  
 
 qStr = "[" + (qStr.strip())[:-1] + "]"
-print(qStr) 
 f2 = open(mypath + "/questions.json", "w")
 f2.write(qStr)
