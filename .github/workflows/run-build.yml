@@ -22,7 +22,5 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run script
-        run: python build.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: NOTION_TOKEN=${{ secrets.NOTION_TOKEN }} python build.py
+          
