@@ -1,0 +1,13 @@
+name: Build & Deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  call-build:
+    uses: ./.github/workflows/run-build.yml
+  call-publish:
+    uses: ./.github/workflows/publish-pages.yml
