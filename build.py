@@ -9,7 +9,7 @@ class QuestionModule:
 
 def clear_public():
     print("Clearing public directory...")
-    for root, dirs, files in os.walk(os.path.join(script_path, '../public')):
+    for root, dirs, files in os.walk(os.path.join(script_path, './public')):
         for f in files:
             os.unlink(os.path.join(root, f))
         for d in dirs:
@@ -25,11 +25,11 @@ def build_index(modules, html_index):
     return html_index.replace(r"<!--LINKS HERE-->", module_html)
 
 def write_html(q_html, url):
-    with open(os.path.abspath(os.path.join(script_path, '../public/' + url +'.html')), 'w', encoding="utf-8") as f:
+    with open(os.path.abspath(os.path.join(script_path, './public/' + url +'.html')), 'w', encoding="utf-8") as f:
         f.write(q_html)
 
 def write_questions(q_bin, url):
-    with open(os.path.abspath(os.path.join(script_path, '../public/questions/' + url +'.json')), 'wb') as f:
+    with open(os.path.abspath(os.path.join(script_path, './public/questions/' + url +'.json')), 'wb') as f:
         f.write(q_bin)
 
 def read_config(config_obj, config_path):
@@ -49,7 +49,7 @@ def read_config(config_obj, config_path):
 
 def get_configs():
     cfgs = []
-    for root, dirs, files in os.walk(os.path.abspath(os.path.join(script_path, '../modules'))):
+    for root, dirs, files in os.walk(os.path.abspath(os.path.join(script_path, './modules'))):
         for file in files:
             if file.endswith('config.json'):
                 cfgs.append(os.path.join(root, file))
@@ -59,9 +59,8 @@ def get_configs():
 script_path = os.path.dirname(os.path.realpath(__file__))
 clear_public()
 
-next(os.walk(os.path.join(script_path, '../modules')))
-html_base = open(os.path.join(script_path, '../templates/base.html'), 'r', encoding='utf-8').read()
-html_index = open(os.path.join(script_path, '../templates/index.html'), 'r', encoding='utf-8').read()
+html_base = open(os.path.join(script_path, './templates/base.html'), 'r', encoding='utf-8').read()
+html_index = open(os.path.join(script_path, './templates/index.html'), 'r', encoding='utf-8').read()
 configs = get_configs()
 modules = []
 
@@ -70,7 +69,7 @@ for q in configs:
     modules.append(read_config(config_obj, q))
 
 write_html(build_index(modules, html_index), 'index')
-os.mkdir(os.path.join(script_path, '../public/questions'))
+os.mkdir(os.path.join(script_path, './public/questions'))
 for module in modules:
     write_html(module.html_str, module.url)
     write_questions(module.questions_bin, module.url)
