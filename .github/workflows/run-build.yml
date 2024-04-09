@@ -4,12 +4,14 @@ on:
   workflow_dispatch:
   workflow_call:
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
