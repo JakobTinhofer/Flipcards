@@ -1,7 +1,8 @@
 import json
 import codecs
 import re
-with codecs.open(globals()["MODULE_FOLDER"] + '/questions.txt', encoding='utf-8') as f:
+mypath = globals()["MODULE_FOLDER"]
+with codecs.open(mypath + '/questions.txt', encoding='utf-8') as f:
     questionText = "\n" + f.read().strip()
 
 qStr = ""
@@ -23,5 +24,5 @@ for ti in range(len(topicList)):
 
 qStr = "[" + (qStr.strip())[:-1] + "]"
 print(qStr) 
-f2 = open("questions.json", "w")
+f2 = open(mypath + "/questions.json", "w")
 f2.write(qStr)
