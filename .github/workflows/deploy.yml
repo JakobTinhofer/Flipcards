@@ -17,4 +17,5 @@ jobs:
   call-build:
     uses: ./.github/workflows/run-build.yml
   call-publish:
+    needs: call-build
     uses: ./.github/workflows/publish-pages.yml
