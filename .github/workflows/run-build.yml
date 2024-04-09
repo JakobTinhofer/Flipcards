@@ -4,9 +4,7 @@ on:
   workflow_dispatch:
   workflow_call:
 
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
 
 jobs:
   build:
@@ -25,3 +23,6 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run script
         run: python build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
