@@ -4,10 +4,9 @@ import requests, os, json
 
 NOTION_URL = "https://api.notion.com/v1/"
 NOTION_DB_ID = "183155c647e84e7ca801f15e259f82bd"
-NOTION_TOKEN = os.environ["NOTION_TOKEN"]
+NOTION_TOKEN = os.environ.get("NOTION_TOKEN", input("Please enter Notion token: "))
 
 print("TOKEN LEN: " + str(len(NOTION_TOKEN)))
-print(os.system("ps"))
 
 MY_PATH = globals().get("MODULE_FOLDER", "missing")
 if MY_PATH != "missing":
