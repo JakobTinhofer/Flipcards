@@ -51,18 +51,29 @@
     
     
     <script>
+        var groupBy = function(xs, key) {
+        return xs.reduce(function(rv, x) {
+            (rv[x[key]] = rv[x[key]] || []).push(x);
+            return rv;
+        }, {});
+        };
+
+
         MathJax = {
             tex: {
                 inlineMath: [['$$', '$$'], ['\\(', '\\)']]
             }
         };
         const QUESTION_URL = "./questions/gdp1b.json";
+
+        
         var questions = [{
             "id": 0,
             "t": "Loading...",
             "q": "Loading...",
             "a": "Loading...",
         }];
+        var selectedQuestions = questions;
 
         var currentQuestion = 0;
         var isFront = true;
@@ -72,18 +83,51 @@
                 .then(response => response.json())
                 .then(data => {
                     questions = data;
+                    updateTopics();
                     showRandomQ();
                 });
         }
 
+        var topics = [{
+            name: "Loading...",
+            count: 1,
+            selected: true,
+        }]
+
+        function updateTopics(){
+            var tObj = groupBy(questions, 't');
+            topics = Object.keys(tObj).map(k => {return {
+                name: k,
+                count: tObj[k].length,
+                selected: true,
+            }});
+            var d = document.getElementById("topic-select");
+            d.innerHTML = "";
+            for(t of topics){
+                d.innerHTML += "<input checked type=\"checkbox\" name=\"" + t.name + "\" value=\"" + t.name + "\"><label for=\"" + t.name + "\">" + t.name + "</label><br>\n"
+            }
+            updateSelected();
+        }
+
+        function updateSelected(){
+            console.log("updating selected...")
+            for(t of topics){
+                var input = document.getElementsByName(t.name)[0];
+                t.selected = input.checked;
+            }
+            topicNames = topics.filter(t => t.selected && t.count > 0).map(t => t.name);
+            selectedQuestions = questions.filter(x => topicNames.includes(x.t));
+            showRandomQ();
+        }
+
         function updateQuestion(id){
             
-            if(id >= questions.length || id < 0){
+            if(id >= selectedQuestions.length || id < 0){
                 alert("Question " + id + " not found");
                 return;
             }
             currentQuestion = id;
-            let question = questions[id];
+            let question = selectedQuestions[id];
             console.log(question);
             isFront = true;
             updateSide();
@@ -92,12 +136,12 @@
             document.getElementById("question").innerText = question.q;
             document.getElementById("answer").innerText = question.a;
             document.getElementById("wrong").innerText = question.nrOfWrongAnswers == undefined ? "" : "(Wrong " + question.nrOfWrongAnswers + " times)";
-            document.getElementById("remaining").innerText = "Remaining: " + questions.length;
+            document.getElementById("remaining").innerText = "Remaining: " + selectedQuestions.length;
             MathJax.typeset();
         }
         
         function showRandomQ() {
-            updateQuestion(Math.floor(Math.random() * questions.length));
+            updateQuestion(Math.floor(Math.random() * selectedQuestions.length));
         }
 
         function updateSide(){
@@ -115,19 +159,20 @@
             while(questions.indexOf(obj) > -1){
                 questions.splice(questions.indexOf(obj), 1);
             }
+            updateSelected();
         }
 
         function questionResult(isCorrect){
             if(isCorrect){
                 console.log("Correct");
-                removeAll(questions[currentQuestion]);
+                removeAll(selectedQuestions[currentQuestion]);
             }else{
                 console.log("Wrong");
-                if(questions[currentQuestion].nrOfWrongAnswers == undefined){
-                    questions[currentQuestion].nrOfWrongAnswers = 0;
+                if(selectedQuestions[currentQuestion].nrOfWrongAnswers == undefined){
+                    selectedQuestions[currentQuestion].nrOfWrongAnswers = 0;
                 }
-                questions[currentQuestion].nrOfWrongAnswers += 1;
-                questions.push(questions[currentQuestion])
+                selectedQuestions[currentQuestion].nrOfWrongAnswers += 1;
+                selectedQuestions.push(selectedQuestions[currentQuestion])
                 
             }
             showRandomQ();
@@ -167,5 +212,9 @@
         
     </div>
     <p id="remaining"></p>
+    <div id="topic-select">
+        <h2>Select Topics</h2>
+    </div>
+    <button onclick="updateSelected()">Update</button>
 </body>
 </html>
