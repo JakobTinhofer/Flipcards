@@ -1,0 +1,9 @@
+{
+    
+    "url": "gdp2a",
+    "build_script": "build_gdp2a.py",
+    "name": "Formeln für Grundlagen der Physik 2a",
+    "questions": [
+
+    ]
+}
