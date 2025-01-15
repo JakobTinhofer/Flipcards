@@ -1,0 +1,9 @@
+{
+    
+    "url": "mm",
+    "build_script": "build_mm2.py",
+    "name": "Formeln für Mathematische Methoden (2. Test)",
+    "questions": [
+
+    ]
+}
