@@ -1,0 +1,9 @@
+{
+    
+    "url": "mm",
+    "build_script": "build_anamech.py",
+    "name": "Formeln für Analytische Mechanik",
+    "questions": [
+
+    ]
+}
