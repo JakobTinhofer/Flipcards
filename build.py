@@ -13,7 +13,10 @@ def clear_public():
         for f in files:
             os.unlink(os.path.join(root, f))
         for d in dirs:
-            shutil.rmtree(os.path.join(root, d))
+            try:
+                shutil.rmtree(os.path.join(root, d))
+            except:
+                print("WARNING: Could not clear pub dir.")
 
 def build_html(question_info, html_base):
     return html_base.replace(r"{q_url}", question_info['url']).replace(r"{page_title}", question_info['name'])

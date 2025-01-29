@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formeln für Analytische Mechanik</title>
+    <style>
+        body{
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+        }
+        #card{
+            max-width: 80%;
+            margin: 0px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #a1a1a1;
+            border-radius: 15px;
+        }
+        #card-header{
+            background-color: #333;
+            color: white;
+            padding: 10px 40px;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+            font-style: normal;
+            font-size: 25px;
+        }
+        #topic{
+            color: #ff0000;
+        }
+        .card-body{
+            padding: 20px 40px;
+            display: block;
+        }
+        .bottom-button{
+            display: block;
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-align: center;
+            margin: 10px 0px;
+            cursor: pointer;
+        }
+    </style>
+    
+    
+    <script>
+        var groupBy = function(xs, key) {
+        return xs.reduce(function(rv, x) {
+            (rv[x[key]] = rv[x[key]] || []).push(x);
+            return rv;
+        }, {});
+        };
+
+
+        MathJax = {
+            tex: {
+                inlineMath: [['$$', '$$'], ['\\(', '\\)']]
+            }
+        };
+        const QUESTION_URL = "./questions/anamech.json";
+
+        
+        var questions = [{
+            "id": 0,
+            "t": "Loading...",
+            "q": "Loading...",
+            "a": "Loading...",
+        }];
+        var selectedQuestions = questions;
+
+        var currentQuestion = 0;
+        var isFront = true;
+        
+        function fetchQuestions(){
+            fetch(QUESTION_URL)
+                .then(response => response.json())
+                .then(data => {
+                    questions = data;
+                    updateTopics();
+                    showRandomQ();
+                });
+        }
+
+        var topics = [{
+            name: "Loading...",
+            count: 1,
+            selected: true,
+        }]
+
+        function updateTopics(){
+            var tObj = groupBy(questions, 't');
+            topics = Object.keys(tObj).map(k => {return {
+                name: k,
+                count: tObj[k].length,
+                selected: true,
+            }});
+            var d = document.getElementById("topic-select");
+            d.innerHTML = "";
+            for(t of topics){
+                d.innerHTML += "<input checked type=\"checkbox\" name=\"" + t.name + "\" value=\"" + t.name + "\"><label for=\"" + t.name + "\">" + t.name + "</label><br>\n"
+            }
+            updateSelected();
+        }
+
+        function updateSelected(){
+            console.log("updating selected...")
+            for(t of topics){
+                var input = document.getElementsByName(t.name)[0];
+                t.selected = input.checked;
+            }
+            topicNames = topics.filter(t => t.selected && t.count > 0).map(t => t.name);
+            selectedQuestions = questions.filter(x => topicNames.includes(x.t));
+            showRandomQ();
+        }
+
+        function updateQuestion(id){
+            
+            if(id >= selectedQuestions.length || id < 0){
+                alert("Question " + id + " not found");
+                return;
+            }
+            currentQuestion = id;
+            let question = selectedQuestions[id];
+            console.log(question);
+            isFront = true;
+            updateSide();
+            document.getElementById("topic").innerText = question.t;
+            document.getElementById("q_id").innerText = question.id + 1;
+            document.getElementById("question").innerText = question.q;
+            document.getElementById("answer").innerText = question.a;
+            document.getElementById("wrong").innerText = question.nrOfWrongAnswers == undefined ? "" : "(Wrong " + question.nrOfWrongAnswers + " times)";
+            document.getElementById("remaining").innerText = "Remaining: " + selectedQuestions.length;
+            MathJax.typeset();
+        }
+        
+        function showRandomQ() {
+            updateQuestion(Math.floor(Math.random() * selectedQuestions.length));
+        }
+
+        function updateSide(){
+            console.log("update side");
+            document.getElementById("card-body-front").style.display = isFront ? "block" : "none";
+            document.getElementById("card-body-back").style.display = isFront ? "none" : "block";
+        }
+
+        function flipCard(){
+            isFront = !isFront;
+            updateSide();
+        }
+
+        function removeAll(obj){
+            while(questions.indexOf(obj) > -1){
+                questions.splice(questions.indexOf(obj), 1);
+            }
+            updateSelected();
+        }
+
+        function questionResult(isCorrect){
+            if(isCorrect){
+                console.log("Correct");
+                removeAll(selectedQuestions[currentQuestion]);
+            }else{
+                console.log("Wrong");
+                if(selectedQuestions[currentQuestion].nrOfWrongAnswers == undefined){
+                    selectedQuestions[currentQuestion].nrOfWrongAnswers = 0;
+                }
+                selectedQuestions[currentQuestion].nrOfWrongAnswers += 1;
+                selectedQuestions.push(selectedQuestions[currentQuestion])
+                
+            }
+            showRandomQ();
+        }
+
+        
+        window.addEventListener("load", () => {
+            fetchQuestions();
+            updateQuestion(0);
+            updateSide();
+        })
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+</head>
+<body>
+    <div id="card">
+        <div id="card-header">
+            <p><span id="topic">Loading... </span> Question nr. <span id="q_id"></span> <span id="wrong"></span><p>
+        </div>
+        <div class="card-body" id="card-body-front">
+            <p id="question">
+                Loading...
+            </p>
+            <a class="bottom-button" onclick="flipCard()">Click to Flip</a>
+        </div>
+        <div class="card-body" id="card-body-back">
+            <p id="answer">
+                Loading...
+            </p>
+            <div class="button-row">
+                <a class="bottom-button" onclick="questionResult(true)" onclick>Correct</a>
+                <a class="bottom-button" onclick="questionResult(false)">Wrong</a>
+            </div>
+        </div>
+        
+    </div>
+    <p id="remaining"></p>
+    <div id="topic-select">
+        <h2>Select Topics</h2>
+    </div>
+    <button onclick="updateSelected()">Update</button>
+</body>
+</html>
