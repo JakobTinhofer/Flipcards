@@ -1,0 +1,9 @@
+{
+    
+    "url": "gdp3",
+    "build_script": "build_gdp3.py",
+    "name": "Formeln für Grundlagen der Physik 3",
+    "questions": [
+
+    ]
+}

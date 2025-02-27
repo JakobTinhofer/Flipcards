@@ -72,7 +72,8 @@ for q in configs:
     modules.append(read_config(config_obj, q))
 
 write_html(build_index(modules, html_index), 'index')
-os.mkdir(os.path.join(script_path, './public/questions'))
+if not os.path.exists('./public/questions'):
+    os.mkdir(os.path.join(script_path, './public/questions'))
 for module in modules:
     write_html(module.html_str, module.url)
     write_questions(module.questions_bin, module.url)
