@@ -1,7 +1,8 @@
 import requests, os, json
 
+
 NOTION_URL = "https://api.notion.com/v1/"
-NOTION_DB_ID = "1a15fe273b5e80b6abc7cbc4acfca89c" 
+NOTION_DB_ID = "1e25fe273b5e80ce9678d301dd745070" 
 
 NOTION_TOKEN = os.environ.get("NOTION_TOKEN", input("Please enter Notion token: "))
 
@@ -31,7 +32,7 @@ def parse_entry(eq, parsed, nr):
         "id": nr,
         "q": eq["properties"]["Name"]["title"][0]["text"]["content"],
         "a": parse_mixed_richtext(eq["properties"]["Gleichung"]["rich_text"]),
-        "t": parse_mixed_richtext(eq["properties"]["Topic"]["rich_text"])})
+        "t": (parse_mixed_richtext(eq["properties"]["Topic"]["rich_text"])if "Topic" in eq["properties"] else "Equations") })
     print("Parsed entry: " + str(parsed[-1]))
 
 

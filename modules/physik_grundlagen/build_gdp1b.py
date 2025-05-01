@@ -45,10 +45,11 @@ def parse_mixed_richtext(obj):
             return parse_mixed_richtext(rt["rich_text"])
     return string 
 
-r_eqs = querry_db()
+if len(NOTION_TOKEN.strip()) != 0:
+    r_eqs = querry_db()
 
-parsed_entries = []
-for i, e in enumerate(r_eqs):
-    parse_entry(e, parsed_entries, i)
+    parsed_entries = []
+    for i, e in enumerate(r_eqs):
+        parse_entry(e, parsed_entries, i)
 
-open(MY_PATH + "/questions.json", "w").write(json.dumps(parsed_entries))
+    open(MY_PATH + "/questions.json", "w").write(json.dumps(parsed_entries))

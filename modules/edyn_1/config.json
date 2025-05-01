@@ -1,0 +1,9 @@
+{
+    
+    "url": "edyn1",
+    "build_script": "build_edyn1.py",
+    "name": "Formeln für Elektrodynamik 1",
+    "questions": [
+
+    ]
+}

@@ -3,9 +3,10 @@ import requests, os, json
 NOTION_URL = "https://api.notion.com/v1/"
 NOTION_DB_ID = "1035fe273b5e8089874cee8165099819" 
 
-NOTION_TOKEN = os.environ.get("NOTION_TOKEN", input("Please enter Notion token: "))
+NOTION_TOKEN = os.environ.get("NOTION_TOKEN", input("Please enter Notion token (leave empty to skip): "))
 
 print("TOKEN LEN: " + str(len(NOTION_TOKEN)))
+
 
 MY_PATH = globals().get("MODULE_FOLDER", "missing")
 if MY_PATH != "missing":
@@ -46,10 +47,11 @@ def parse_mixed_richtext(obj):
             return parse_mixed_richtext(rt["rich_text"])
     return string 
 
-r_eqs = querry_db()
+if len(NOTION_TOKEN.strip()) != 0:
+    r_eqs = querry_db()
 
-parsed_entries = []
-for i, e in enumerate(r_eqs):
-    parse_entry(e, parsed_entries, i)
+    parsed_entries = []
+    for i, e in enumerate(r_eqs):
+        parse_entry(e, parsed_entries, i)
 
-open(MY_PATH + "/questions.json", "w").write(json.dumps(parsed_entries))
+    open(MY_PATH + "/questions.json", "w").write(json.dumps(parsed_entries))
