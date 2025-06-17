@@ -27,14 +27,11 @@ def querry_db():
     return eqs
 
 def parse_entry(eq, parsed, nr):
-    topic = parse_mixed_richtext(eq["properties"]["Topic"]["rich_text"])
-    if not topic or topic.trim() == "":
-        topic = "EQUATIONS"
     parsed.append({
         "id": nr,
         "q": eq["properties"]["Name"]["title"][0]["text"]["content"],
         "a": parse_mixed_richtext(eq["properties"]["Gleichung"]["rich_text"]),
-        "t": topic})
+        "t": (parse_mixed_richtext(eq["properties"]["Topic"]["rich_text"])if "Topic" in eq["properties"] else "Equations") })
     print("Parsed entry: " + str(parsed[-1]))
 
 
