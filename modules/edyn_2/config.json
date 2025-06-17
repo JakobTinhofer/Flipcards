@@ -1,0 +1,9 @@
+{
+    
+    "url": "edyn2",
+    "build_script": "build_edyn2.py",
+    "name": "Formeln für Elektrodynamik 2. Test",
+    "questions": [
+
+    ]
+}
